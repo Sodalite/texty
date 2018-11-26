@@ -1,10 +1,10 @@
-## Drobné písničky Lukáše Růžičky
+# Drobné písničky Lukáše Růžičky
 
-### Vlastní texty
+## Vlastní texty
 
 
 
-### Překlady textů
+## Překlady textů
 
 
 [Můry (Jethro Tull)](translated/mury.md)
