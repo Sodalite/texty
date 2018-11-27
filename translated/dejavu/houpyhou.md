@@ -11,7 +11,7 @@ domů bílé ovečky už jdou
 ve snách za mnou táta chodívá     
 a já pak ráno vstávám s pláčem.
 
-Brání slunci hluboký stín     
+Brání slunci temný stín     
 trávu rdousí hořký blín     
 pláč má sílu táhnout mlýn     
 milý můj šel do války. 
