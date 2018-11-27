@@ -29,7 +29,7 @@ milý můj šel do války.
 Ach dítě moje, duše má     
 odešla nám duha barevná,     
 táta tvůj - láska jediná ...    
-a milý můj šel do války. 
+odešel pryč do války. 
 
 Hou, hou, houpy, hou     
 domů bílé ovečky už jdou     
