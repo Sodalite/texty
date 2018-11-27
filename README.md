@@ -9,6 +9,7 @@
 [Africká zem (Paul Simon)](translated/africkazem.md)  
 [Můry (Jethro Tull)](translated/mury.md)  
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
+[Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)
 
 
 
