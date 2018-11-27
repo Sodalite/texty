@@ -1,32 +1,32 @@
 # Katce
 *Kathy's Song (Paul Simon)*
 
-Trochu se stmívá, padá déšť     
-v korunách stromů tiše zní     
-přináší vláhu květinám     
+Trochu se stmívá, padá déšť,     
+v korunách stromů tiše zní,     
+přináší vláhu květinám,     
 zabuší do dveří domovních.  
 
-Já pod střechou se schovávám     
-stíny se táhnou po stěnách     
-dívám se k dálkám zmáčeným     
-tam kde snad bydlíš lásko má.  
+Já pod střechou se schovávám,     
+stíny se táhnou po stěnách,     
+dívám se k dálkám zmáčeným,     
+tam kde snad bydlíš, lásko má.  
 
-Svůj čas trávím ve vzpomínkách         
-tebe si ve snách nechám zdát     
-chci s tebou být, když se probouzíš       
+Svůj čas trávím ve vzpomínkách,         
+tebe si ve snách nechám zdát,     
+chci s tebou být, když se probouzíš,       
 a políbít tě když máš večer spát.
 
-Tu naši píseň jsem nedopsal  
-já vůbec nevím proč ztrácím čas  
-psaním písní jimž sám nevěřím    
+Tu naši píseň jsem nedopsal,  
+já vůbec nevím proč ztrácím čas,  
+psaním písní jimž sám nevěřím,    
 sto slov, sto lží, co klamou nás.
 
-Stojím tu sám a v pochybách     
-já který vždy svou pravdu měl   
-dneska už vím proč jsem zůstal sám       
+Stojím tu sám a v pochybách,     
+já který vždy svou pravdu měl,   
+dneska už vím proč jsem zůstal sám,       
 proč jsem tě víckrát už neviděl.
 
-Tak se dívám po kapkách     
-splétají se v jeden proud       
-to vím, že já jsem jak ten déšť   
+Tak se dívám po kapkách,     
+splétají se v jeden proud,       
+to vím, že já jsem jak ten déšť,   
 kéž bych tě zase jednou směl obejmout.
