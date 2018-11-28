@@ -24,7 +24,7 @@ sto slov, sto lží, co klamou nás.
 Stojím tu sám a v pochybách,     
 já, který sebou vždy tak jistý byl,   
 dneska už vím, proč jsem zůstal sám,       
-a občasný, večerní stesk mi zbyl.
+a protivný, večerní stesk mi zbyl.
 
 Tak se dívám po kapkách,     
 splétají se v jeden proud,       
