@@ -13,8 +13,8 @@ tam, kde snad bydlíš, lásko má.
 
 Svůj čas trávím ve vzpomínkách,         
 tebe si ve snách nechám zdát,     
-chci s tebou být, když se probouzíš,       
-a políbít tě, když máš večer spát.
+v nich s tebou jsem, když se probouzíš,       
+a políbím tě, když máš večer spát.
 
 Tu naši píseň jsem nedopsal,  
 já vůbec nevím proč ztrácím čas,  
