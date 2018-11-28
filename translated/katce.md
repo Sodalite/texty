@@ -6,25 +6,25 @@ v korunách stromů tiše zní,
 přináší vláhu květinám,     
 zabuší do dveří domovních.  
 
-Já pod střechou se schovávám,     
+Já se pod střechou schovávám,     
 stíny se táhnou po stěnách,     
-dívám se k dálkám zmáčeným,     
+hledím k dálkám těm zmáčeným,     
 tam, kde snad bydlíš, lásko má.  
 
 Svůj čas trávím ve vzpomínkách,         
-tebe si ve snách nechám zdát,     
-v nich s tebou jsem, když se probouzíš,       
-a políbím tě, když máš večer spát.
+o tobě pár snů si nechám zdát,     
+v nich s tebou jsem, když usínáš,       
+a líbám tě, když máš ráno vstát.
 
-Tu naši píseň jsem nedopsal,  
+Posílám ti tu píseň nedopsanou   
 já vůbec nevím proč ztrácím čas,  
 psaním písní jimž sám nevěřím,    
 sto slov, sto lží, co klamou nás.
 
-Stojím tu sám a v pochybách,     
-já, který sebou vždy tak jistý byl,   
+Stojím tu sám na pochybách,     
+já, který si vždy jistý byl,   
 dneska už vím, proč jsem zůstal sám,       
-a protivný, večerní stesk mi zbyl.
+a podivný, večerní stesk mi zbyl.
 
 Tak se dívám po kapkách,     
 splétají se v jeden proud,       
