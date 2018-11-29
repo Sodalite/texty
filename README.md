@@ -2,7 +2,7 @@
 
 ## Vlastní texty
 
-
+[Zamilovaný chemik](original/chemik.md)
 
 ## Překlady textů
 
