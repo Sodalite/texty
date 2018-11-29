@@ -9,14 +9,14 @@ zabuší do dveří domovních.
 Já se pod střechou schovávám,     
 stíny se táhnou po stěnách,     
 hledím k dálkám těm zmáčeným,     
-tam, kde snad bydlíš, lásko má.  
+kde bydlíš, lásko dávná.  
 
 Svůj čas trávím ve vzpomínkách,         
 o tobě pár snů si nechám zdát,     
 v nich s tebou jsem, když usínáš,       
 a líbám tě, když máš ráno vstát.
 
-Posílám ti tu píseň nedopsanou   
+Nechávám naši píseň nedopsanou   
 já vůbec nevím proč ztrácím čas,  
 psaním písní jimž sám nevěřím,    
 sto slov, sto lží, co klamou nás.
