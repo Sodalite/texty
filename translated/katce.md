@@ -21,12 +21,12 @@ já vůbec nevím proč ztrácím čas,
 psaním písní jimž sám nevěřím,    
 sto slov, sto lží, co klamou nás.
 
-Stojím tu sám na pochybách,     
+Stojím a ptám se, co dělat mám,     
 já, který si vždy jistý byl,   
 dneska už vím, proč jsem zůstal sám,       
 a podivný, večerní stesk mi zbyl.
 
-Tak se dívám po kapkách,     
-splétají se v jeden proud,       
+Když vidím, jak teď právě mží,     
+kapek pár se splétá v proud,       
 to vím, že já jsem jak ten déšť,   
 kéž bych tě zase jednou směl obejmout.
