@@ -1,14 +1,14 @@
 # Výt na měsíc
 
-If I were maybe a wolf or a dog 
-I wouldn't have to speak Wouldn't have to talk 
-Just eat my dinner and go for a walk 
-And howl at the moon 
+Chci být jen jedenkrát vlkem či psem  
+ať nemusím hrát a mluvit celý den    
+jen sním své jídlo a jdu někam ven  
+chci výt na měsíc.
 
-And if I were laying there just like you 
-All curled up the way dogs do 
-I'd dream that dream that you're dreamin' too 
-And howl at the moon 
+A kéž můžu ulehnout kde sám spíš  
+schoulený, jak psi jen smí,  
+jen snít sen tvůj, který krásně sníš  
+a výt na měsíc. 
 
 Výt na měsíc 
 výt na měsíc 
