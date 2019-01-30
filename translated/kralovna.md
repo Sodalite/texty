@@ -15,7 +15,7 @@ Only first I am asking you why."
 
 Řekl: "Vídám váš palác tu na skále stát
 my bijem se pro vás a tak rád bych chtěl znát  
-jaká jste žena, a pak se na cestu dát
+jaká jste jen žena, a pak se na cestu dát
 prosím vás jenom povězte, proč?"
 
 Down in the long narrow hall he was led
@@ -25,7 +25,7 @@ She asked him there to sit down.
 
 Dlouhou tou chodbou ho nechává jít
 do komnat svých, na stěnách aksamit
-a korunu svou netouží odložit
+a korunu svou tu netouží odložit
 ukáže na místo jen.
 
 He said, "I see you now, and you are so very young
@@ -35,7 +35,7 @@ And now will you tell me why?"
 
 Řekl: "Kráso a mládí, teď mám co jsem chtěl
 prohrál jsem víckrát než vyhrát jsem směl
-a trápí mě jen pocit, že jsem dřív nevěděl
+a trápí mě ten pocit, že jsem dřív nevěděl
 že válkou se bavíte jen.
 
 Well the young queen, she fixed him with an arrogant eye
@@ -75,16 +75,29 @@ And would not look at his face again.
 
 A slunce tam září oblohou šedivou
 ona touží tak moc celičkou duší svou
-jenže lásky se obává, tak   
+jenže lásky se obává, vždyť lásky nám lžou
+a do očí se mu nepodívá.   
 
 And he said, "I want to live as an honest man
 To get all I deserve and to give all I can
 And to love a young woman who I don't understand
 Your highness, your ways are very strange."
+
+On jí řek: "Já chtěl bych žít a mít svoji čest
+dostat co zasloužím a dát co má ???
+a mít rád mladou dívku, co ???
+výsosti, tvé cesty jsou podivné.
+
 But the crown, it had fallen, and she thought she would break
 And she stood there, ashamed of the way her heart ached
 She took him to the doorstep and she asked him to wait
 She would only be a moment inside.
+
+Koruna náhle padá, prý už nemůže dál
+a přiznává, že srdce ji pobolívá
+vezme ho až k dveřím, že prý čekat tam má
+prý chvíli jen sama chce být.
+
 Out in the distance her order was heard
 And the soldier was killed, still waiting for her word
 And while the queen went on strangling in the solitude she preferred
