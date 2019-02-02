@@ -103,3 +103,8 @@ And the soldier was killed, still waiting for her word
 And while the queen went on strangling in the solitude she preferred
 The battle continued on.
 
+Pak náhle v dálce šleh rozkaz jak bič
+tak voják byl zabit, už ho odnášejí pryč
+a královna se zavírá a v zámku otočí klíč
+a bitva běží dál.
+
