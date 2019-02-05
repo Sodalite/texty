@@ -1,26 +1,25 @@
 # Vezmi mě táto ....
 
-Vezmi mě, táto, do Londýna  
+Vezmi mě táto do Londýna  
 teče tam Temže, řeka líná  
 projdeme se spolu aspoň chvíli  
 po Oxford Street a po Picadilly  
 
+Sherlockem můžem být na Baker Street  
+koupíme selfie tyče u Selfriče  
+dáme si polárku třeba v Hyde Parku  
+navštivme koutek mistrů ve Westminstru
+naberem správný směr na Trafalgar Square
+pak do Toweru jsme zvaný na havrany 
+hrozně mě srdce svírá na hře od Shakespeara
+není to žádný trik překročit poledník
 
-Baker Street
-Madam Tussaud
-Hyde Park - Serpentýna
-Tatova galerie
-Nelsonův sloup - Trafalgar Square
-Tower Bridge - Greenwich - observatoř - loď
-a pak na havrany jít do Toweru
-Westminster - opatství
+Vezmi mě táto do Paříže  
+to město přece jen je trochu blíže  
+plán může zůstat skoro stejný  
+projdeme se spolu kolem Seiny.  
 
 
-
-Vezmi mě táto do New Yorku
-
-
-Vezmi mě táto do Paříže
 
 
 Vezmi mě táto do náruče
