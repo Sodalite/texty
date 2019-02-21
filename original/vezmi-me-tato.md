@@ -14,7 +14,6 @@ pak do Toweru jsme zvaný na havrany
 hrozně mě srdce svírá na hře od Shakespeara
 není to žádný trik překročit poledník
 
-
 Vezmi mě táto jen do Vídně
 Sachrův dort posnídáme šestkrát týdně  
 a potom sedmý den si zajdem spolu  
@@ -29,14 +28,19 @@ dějiny se nám smějí u muzeí
 ochutnáváme svět v Café Gloriette  
 a kdosi vdává dceru v Belvedéru.
 
-
-
-
-
 Vezmi mě táto do Bratislavy  
-lodě tam vozí vůni kávy
+dávno jsi slíbil, že se stavíš  
+prý správní chlapi drží sliby  
+být s tebou se mi zkrátka líbí.  
 
-
+Exkurze nám začíná u Martina  
+hudbou to žije u filharmonie  
+svět u nohou nám leží pod Michalskou věží  
+pak vem mě na hrad do barokních zahrad  
+Čas se pak vleče líně na Slavíně  
+v talíři buď můj host, pojd na Nový most  
+gotikou vížka sála v Sadu Janka Kráľa  
+a nakonec se hodí na Děvín jet lodí.
 
 Vezmi mě táto jen do Brna
 
