@@ -29,23 +29,29 @@ ochutnáváme svět v Café Gloriette
 a kdosi vdává dceru v Belvedéru.
 
 Vezmi mě táto do Bratislavy  
-dávno jsi slíbil, že se stavíš  
-prý správní chlapi drží sliby  
-být s tebou se mi zkrátka líbí.  
+říkala máma, že se stavíš  
+za týden, za dva, do měsíce    
+jen co tě propustí z nemocnice.  
 
 Exkurze nám začíná u Martina  
 hudbou to žije u filharmonie  
 svět u nohou nám leží pod Michalskou věží  
 pak vem mě na hrad do barokních zahrad  
 Čas se pak vleče líně na Slavíně  
-v talíři buď můj host, pojd na Nový most  
-gotikou vížka sála v Sadu Janka Kráľa  
-a nakonec se hodí na Děvín jet lodí.
+v talíři buď můj host, pojď na Nový most  
+a věž gotikou sálá v Sadu Janka Kráľa  
+to nakonec se hodí na Děvín jet lodí.
 
-Vezmi mě táto jen do Brna
+Vezmi mě třeba jen po Brně
+půjdeme pomalu a opatrně
 
 
-orloj
+
+Chytit kuličku svoji na orloji  
+pod Jakubem nás kosti děsí dosti
+uteče dlouhá chvíle tam pod krokodýlem
+dáme si do zobáku na Zelňáku.
+
 hvězdárna
 Kraví hora
 zelný trh
@@ -59,14 +65,11 @@ mariánské údolí
 hrad veveří
 lodě
 
-
-
-
-
-
 Vezmi mě táto do náruče
 poslechni jak mi srdce tluče
-vezmí mě táto třeba jen tak
+vezmi mě prosím jak jsi slíbil
+vždyť dobře víš, jak moc mi chybíš.
+
 
 
 
