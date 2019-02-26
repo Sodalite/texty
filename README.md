@@ -2,6 +2,7 @@
 
 ## Vlastní texty
 
+[Výlet s tátou](original/vezmi-me-tato.md)
 [Zamilovaný chemik](original/chemik.md)
 
 ## Překlady textů
