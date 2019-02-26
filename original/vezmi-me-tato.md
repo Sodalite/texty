@@ -44,30 +44,21 @@ to nakonec se hodí na Děvín jet lodí.
 
 Vezmi mě třeba jen po Brně
 půjdeme pomalu a opatrně
+podej mi ruku, já dám ti svoji,
+chytím ti kuličku na orloji.
 
-
-
-Chytit kuličku svoji na orloji  
-pod Jakubem nás kosti děsí dosti
-uteče dlouhá chvíle tam pod krokodýlem
-dáme si do zobáku na Zelňáku.
-
-hvězdárna
-Kraví hora
-zelný trh
-jošt moravský - pohled z dola - pohlaví
-přehrada
-vida centrum
-kostnice
-krokodýl a kolo
-obora holedná
-mariánské údolí
-hrad veveří
-lodě
+V kašně vepsána celá Voda od Skácela    
+pod Jakubem nás kosti děsí dosti  
+uteče dlouhá chvíle tam pod krokodýlem  
+dáme si do zobáku na Zelňáku.  
+Kometu čekám marně na hvězdárně  
+a mamut z kokosu je v Antroposu  
+je fajn, že vzpomněl sis na Ignis Brunensis   
+pojď rychle už se šeří na Veveřím.
 
 Vezmi mě táto do náruče
 poslechni jak mi srdce tluče
-vezmi mě prosím jak jsi slíbil
+přijď za mnou prosím jak jsi slíbil
 vždyť dobře víš, jak moc mi chybíš.
 
 
