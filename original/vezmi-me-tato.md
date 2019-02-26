@@ -47,7 +47,7 @@ půjdeme pomalu a opatrně
 podej mi ruku, já dám ti svoji,  
 chytím ti kuličku na orloji.
 
-V kašně vepsána celá Voda od Skácela    
+V kašně je celá Voda od Skácela    
 pod Jakubem nás kosti děsí dosti  
 uteče dlouhá chvíle tam pod krokodýlem  
 dáme si do zobáku na Zelňáku.  
