@@ -21,7 +21,7 @@ do Prátru svézt se na ruském kolu.
 
 Zdáme se malí tam u katedrály  
 flašinety nám hrají při Dunaji  
-a centrem po staru jedem v kočáru   
+a centrem po staru jedeme v kočáru   
 obrazů plné síně v Albertině.  
 A Mozart který láká do opery  
 dějiny se nám smějí u muzeí  
@@ -54,7 +54,7 @@ dáme si do zobáku na Zelňáku.
 Kometu čekám marně na hvězdárně  
 a mamut z kokosu je v Antroposu  
 je fajn, že vzpomněl sis na Ignis Brunensis   
-pojď rychle už se šeří na Veveřím.
+pojď rychle už se šeří nad Veveřím.
 
 Vezmi mě táto do náruče  
 poslechni jak mi srdce tluče  
