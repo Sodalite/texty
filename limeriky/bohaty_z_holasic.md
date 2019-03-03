@@ -1,0 +1,7 @@
+# Bohatý z Holasic
+
+Byl jeden bohatý z Holasic  
+měl toho dost a chtěl ještě víc  
+a tak v touze po majetku
+vzal si flintu na tetku  
+ale dřív ho potkal strýc.
