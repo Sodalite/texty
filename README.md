@@ -1,4 +1,4 @@
-# Drobné písničky Lukáše Růžičky
+# Písničky a básničky Lukáše Růžičky
 
 ## Vlastní texty
 
@@ -15,5 +15,5 @@
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
 [Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)
 
-
+## Limeriky
 
