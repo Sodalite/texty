@@ -5,17 +5,18 @@ Proč jen máš mít z moře strach,
 Na hlubinu se nesmíš hnout,  
 nech si jen nohy obejmout.  
 
-Dál se nechej vodou nést,  
-jak lodě ze přístavních měst.  
-Neboj, najdi v duši klid,  
+Nech se dál pak vodou nést,  
+jak lodě ze přístavních měst,  
+a neboj se, měj v duši klid,  
 moře ti nechce ublížit.  
 
-I když zrádné může být
-umí také pohladit.  
-Jenže to poznáš teprve,  
-až obejme tě poprvé.  
+I když zrádné může být,  
+tak umí také pohladit,  
+jenže to poznáš teprve,  
+až tě obejme poprvé.  
 
-Víš, to není to věc náhodná,  
-že láska je moři podobná,  
-čekám, kdy jen to pochopíš  
+Je to vážně náhodou,  
+že s láskou je to jak s vodou,  
+a věřím, ty to pochopíš,  
+až do lásky se ponoříš.
   
