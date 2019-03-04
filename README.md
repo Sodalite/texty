@@ -16,4 +16,4 @@
 [Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)
 
 ## Limeriky
-[Bohatý z Holasic](limeriky/bohaty_z_holasic.md)
+[Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)
