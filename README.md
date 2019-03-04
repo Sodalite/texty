@@ -3,6 +3,7 @@
 ## Vlastní texty
 
 [Černobíle](original/cernobile.md)  
+[Moře](original/more.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
 [Zamilovaný chemik](original/chemik.md)
 
