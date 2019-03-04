@@ -1,7 +1,9 @@
-# Drobné písničky Lukáše Růžičky
+# Písničky a básničky Lukáše Růžičky
 
 ## Vlastní texty
 
+[Černobíle](original/cernobile.md)  
+[Vezmi mě, táto](original/vezmi-me-tato.md)  
 [Zamilovaný chemik](original/chemik.md)
 
 ## Překlady textů
@@ -13,5 +15,5 @@
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
 [Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)
 
-
-
+## Limeriky
+[Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)
