@@ -1,31 +1,16 @@
-The soldier came knocking upon the queen's door  
-He said, "I am not fighting for you any more"
-The queen knew she'd seen his face someplace before  
-And slowly she let him inside.
+Teď voják sám vchází na královnin práh  
+praví: "Válku já vzdávám a rád bych vám plách"  
+a královně zdá se, že jej potkala v snách  
+a tak volně jej nechá vejít.
 
-Voják teď vchází na královnin práh  
-říká: "Končím s tou válkou a rád bych vám plách"  
-a královně zdá se, že tu tvář vídá v snách
-tak volně ho nechá vejít.
+Říká: "Vídám váš palác tu na skále stát
+když vraždíme pro vás a tak chtěl bych jen znát  
+proč jen válka vás láká, a pak se na cestu dát,
+prosím vás, snad mi povíte, proč?"
 
-He said, "I've watched your palace up here on the hill
-And I've wondered who's the woman for whom we all kill
-But I am leaving tomorrow and you can do what you will
-Only first I am asking you why."
-
-Řekl: "Vídám váš palác tu na skále stát
-my bijem se pro vás a tak rád bych chtěl znát  
-jaká jste jen žena, a pak se na cestu dát
-prosím vás jenom povězte, proč?"
-
-Down in the long narrow hall he was led
-Into her rooms with her tapestries red
-And she never once took the crown from her head
-She asked him there to sit down.
-
-Dlouhou tou chodbou ho nechává jít
-do komnat svých, na stěnách aksamit
-a korunu svou tu netouží odložit
+Vzápětí kráčejí přes celý sál,
+otáčí klíčem a pozve jej dál,  
+a chvíli se zdá, jakby čas věčně stál,  
 ukáže na místo jen.
 
 He said, "I see you now, and you are so very young
