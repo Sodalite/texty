@@ -2,7 +2,7 @@
 
 Chci být jen jedenkrát vlkem či psem  
 ať nemusím hrát a mluvit celý den    
-jen sním své jídlo a jdu někam ven  
+jen sníst své jídlo a jít někam ven  
 chci výt na měsíc.
 
 A kéž můžu ulehnout kde sám spíš  
@@ -13,24 +13,24 @@ a výt na měsíc.
 Výt na měsíc 
 výt na měsíc 
 
-And if I could carry your black and white 
-Sleep so sound wake so nice 
-I'd keep real close to my own advice 
-And howl at the moon 
+Taky mít tak tvůj černobílý šat  
+tvrdě spát a šťastný vstát  
+a dál si za svojí pravdou stát  
+a výt na měsíc.
 
-Oh, you know something I don't know 
-You go places I can't go 
-You lift your head when the breezes blow 
-To voices older than time 
+Já vím, že neznám, co ty znáš  
+ta místa, která prozkoumáš  
+svým čumákem vítr přivítáš  
+s tou písní starší než čas.
 
-I'll keep you close Oh, I like you near 
-I'll touch your head and pull your ear 
-And watch you resting while I sit here 
-And howl at the moon 
+Já blízko chci tě mít, to sám víš  
+a hladím tvou srst, je jako plyš  
+a dívám se jak tak krásně spíš  
+chci výt na měsíc.
 
-Howl at the moon 
-Howl at the moon 
-Howl at the moon 
+Výt na měsíc 
+výt na měsíc 
+výt na měsíc 
 
-I'll watch you resting while I sit here 
-And howl at the moon
+A dívám se jak tak krásně spíš  
+chci výt na měsíc.
