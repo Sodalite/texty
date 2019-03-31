@@ -32,6 +32,14 @@ bolesti a šmouhy,
 vezmeš si s sebou  
 a já -- zas jsem čistá.
 
+Když se jen skloním nad tvou hladinou  
+vidím čas chvátat  
+už nejsem sama, jsem už s rodinou  
+má mě kdo chápat.  
+A přesto chodím k tobě stále dál  
+ačkoliv se mi děti smějí  
+ty víš, že smáli se mi tolikrát
+chci s tebou vzpomínat.
 
 ta vzpomínka už dávno nebolí  
 že jsem tu stála  
