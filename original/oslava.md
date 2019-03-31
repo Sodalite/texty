@@ -13,26 +13,28 @@ Vím moje řeko, že mi rozumíš
 že posloucháš, tím jsem si jistá  
 a všechny moje smutky,  
 strasti a zlé skutky,  
-vezmeš si s sebou  
-a já -- zas jsem čistá.
+vezmeš s sebou  
+a já -- já jsem zas čistá.
 
-Proudem mi vlasy lehce pohladíš  
+Důvěru mou, tu nikdy nezradíš  
 má stará známá  
-
+proudem mi vlasy lehce pohladíš  
 jsi jako máma  
-
-ta vzpomínka už dávno nebolí  
-že jsem tu stála  
-
+tvá tichá píseň ta mě konejší  
+a na vlnách mě kolébá  
+a když mě žádný nemá zrovna rád
+můžu ti povídat.
 
 Vím moje řeko, že mi rozumíš  
 že posloucháš, tím jsem si jistá  
-a všechny moje smutky,  
-strasti a zlé skutky,  
+a všechny moje touhy,  
+bolesti a šmouhy,  
 vezmeš si s sebou  
 a já -- zas jsem čistá.
 
 
+ta vzpomínka už dávno nebolí  
+že jsem tu stála  
 
 
 
