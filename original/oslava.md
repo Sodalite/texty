@@ -14,7 +14,7 @@ Vím moje řeko, že mi rozumíš
 a všechny moje smutky,  
 strasti a zlé skutky,  
 vezmeš s sebou  
-a já -- já jsem zas čistá.
+a já -- jsem zas čistá.
 
 Důvěru mou, tu nikdy nezradíš  
 má stará známá  
@@ -29,8 +29,8 @@ Vím moje řeko, že mi rozumíš
 že posloucháš, tím jsem si jistá  
 a všechny moje touhy,  
 bolesti a šmouhy,  
-vezmeš si s sebou  
-a já -- zas jsem čistá.
+vezmeš s sebou  
+a já -- jsem zas čistá.
 
 Když se jen skloním nad tvou hladinou  
 vidím čas chvátat  
@@ -41,8 +41,21 @@ ačkoliv se mi děti smějí
 ty víš, že smáli se mi tolikrát
 chci s tebou vzpomínat.
 
-ta vzpomínka už dávno nebolí  
+Vím moje řeko, že mi rozumíš  
+že posloucháš, tím jsem si jistá  
+a všechny moje splíny,  
+přehmaty a stíny,  
+vezmeš s sebou  
+a já -- zas jsem čistá.
+
+Přichází náhle časy podzimní  
+v listí se skrýváš  
+kolik tak týdnů nebo kolik dní  
+do zimy zbývá
+
+život tě zkrátka někdy zabolí  
 že jsem tu stála  
+
 
 
 
