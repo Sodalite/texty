@@ -1,4 +1,4 @@
-# Oslava
+# Moje říčka
 
 Táhne se modrá stužka v údolí  
 je jako šála  
