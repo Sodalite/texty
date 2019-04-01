@@ -38,7 +38,7 @@ už nejsem sama, jsem už s rodinou
 má mě kdo chápat.  
 A přesto chodím k tobě stále dál  
 ačkoliv se mi děti smějí  
-ty víš, že smáli se mi tolikrát
+víš, lidé smáli se mi tolikrát
 chci s tebou vzpomínat.
 
 Vím moje řeko, že mi rozumíš  
@@ -46,15 +46,16 @@ Vím moje řeko, že mi rozumíš
 a všechny moje splíny,  
 přehmaty a stíny,  
 vezmeš s sebou  
-a já -- zas jsem čistá.
+a já -- jsem zas čistá.
 
 Přichází náhle časy podzimní  
 v listí se skrýváš  
 kolik tak týdnů nebo kolik dní  
 do zimy zbývá
-
-život tě zkrátka někdy zabolí  
-že jsem tu stála  
+a zatímco ty končíš v přehradách  
+my lidé zavíráme víčka.  
+Ještě než dohoří nám svíčka  
+jsi moje říčka.
 
 
 
