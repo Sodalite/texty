@@ -22,11 +22,11 @@ proudem mi vlasy lehce pohladíš
 jsi jako máma  
 tvá tichá píseň ta mě konejší  
 a na vlnách mě kolébá  
-a když mě žádný nemá zrovna rád
+a když mě žádný nemá zrovna rád  
 můžu ti povídat.
 
 Vím moje řeko, že mi rozumíš  
-že posloucháš, tím jsem si jistá  
+že posloucháš, tím jsem si jistá   
 a všechny moje touhy,  
 bolesti a šmouhy,  
 vezmeš s sebou  
@@ -38,7 +38,7 @@ už nejsem sama, jsem už s rodinou
 má mě kdo chápat.  
 A přesto chodím k tobě stále dál  
 ačkoliv se mi děti smějí  
-víš, lidé smáli se mi tolikrát
+víš, lidé smáli se mi tolikrát  
 chci s tebou vzpomínat.
 
 Vím moje řeko, že mi rozumíš  
@@ -51,8 +51,8 @@ a já -- jsem zas čistá.
 Přichází náhle časy podzimní  
 v listí se skrýváš  
 kolik tak týdnů nebo kolik dní  
-do zimy zbývá
-a zatímco ty končíš v přehradách  
+do zimy zbývá.  
+A zatímco ty končíš v přehradách  
 my lidé zavíráme víčka.  
 Ještě než dohoří nám svíčka  
 jsi moje říčka.
