@@ -10,7 +10,7 @@ schoulený, jak psi jen smí,
 jen snít sen tvůj, který krásně sníš  
 a výt na měsíc. 
 
-Výt na měsíc 
+Výt na měsíc  
 výt na měsíc 
 
 Taky mít tak tvůj černobílý šat  
@@ -28,9 +28,9 @@ a hladím tvou srst, je jako plyš
 a dívám se jak tak krásně spíš  
 chci výt na měsíc.
 
-Výt na měsíc 
-výt na měsíc 
-výt na měsíc 
+Výt na měsíc  
+výt na měsíc  
+výt na měsíc  
 
 A dívám se jak tak krásně spíš  
 chci výt na měsíc.
