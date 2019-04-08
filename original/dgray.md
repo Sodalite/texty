@@ -52,6 +52,6 @@ nůž se mihne vzduchem
 a do srdce jej bodneš.
 
 Z rámu se dívá krásná tvář  
-a tobě krása z obličeje mizí  
+a tobě krása z obličeje zmizí  
 kde kdysi byla žhavá zář  
 tam leží mrtev kdosi cizí.
