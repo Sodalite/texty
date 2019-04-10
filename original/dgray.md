@@ -1,4 +1,4 @@
-# Obraz Doriana Graye
+# Příběh pana Šedého
 
 Jednou velký malíř  
 ze samého nebe  
