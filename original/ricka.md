@@ -10,11 +10,11 @@ a když mě někdy trochu trápí svět
 můžu ti vyprávět.
 
 Vím moje řeko, že mi rozumíš  
-že posloucháš, tím jsem si jistá  
+že posloucháš, tím jsem si jistý  
 a všechny moje smutky,  
 strasti a zlé skutky,  
 vezmeš s sebou  
-a já -- jsem zas čistá.
+a já -- jsem zas čistý.
 
 Důvěru mou, tu nikdy nezradíš  
 má stará známá  
@@ -22,19 +22,19 @@ proudem mi vlasy lehce pohladíš
 jsi jako máma  
 tvá tichá píseň ta mě konejší  
 a na vlnách mě kolébá  
-a když mě žádný nemá zrovna rád  
+a když se s žádnou nemám zrovna rád  
 můžu ti povídat.
 
 Vím moje řeko, že mi rozumíš  
-že posloucháš, tím jsem si jistá   
+že posloucháš, tím jsem si jistý   
 a všechny moje touhy,  
 bolesti a šmouhy,  
 vezmeš s sebou  
-a já -- jsem zas čistá.
+a já -- jsem zas čistý.
 
 Když se jen skloním nad tvou hladinou  
 vidím čas chvátat  
-už nejsem sama, jsem už s rodinou  
+už nejsem sám, teď už jsem s rodinou  
 má mě kdo chápat.  
 A přesto chodím k tobě stále dál  
 ačkoliv se mi děti smějí  
@@ -42,11 +42,11 @@ víš, lidé smáli se mi tolikrát
 chci s tebou vzpomínat.
 
 Vím moje řeko, že mi rozumíš  
-že posloucháš, tím jsem si jistá  
+že posloucháš, tím jsem si jistý  
 a všechny moje splíny,  
 přehmaty a stíny,  
 vezmeš s sebou  
-a já -- jsem zas čistá.
+a já -- jsem zas čistý.
 
 Přichází náhle časy podzimní  
 v listí se skrýváš  
