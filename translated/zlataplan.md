@@ -17,7 +17,7 @@ půjdem zlatou plání v dál.
 Jižní vítr zněl, jak jen láska zní  
 a v polích máky zrály.  
 Cítíš ji se třást, když ji políbíš   
-ležíte v zlaté pláni v dál.
+ležíte v zlaté pláni dál.
 
 Já nechtěl nic najisto slíbit   
 už párkrát jsem slovo své zradil   
@@ -35,5 +35,3 @@ Slunce poznáváš v nebi žárlivém
 a jdem zlatou plání v dál,   
 a jdem zlatou plání v dál,  
 spolu zlatou plání v dál.
-
-
