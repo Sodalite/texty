@@ -15,9 +15,9 @@ Oh, oh, oh, kejklíři.
 Tak končí se den a slunce jde spát,     
 odcházíš a my chcem se ptát, kam kráčíš?     
 Blázni jdou, kam se anděl bojí jít,     
-tou cestou svou, má rovná být, spíš se stáčí.
+tou cestou svou, má rovná být, a spíš se stáčí.
 Zahodíš, kůži svou jako had     
-chvíli se opozdíš, a hned ti stojí za zády kat.     
+a jsi tu jen o krok dřív a na záda ti dýchá vlastní kat.     
 Kejklíři, máš hebký slavičí hlas,    
 k výškám zve ptáky měsíční jas.     
 Oh, oh, oh, kejklíři.
@@ -27,7 +27,7 @@ davům prodáváš hřích, jsi jen páv pestrý
 čeká tě Sodoma, Gomora     
 tak nač jen si lhát, když nechce se stát žádný mužem tvé sestry      
 příteli svatých, příteli všech prodejných žen,     
-pohlédni do plamenů, tam kvílí boháč co nemůže ven.     
+pohleď do plamenů, tam kvílí boháč co nemůže ven.     
 Kejklíři, máš hebký slavičí hlas,    
 k výškám zve ptáky měsíční jas.     
 Oh, oh, oh, kejklíři.
@@ -47,7 +47,7 @@ též farář by je chtěl, kdo příjde dřív, to se neví,
 Štíty a vodní děla, slzák, pouta,     
 molotov, šutrák a nůž se za rohem zjeví,     
 úplatní soudci chcípou náhle v osidlech svých,     
-a najednou je noc blíž, snáší se na perutích     
+a ta noc je rázem blíž, snáší se na perutích     
 Kejklíři, máš hebký slavičí hlas,    
 k výškám zve ptáky měsíční jas.     
 Oh, oh, oh, kejklíři.
@@ -57,7 +57,7 @@ nám žena krále porodí teď a rudé roucho mu dává
 a on už ví jak na kněze, taky dá ocel kout  
 může sirotkům šanci nabídnout  
 a vzít je tam kde láska se dává   
-jó, kejklíří, co mít chce, to víš    
+jó, kejklíři, co mít chce, to víš    
 jó, kejklíři, víckrát už neodpovíš.  
 Kejklíři, máš hebký slavičí hlas,  
 k výškám zve ptáky měsíční jas.   
