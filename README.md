@@ -17,7 +17,8 @@
 [Odešla duha (Peter, Paul, and Mary)](translated/dejavu/houpyhou.md)  
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
 [Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)  
-[Výt na Měsíc (Cheryl Wheeler)](translated/vytnamesic.md)
+[Výt na Měsíc (Cheryl Wheeler)](translated/vytnamesic.md)  
+[Zlatá pláň (Sting)](translated/zlataplan.md)
 
 ## Limeriky
 [Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)
