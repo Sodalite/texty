@@ -15,8 +15,8 @@ slunce nevnímej v nebi žárlivém
 půjdem zlatou plání v dál.  
 
 Jižní vítr zněl, jak jen láska zní  
-a v polích máky zrály.  
-Cítíš ji se třást, když ji políbíš   
+a v polích máky zrály,  
+tělo napíná, když ji políbíš   
 ležíte v zlaté pláni dál.
 
 Já nechtěl nic najisto slíbit   
