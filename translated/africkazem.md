@@ -3,7 +3,7 @@
 *Under African Skies (Paul Simon)*
 
 Josef kráčel dál a noční stín mu zakryl tvář     
-jen ve svých očích míval stříbrný lem.     
+jen ve svých očích míval stříbrnou zář.     
 Šel dlouhou pouť     
 a jižní kříž ho tou cestou provázel,     
 Když zkoušel sám     
@@ -30,7 +30,7 @@ Hledáme původ rytmů
 co celé ty věky zní v nás.
 
 Josef kráčel dál a noční stín mu zakryl tvář     
-jen ve svých očích míval stříbrný lem.     
+jen ve svých očích míval stříbrnou zář.     
 Šel dlouhou pouť     
 a jižní kříž ho tou cestou provázel,     
 Když zkoušel sám     
