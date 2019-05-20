@@ -1,6 +1,6 @@
 # Prašivej pes
 
-Jde dál samotná loudavým krokem travou  
+Dáli jde samotná loudavým krokem travou  
 a zář sluneční kreslí do vlasů rez.  
 Já dal bez ptaní všechnu svou lásku pravou  
 a zůstal jsem sám jako prašivej pes.  
@@ -11,7 +11,7 @@ když holka chce tě svést, tak had se objeví.
 Tu holku měl jsem rád a chtěl být jenom s ní  
 tak jak prašivej pes se raděj odklidím.  
 
-Jde dál samotná loudavým krokem travou  
+Dál jde samotná loudavým krokem travou  
 a zář sluneční kreslí do vlasů rez.  
 Já dal bez ptaní všechnu svou lásku pravou  
 a zůstal jsem sám jako prašivej pes.  
@@ -22,7 +22,7 @@ a pojď si povídat o lidech, které znáš
 já měl těch holek pár, co nechaly mě stát  
 a teď už chci mít pokoj, a sám chci usínat.   
 
-Jde dál samotná loudavým krokem travou  
+Dál jde samotná loudavým krokem travou  
 a zář sluneční kreslí do vlasů rez.  
 Já dal bez ptaní všechnu svou lásku pravou  
 a zůstal jsem sám jako prašivej pes.  
