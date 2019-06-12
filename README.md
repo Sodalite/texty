@@ -22,5 +22,5 @@
 [Zlatá pláň (Sting)](translated/zlataplan.md)
 
 ## Limeriky
-[Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)
-[Dívka z Tvrdonic](limeriky/divka_z_tvrdonice.md)
+[Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)  
+[Dívka z Tvrdonic](limeriky/divka_z_tvrdonic.md)
