@@ -1,21 +1,23 @@
+# Konkurz
+
 Napadlo mě tak nakonec roku,  
-že bych se mohl věnovat rocku. 
+že bych se mohl věnovat rocku.   
 Rád bych si zahrál k poslechu, tanci  
 gotiku, třeba, či renesanci.  
 
 Mrknul jsem kolem, kdo to tak hrává,  
-která že grupa bude ta pravá.
-Nesmí to býti žabaři žádní,
+která že grupa bude ta pravá.  
+Nesmí to býti žabaři žádní,  
 nejlepší zdá se ten bigbít hradní.
 
-Šel jsem na konkurz, ztratil den celý,
-kapelník hlavu (jak) tuřanské zelí.
-Vytáh' jsem nástroj, prohrábl struny, 
+Šel jsem na konkurz, ztratil den celý,  
+kapelník hlavu (jak) tuřanské zelí.  
+Vytáh' jsem nástroj, prohrábl struny,   
 a on mi dává pokynů tuny.
 
-Kdo chce s námi zpívat, kdo chce s námi hrát
-ten se musí dívat na můj prstoklad
-invenci si nežádám, vše vím nejlíp sám
+Kdo chce s námi zpívat, kdo chce s námi hrát  
+ten se musí dívat na můj prstoklad  
+invenci si nežádám, vše vím nejlíp sám  
 a komu se to nezdá, tomu sbohem dám. 
 
 Prý že tam hrají obtížné rytmy  
@@ -25,7 +27,7 @@ a kdo to nezná, ten pije sodu.
 
 On prý je schopný hrát i na rohy  
 někomu hrozně smrděly nohy  
-prý kajtru držím jak prase kosti
+prý kajtru držím jak prase kosti  
 snad nejsem dobrý pro něho dosti. 
 
 Kdo chce s nima zpívat, kdo chce s nima hrát  
@@ -35,7 +37,7 @@ kdo chce do kapely Canti Clitoris.
 
 Prý se k nim hráči po stovkách derou  
 nakonec praví, tak že mě berou  
-dívá se na mě jak vlk na krůtu
+dívá se na mě jak vlk na krůtu  
 a prý mám krátkou na nácvik lhůtu.
 
 Poctivě cvičím, dá se říct denně  
