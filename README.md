@@ -3,6 +3,7 @@
 ## Vlastní texty
 
 [Černobíle](original/cernobile.md)  
+[Konkurz](original/konkurz.md)  
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
