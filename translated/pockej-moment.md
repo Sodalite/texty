@@ -1,7 +1,7 @@
 # Počkej moment
 
 Počkej moment,  
-chceš mi říct že zítra ráno znova odjíždíš?  
+chceš mi právě říct že zítra ráno odjíždíš?  
 Zkus to změnit,  
 bez tvé lásky prázdný náš dům se mi zdá.
 
@@ -11,7 +11,7 @@ Co z toho mám,
 písně pro ni hrát a slyšet znít.
 
 Počkej moment,  
-chceš mi říct že zítra ráno znova odjíždíš?  
+chceš mi právě říct že zítra ráno odjíždíš?  
 Zkus to změnit,  
 bez tvé lásky prázdný náš dům se mi zdá.
 
@@ -21,7 +21,7 @@ Ona jde blíž,
 tichou krásnou nocí slyšíš znít, zase znít.
 
 Počkej moment,  
-chceš mi říct že zítra ráno znova odjíždíš?  
+chceš mi právě říct že zítra ráno odjíždíš?  
 Zkus to změnit,  
 bez tvé lásky prázdný náš dům se mi zdá.
 
@@ -31,6 +31,11 @@ Sama vstává,
 dvacet pět vám zbývá, chceš s ní být a slyšet znít.
 
 Počkej moment,  
-chceš mi říct že zítra ráno znova odjíždíš?  
+chceš mi právě říct že zítra ráno odjíždíš?  
+Zkus to změnit,  
+bez tvé lásky prázdný náš dům se mi zdá.
+
+Počkej moment,  
+chceš mi právě říct že zítra ráno odjíždíš?  
 Zkus to změnit,  
 bez tvé lásky prázdný náš dům se mi zdá.

@@ -17,6 +17,7 @@
 [Můry (Jethro Tull)](translated/mury.md)  
 [Odešla duha (Peter, Paul, and Mary)](translated/dejavu/houpyhou.md)  
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
+[Počkej moment (Herb Pedersen)](translated/pockej-moment.md)  
 [Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)  
 [Výt na Měsíc (Cheryl Wheeler)](translated/vytnamesic.md)  
 [Zlatá pláň (Sting)](translated/zlataplan.md)
