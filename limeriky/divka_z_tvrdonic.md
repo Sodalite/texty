@@ -4,4 +4,4 @@ Včerejšek jsem trávil s dívkou z Tvrdonic,
 napřed jsem byl tvrdý, potom nic.  
 Ona se mi smála,  
 mou odvahu vzala.  
-Teď zbývá mi jenom bych se pic'.
+Teď zbývá mi jen bych se pic'.
