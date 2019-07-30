@@ -27,3 +27,4 @@
 [Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)  
 [Dívka z Tvrdonic](limeriky/divka_z_tvrdonic.md)  
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
+[Opilec](limeriky/opilec.md)  
