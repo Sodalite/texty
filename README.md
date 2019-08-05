@@ -7,6 +7,7 @@
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
+[Rovnátka](original/rovnatka.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
 [Zamilovaný chemik](original/chemik.md)
 
