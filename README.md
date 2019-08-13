@@ -15,6 +15,7 @@
 
 [Africká zem (Paul Simon)](translated/africkazem.md)  
 [Katce (Paul Simon)](translated/katce.md)  
+[Kejklíř (Bob Dylan)](translated/kejklir.md)  
 [Můry (Jethro Tull)](translated/mury.md)  
 [Odešla duha (Peter, Paul, and Mary)](translated/dejavu/houpyhou.md)  
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
