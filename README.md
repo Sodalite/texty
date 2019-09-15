@@ -30,3 +30,4 @@
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Opilec](limeriky/opilec.md)  
+[Úkoly muže](limeriky/ukoly-muze.md)  
