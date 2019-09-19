@@ -48,6 +48,6 @@ prý už si dávno jiného našli.
 Bude s nima zpívat, bude s nima hrát    
 dostane se krásně na jakýkoliv hrad.  
 To se pozná páteř pevná jako tis  
-příště už se navždy vyhnu Canti Clitoris.
+příště už se vyhnu Canti Clitoris.
 
 
