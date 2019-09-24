@@ -10,13 +10,15 @@
 [Příběh pana Šedého](original/dgray.md)  
 [Rovnátka](original/rovnatka.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
-[Zamilovaný chemik](original/chemik.md)
+[Zamilovaný chemik](original/chemik.md)  
+[Žába na prameni](original/zaba.md)  
 
 ## Překlady textů
 
 [Africká zem (Paul Simon)](translated/africkazem.md)  
 [Katce (Paul Simon)](translated/katce.md)  
 [Kejklíř (Bob Dylan)](translated/kejklir.md)  
+[Mávej mi (Rolling Stones)](translated/ruby_tuesday.md)  
 [Můry (Jethro Tull)](translated/mury.md)  
 [Odešla duha (Peter, Paul, and Mary)](translated/dejavu/houpyhou.md)  
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
