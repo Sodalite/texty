@@ -4,6 +4,7 @@
 
 [Černobíle](original/cernobile.md)  
 [Konkurz](original/konkurz.md)  
+[Liška a vrána](original/liska-vrana.md)  
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
