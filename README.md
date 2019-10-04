@@ -4,12 +4,14 @@
 
 [Černobíle](original/cernobile.md)  
 [Konkurz](original/konkurz.md)  
+[Liška a vrána](original/liska-vrana.md)  
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
 [Rovnátka](original/rovnatka.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
-[Zamilovaný chemik](original/chemik.md)
+[Zamilovaný chemik](original/chemik.md)  
+[Žába na prameni](original/zaba.md)  
 
 ## Překlady textů
 
@@ -30,3 +32,4 @@
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Opilec](limeriky/opilec.md)  
+[Úkoly muže](limeriky/ukoly-muze.md)  
