@@ -7,7 +7,7 @@ Může měsíc plát
 Jak skončí bál, zas touží dál.
 
 Mávám ti krásná dívko,  
-kdo jen moh ti jméno dát,  
+kdo jen směl ti jméno dát,  
 zmizíš zítra s novým ránem,  
 bude se mi stýskat.
 
@@ -18,7 +18,7 @@ stále stejný part
 prý stejný list je hloupé číst.
 
 Mávám ti krásná dívko,  
-kdo jen moh ti jméno dát,  
+kdo jen směl ti jméno dát,  
 zmizíš zítra s novým ránem,  
 bude se mi stýskat.
 
@@ -29,12 +29,12 @@ a ptáš se proč dál žít a kde vzít směr?
 To není fér.
 
 Mávám ti krásná dívko,  
-kdo jen moh ti jméno dát,  
+kdo jen směl ti jméno dát,  
 zmizíš zítra s novým ránem,  
 bude se mi stýskat.
 
 Mávám ti krásná dívko,  
-kdo jen moh ti jméno dát,  
+kdo jen směl ti jméno dát,  
 zmizíš zítra s novým ránem,  
 bude se mi stýskat.
 
