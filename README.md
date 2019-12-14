@@ -34,3 +34,4 @@
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Opilec](limeriky/opilec.md)  
 [Úkoly muže](limeriky/ukoly-muze.md)  
+[Zranění tambora roku 1866](limeriky/tambor.md)  
