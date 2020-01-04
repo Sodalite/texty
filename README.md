@@ -8,9 +8,9 @@
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
-[Vysoce inteligentní robot](original/robot.md)  
 [Rovnátka](original/rovnatka.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
+[Vysoce inteligentní robot](original/robot.md)  
 [Zamilovaný chemik](original/chemik.md)  
 [Žába na prameni](original/zaba.md)  
 

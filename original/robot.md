@@ -31,7 +31,7 @@ dnes prvně pochopím, co je to láska.
 
 Nejprve hřeje a potom mrazí  
 když jednou ke mně už nedorazí  
-vidím to téměř na parte.
+vidím to téměř na parte.  
 Však místo slzí, i když chce se bulit  
 z očí mi tečou jen jedničky a nuly  
 prý se to řeší restartem ...
