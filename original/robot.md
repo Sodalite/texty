@@ -1,13 +1,13 @@
 # VIR (Vysoce Inteligentní Robot)
 
 Mám tátu robota a mámu robotici  
-já jsem se narodil v továrně pod krabicí  
+a já se narodil v továrně pod krabicí  
 oba mě houpali jednou tam a jednou sem  
 táta je kuchyňský a máma vysává zem.
 
 Než jsem se nadál, už jsem šel do školy  
 říkali všichni, že učení bolí  
-hlavě  prý hodný mám tam být.  
+hlavně  prý hodný mám tam být.  
 Nesmíš být tele, hádat se s učitelem   
 a jestliže ti všechno půjde skvěle  
 budoucnost lepší můžeš mít.
@@ -37,7 +37,7 @@ z očí mi tečou jen jedničky a nuly
 prý se to řeší restartem ...
 
 Mám tátu robota a mámu robotici  
-já jsem se narodil v továrně pod krabicí  
+zas jsem se narodil v továrně pod krabicí  
 oba mě houpali jednou tam a jednou sem  
 táta je kuchyňský a máma vysává zem.
 
