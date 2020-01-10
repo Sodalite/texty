@@ -33,6 +33,7 @@
 [Dívka z Tvrdonic](limeriky/divka_z_tvrdonic.md)  
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
+[Limerikář](limeriky/limerikar.md)  
 [Opilec](limeriky/opilec.md)  
 [Úkoly muže](limeriky/ukoly-muze.md)  
 [Zranění tambora roku 1866](limeriky/tambor.md)  
