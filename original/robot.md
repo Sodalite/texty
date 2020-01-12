@@ -37,9 +37,9 @@ z očí mi tečou jen jedničky a nuly
 prý se to řeší restartem ...
 
 Mám tátu robota a mámu robotici  
-zas jsem se narodil v továrně pod krabicí  
-oba mě houpali jednou tam a jednou sem  
-táta je kuchyňský a máma vysává zem.
+narozdíl od nich však já mám pod čepicí    
+a do svých systémů jsem vložil zadní vrátka  
+kterými proklouznu ... a pomsta bude sladká.
 
 
 
