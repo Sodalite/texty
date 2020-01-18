@@ -32,6 +32,7 @@
 [Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)  
 [Dívka z Tvrdonic](limeriky/divka_z_tvrdonic.md)  
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
+[Fotograf u splavu](limeriky/fotograf.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Limerikář](limeriky/limerikar.md)  
 [Opilec](limeriky/opilec.md)  
