@@ -9,6 +9,7 @@
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
 [Rovnátka](original/rovnatka.md)  
+[Ve frontě na vleku](original/fronta_na_vleky.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
 [Vysoce inteligentní robot](original/robot.md)  
 [Zamilovaný chemik](original/chemik.md)  
