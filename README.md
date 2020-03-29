@@ -33,6 +33,7 @@
 [Dívka z Tvrdonic](limeriky/divka_z_tvrdonic.md)  
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
 [Fotograf u splavu](limeriky/fotograf.md)  
+[Inženýr z Wu-hanu](limeriky/inzenyr_z_wuhanu.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Limerikář](limeriky/limerikar.md)  
 [Opilec](limeriky/opilec.md)  
