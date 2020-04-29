@@ -19,3 +19,11 @@ Přemluvit se dala
 vrána zazpívala  
 sýr jí spadl na zem ...  
 a liška jí ho vzala.
+
+Alternativní konec:  
+Přemluvit si dala,  
+vrána zazpívala,  
+dřív než liška vzala sýr,  
+hradní stráž ji sťala,  
+vládce těžko připustí,  
+aby lůza žrala.
