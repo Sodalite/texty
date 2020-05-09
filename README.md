@@ -40,5 +40,6 @@
 [Opilec](limeriky/opilec.md)  
 [Stázka](limeriky/stazka.md)  
 [Úkoly muže](limeriky/ukoly-muze.md)  
+[Ustrašený muž](limeriky/ustraseny.md)  
 [Včelař hudebník](limeriky/vcelar.md)  
 [Zranění tambora roku 1866](limeriky/tambor.md)  
