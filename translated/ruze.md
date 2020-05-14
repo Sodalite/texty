@@ -1,22 +1,22 @@
 Říkají, láska je proudem  
 co bárku potopí  
-říkají, láska je ostří  
-až řízne, pochopíš  
+říkají, láska je ostřím  
+až řízne, tak pochopíš  
 láska prý jako mráz pálí  
-věčným bývá toužením.  
+a utrápí tě toužením.  
 
 Já však vím, že láska voní  
 a v růži nám se promění.
 
 Srdce jen se bojí ztráty  
-tak raděj vůbec netančí  
+tak raděj v koutě bude stát  
 je to sen, , 
 před ránem smí jen utíkat  
 kdo má strach svou lásku dávat  
 tomu se víckrát nevrátí.
 
 Kdo se bát chce umíraní  
-tak život rázem utratí.
+život svůj rázem utratí.
 
 Každou noc tě touha svírá
 a cesta tvá je trnitá  
