@@ -37,6 +37,7 @@
 [Inženýr z Wu-hanu](limeriky/inzenyr_z_wuhanu.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Limerikář](limeriky/limerikar.md)  
+[Ministryně financí ČR](limeriky/ministryne.md)  
 [Opilec](limeriky/opilec.md)  
 [Stázka](limeriky/stazka.md)  
 [Úkoly muže](limeriky/ukoly-muze.md)  
