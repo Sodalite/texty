@@ -37,6 +37,7 @@
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
 [Fotograf u splavu](limeriky/fotograf.md)  
 [Inženýr z Wu-hanu](limeriky/inzenyr_z_wuhanu.md)  
+[Indiáni z Koloráda](limeriky/indiani.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Kovboj z Arizony](limeriky/kovboj_arizona.md)  
 [Limerikář](limeriky/limerikar.md)  
