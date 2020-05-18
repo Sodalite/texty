@@ -36,6 +36,7 @@
 [Fotograf u splavu](limeriky/fotograf.md)  
 [Inženýr z Wu-hanu](limeriky/inzenyr_z_wuhanu.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
+[Kovboj z Arizony](limeriky/kovboj_arizona.md)  
 [Limerikář](limeriky/limerikar.md)  
 [Ministryně financí ČR](limeriky/ministryne.md)  
 [Opilec](limeriky/opilec.md)  
