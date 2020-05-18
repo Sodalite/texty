@@ -40,6 +40,7 @@
 [Ministryně financí ČR](limeriky/ministryne.md)  
 [Opilec](limeriky/opilec.md)  
 [Stázka](limeriky/stazka.md)  
+[Tatar z Kazaně](limeriky/tatar_kazan.md)  
 [Úkoly muže](limeriky/ukoly-muze.md)  
 [Ustrašený muž](limeriky/ustraseny.md)  
 [Včelař hudebník](limeriky/vcelar.md)  
