@@ -44,6 +44,7 @@
 [Lupič z Arkansasu](limeriky/lupic_arkansas.md)  
 [Ministryně financí ČR](limeriky/ministryne.md)  
 [Opilec](limeriky/opilec.md)  
+[Pat a Mat](limeriky/patmat.md)  
 [Sovy z Iowy](limeriky/sovy_iowa.md)  
 [Stázka](limeriky/stazka.md)  
 [Tatar z Kazaně](limeriky/tatar_kazan.md)  
