@@ -40,6 +40,7 @@
 [Indiáni z Koloráda](limeriky/indiani.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Kovboj z Arizony](limeriky/kovboj_arizona.md)  
+[Kulinářské pokusy na vsi](limeriky/fusilli.md)  
 [Limerikář](limeriky/limerikar.md)  
 [Lupič z Arkansasu](limeriky/lupic_arkansas.md)  
 [Ministryně financí ČR](limeriky/ministryne.md)  
