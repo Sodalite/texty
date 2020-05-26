@@ -35,9 +35,9 @@ zůstala jenom slova
 rozloučení.
 
 Dělá se pokaždé nestranným,  
-když ti v hříchu radí had.
+když ti v hříchu radí had.  
 Slovům uvěřil jsem šeptaným  
-liška, že je zvyklá lhát. 
+liška, že je zvyklá lhát.  
 Trojúhelník a nad přeponou vládne drak  
 v hlavách štír  
 a v mlhovinách slábne zrak.
