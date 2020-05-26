@@ -2,8 +2,8 @@
 
 Dívám se do noci hvězdnaté,  
 kolem projel Velký Vůz,  
-v patách jdou mu Psové Honící,
-zkus jim, Vozko, ujet, zkus.
+v patách jdou mu Psové Honící,  
+zkus jim, Vozko, ujet, zkus.  
 Dávný zápas hlavou se mi přehrává  
 jak se ztrácíš v dálce  
 a jen ten příběh zůstává.
@@ -50,3 +50,11 @@ Vzpomínám, Bereniko
 a čekám, kdo mě spasí  
 a čekám marně slova  
 odpuštění.
+
+Dívám se do noci hvězdnaté,  
+kolem projel Velký Vůz,  
+v patách jdou mu Psové Honící,  
+zkus jim, Vozko, ujet, zkus.  
+Dávný zápas hlavou se mi přehrává  
+jak se ztrácíš v dálce  
+a jen ten příběh zůstává.

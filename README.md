@@ -3,6 +3,7 @@
 ## Vlastní texty
 
 [Černobíle](original/cernobile.md)  
+[Hvězdář](original/hvezdar.md)  
 [Konkurz](original/konkurz.md)  
 [Liška a vrána](original/liska-vrana.md)  
 [Moje říčka](original/ricka.md)  
