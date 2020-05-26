@@ -1,9 +1,9 @@
 # Hvězdář (Vlasy Bereniky)
 
 Dívám se do noci hvězdnaté,  
-kolem projel Velký Vůz,  
-v patách jdou mu Psové Honící,  
-zkus jim, Vozko, ujet, zkus.  
+kolem projel velký vůz,  
+v patách jdou mu psové honící,  
+zkus jim, vozko, ujet, zkus.  
 Dávný zápas hlavou se mi přehrává  
 jak se ztrácíš v dálce  
 a jen ten příběh zůstává.
@@ -52,9 +52,9 @@ a čekám marně slova
 odpuštění.
 
 Dívám se do noci hvězdnaté,  
-kolem projel Velký Vůz,  
-v patách jdou mu Psové Honící,  
-zkus jim, Vozko, ujet, zkus.  
+kolem projel velký vůz,  
+v patách jdou mu psové honící,  
+zkus jim, vozko, ujet, zkus.  
 Dávný zápas hlavou se mi přehrává  
 jak se ztrácíš v dálce  
 a jen ten příběh zůstává.
