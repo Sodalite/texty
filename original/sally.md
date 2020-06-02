@@ -10,7 +10,7 @@ Zrzko ze Sally
 včera se mi kolegové smáli  
 že nemám v lásce štěstí  
 a prý jsem marný,  
-že nepřemluvím ani bábu s klestím.
+že těžko znectím byť jen bábu s klestím.
 
 Krásko ze Sally  
 asi potřebuju sbalit  
