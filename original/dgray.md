@@ -11,7 +11,7 @@ vymaloval obraz.
 
 Z rámu se dívá tvoje tvář,  
 zdá se tak známá a zároveň cizí,  
-v očích ti plane zvláštní zář,  
+v očích ti svítí zvláštní zář,  
 a tvoje srdce to je stále ryzí.
 
 Ona je tvou láskou,  
@@ -25,7 +25,7 @@ a dál zůstane sama.
 
 Z rámu se dívá tvoje tvář,  
 zdá se tak známá a zároveň cizí,  
-v očích máš ještě stejnou zář,  
+v očích máš dál tu stejnou zář,  
 jenomže z plátna polehounku mizí.
 
 Mávneš nad tím rukou   
@@ -39,7 +39,7 @@ co je na tom stejně.
 
 Z rámu se dívá tvoje tvář,  
 zdá se tak známá a zároveň cizí,  
-v očích máš pořád stejnou zář,  
+v očích máš dál tu stejnou zář,  
 jenomže z plátna nenávratně mizí.
 
 Copak je s tou láskou,  
@@ -53,5 +53,5 @@ a do srdce jej bodneš.
 
 Z rámu se dívá krásná tvář,  
 a tobě krása z obličeje zmizí,  
-kde kdysi byla žhavá zář,  
-tam leží mrtev kdosi cizí.
+kdes kdysi míval žhavou zář,  
+tam leží mrtev kdosi dávno cizí.
