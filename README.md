@@ -57,3 +57,7 @@
 [Ustrašený muž](limeriky/ustraseny.md)  
 [Včelař hudebník](limeriky/vcelar.md)  
 [Zranění tambora roku 1866](limeriky/tambor.md)  
+
+## Haiku
+[Hodiny](haiku/hodiny.md)  
+[Pampeliška](haiku/pampeliska.md)  
