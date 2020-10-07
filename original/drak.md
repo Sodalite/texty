@@ -18,5 +18,7 @@ rozveselit vážně umí
 létám s ním tak jak pták  
 až do oblak.
 
+Závěr:
+Jen já vím, že ten můj drak voní po švestkách.
 
 
