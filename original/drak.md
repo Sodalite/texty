@@ -11,14 +11,48 @@ líně oči mhouří.
 
 Tenhleten drak  
 ten mi vždycky porozumí  
-když celý svět  
-se mi jen posmívá.  
-Víš, ten můj drak  
+když se ten svět  
+tak těžko dobývá.  
+Jó, ten můj drak  
 rozveselit vážně umí  
 létám s ním tak jak pták  
 až do oblak.
 
-Závěr:
-Jen já vím, že ten můj drak voní po švestkách.
+Povídám mu o trápeních  
+o nesplněných touhách.  
+On mi na to odpovídá,  
+že se nesmím rouhat.  
+Říká, že se přání plní,  
+kde se o ně žádá.  
+Pak se opře, zkříží nohy,  
+jak to kreslí Lada.
 
+Tenhleten drak  
+ten mi vždycky porozumí  
+když se ten svět  
+tak těžko dobývá.  
+Jó, ten můj drak  
+rozveselit vážně umí  
+létám s ním tak jak pták  
+až do oblak.
+
+Stýskám si, že moje žena  
+nevěří mým písním.  
+A já se je stydím zahrát  
+třeba i jen místním.  
+Usměje se spiklenecky, jak
+na stranické schůzi:  
+"Klidně nechej ženu plkat,  
+hlavní jsou tvé múzy."
+
+Tenhleten drak  
+ten mi vždycky porozumí  
+když se ten svět  
+tak těžko dobývá.  
+Jó, ten můj drak  
+rozveselit vážně umí  
+létám s ním tak jak pták  
+až do oblak.
+Jen já vím, ten můj drak  
+voní po švestkách.
 
