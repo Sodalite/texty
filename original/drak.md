@@ -53,6 +53,24 @@ Jó, ten můj drak
 rozveselit vážně umí  
 létám s ním tak jak pták  
 až do oblak.
+
+Chvíli ho jen pozoruju   
+unaveným zrakem.   
+Ptá se, jestli nelituju,   
+že tu sedím s drakem.   
+Pokouším se odpovědět   
+slova se mi pletou.   
+Už jen cítím, jak mě bere   
+létat nad planetou.
+
+Tenhleten drak  
+ten mi vždycky porozumí  
+když se ten svět  
+tak těžko dobývá.  
+Jó, ten můj drak  
+rozveselit vážně umí  
+létám s ním tak jak pták  
+až do oblak.
 Jen já vím, ten můj drak  
 voní po švestkách.
 
