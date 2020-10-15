@@ -3,10 +3,10 @@
 Já mám doma pod postelí  
 schovaného draka  
 ten mě vždycky navštěvuje  
-když se večer smráká.
+když se večer smráká.   
 Posadí se do ušáku  
 z tlamy se mu kouří  
-krásné kroužky vyfukuje
+krásné kroužky vyfukuje   
 líně oči mhouří.
 
 Tenhleten drak  
@@ -40,7 +40,7 @@ Stýskám si, že moje žena
 nevěří mým písním.  
 A já se je stydím zahrát  
 třeba i jen místním.  
-Usměje se spiklenecky, jak
+Usměje se spiklenecky, jak   
 na stranické schůzi:  
 "Klidně nechej ženu plkat,  
 hlavní jsou tvé múzy."
@@ -70,7 +70,7 @@ tak těžko dobývá.
 Jó, ten můj drak  
 rozveselit vážně umí  
 létám s ním tak jak pták  
-až do oblak.
-Jen já vím, ten můj drak  
+až do oblak.   
+Jen já vím, že můj drak  
 voní po švestkách.
 
