@@ -1,20 +1,19 @@
-Tá tá-da tá-da-tá
-Znám touhu pálivou
-tá tá-da tá-da-tá
-jít dálavou
-Da-tá tá-tá|da-tá
-V ho-rách, bílých horách
-tá-tá|da-tá
-tá-tá|tá-da-tá.
+# Everest
 
-Tá tá-da tá-da-tá
-tá tá-da tá-da-tá
-Da-tá tá-tá|da-tá
-tá-tá|da-tá
-tá-tá|tá-da-tá.
+Jít rytmem houpavým  
+dál sněhem chroupavým  
+V horách, bílých horách  
+výškám modrým  
+s touhou vyprávím.
 
-Tá tá-da tá-da-tá
-tá tá-da tá-da-tá
-Da-tá tá-tá|da-tá
-tá-tá|da-tá
-tá-tá|tá-da-tá.
+Výš cestou zakletou  
+závějí staletou  
+V horách, mlžných horách  
+spílám smyslům  
+když mě popletou.
+
+Stát s dechem váhavým  
+spát spánkem laskavým  
+V horách, chladných horách  
+srdce buší  
+než se zastaví.
