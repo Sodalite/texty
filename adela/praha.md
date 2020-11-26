@@ -5,9 +5,10 @@ hlavu splést
 v polích a blízko ke kopcům  
 klid svůj a zahrádku chceš mít
 krásně tam žít, jen si žít.
-tam měl bys zahradu a klid
-neptáš se, co bych chtěla já
-
+Chápej - představa tvá  
+není, co bych chtěla já.  
+Já hvězdu svou  
+mám nad Prahou.
 
 
 Ta dá, ta ta ta dá
