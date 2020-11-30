@@ -20,3 +20,11 @@ ta dá, ta ta ta ta dá
 ta ta ta dá
 ta ta ta dá.
 
+S pravdou svou jedinou  
+zkoušíš vyhrát nade mnou.
+Doufáš, že konečně se vzdám  
+snáz půjdu tam, s tebou tam.  
+Víš, já nechci pryč jít  
+nesmíš město mé mi vzít.  
+Já hvězdu svou  
+mám nad Prahou.
