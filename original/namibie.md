@@ -3,8 +3,15 @@
 
 kmen Himba
 
-Zdobí si svoje tělo
-narudlou hlinkou
+Zdobí si svoje těla
+narudlou hlínou
+jednou jsem ji viděl a
+už nechci jinou.
+Nejhezčí dívka žije
+uprostřed Namibije
+Kéž by se jednou chtěla
+státi mou ženou.
+
 
 
 Pro dívku z Namibie
