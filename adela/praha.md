@@ -1,6 +1,3 @@
-moje zlatá, stověžatá, matko měst
-hlavu splést
-
 Říkáš, že koupíš dům  
 v polích a blízko ke kopcům  
 klid svůj a zahrádku chceš mít
@@ -10,6 +7,16 @@ není, co bych chtěla já.
 Já hvězdu svou  
 mám nad Prahou.
 
+Krásných míst, já tu znám,  
+na každé z nich s velkou láskou vzpomínám.  
+S mámou kurz chůze mám  
+Stromovkou cupitám.
+Kráčí čas, pár jen dní
+zase Černouškem se stávám v Národním.  
+... baletní ... 
+...  
+Víš už, proč to město ráda mám?
+Víš už, proč to město ráda mám?
 
 Ta dá, ta ta ta dá
 ta dá, ta ta ta ta dá
