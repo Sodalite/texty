@@ -1,3 +1,5 @@
+# Hvězda nad Prahou
+
 Říkáš, že koupíš dům  
 v polích a blízko ke kopcům  
 klid svůj a zahrádku chceš mít
@@ -11,12 +13,21 @@ Krásných míst, já tu znám,
 na každé z nich s velkou láskou vzpomínám.  
 S mámou kurz chůze mám  
 Stromovkou cupitám.
-Kráčí čas, pár jen dní
+Kráčí čas - pár jen dní
 zase Černouškem se stávám v Národním.  
-... baletní ... 
-...  
-Víš už, proč to město ráda mám?
-Víš už, proč to město ráda mám?
+můj sen baletní z těch dávných let
+vrátí se zpět.
+Už víš, proč to město ráda mám?
+Už víš, proč to město ráda mám?
+
+S pravdou svou jedinou  
+zkoušíš vyhrát nade mnou.
+Doufáš, že konečně se vzdám  
+snáz půjdu tam, s tebou tam.  
+Víš, já nechci pryč jít  
+nesmíš město mé mi vzít.  
+Já hvězdu svou  
+mám nad Prahou.
 
 Ta dá, ta ta ta dá
 ta dá, ta ta ta ta dá
@@ -27,11 +38,8 @@ ta dá, ta ta ta ta dá
 ta ta ta dá
 ta ta ta dá.
 
-S pravdou svou jedinou  
-zkoušíš vyhrát nade mnou.
-Doufáš, že konečně se vzdám  
-snáz půjdu tam, s tebou tam.  
-Víš, já nechci pryč jít  
-nesmíš město mé mi vzít.  
-Já hvězdu svou  
-mám nad Prahou.
+Řásnovka
+Zpívající fontána
+Valdštejnská zahrada
+Nový svět
+
