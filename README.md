@@ -46,7 +46,7 @@
 [Kulinářské pokusy na vsi](limeriky/fusilli.md)  
 [Kyanid na Bečvě](limeriky/kyanid.md)  
 [Lidojed](limeriky/lidojed.md)  
-[Liechtenštejn](limeriky/liechtenstein.md)  
+[Liechtenštejn](limeriky/historicke/liechtenstein.md)  
 [Limerikář](limeriky/limerikar.md)  
 [Lupič z Arkansasu](limeriky/lupic_arkansas.md)  
 [Ministryně financí ČR](limeriky/ministryne.md)  
