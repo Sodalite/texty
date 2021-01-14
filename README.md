@@ -34,7 +34,7 @@
 
 ## Limeriky
 [Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)  
-[Boblig z Edelstadtu](limeriky/boblig.md)  
+[Boblig z Edelstadtu](limeriky/historicke/boblig.md)  
 [Dámičky z Dallasu](limeriky/panicky_dallas.md)  
 [Dívka z Tvrdonic](limeriky/divka_z_tvrdonic.md)  
 [Chlápek v Brně](limeriky/chlapek_v_brne.md)  
