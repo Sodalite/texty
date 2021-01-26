@@ -49,6 +49,7 @@
 [Liechtenštejn](limeriky/historicke/liechtenstein.md)  
 [Limerikář](limeriky/limerikar.md)  
 [Lupič z Arkansasu](limeriky/lupic_arkansas.md)  
+[Krutá láska](limeriky/historicke/oldrich.md)  
 [Ministryně financí ČR](limeriky/ministryne.md)  
 [Opilec](limeriky/opilec.md)  
 [Pat a Mat](limeriky/patmat.md)  
