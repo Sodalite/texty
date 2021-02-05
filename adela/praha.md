@@ -31,7 +31,7 @@ mám nad Prahou.
 
 Krásných míst já tu znám  
 fontána mi svoji píseň zazpívá.  
-Pod zlatou hvězdou být   
+Pod Zlatou hvězdou být   
 o Novém světě snít.  
 Vrátka snů dál mě zvou  
 s Valdštejnem jdu na procházku zahradou. 
@@ -40,4 +40,4 @@ v Řásnovce spí.
 Už víš, proč to město ráda mám?
 Už víš, proč tu stále zůstávám ... 
 ... zůstávám  
-... já zůstávám.
+... zůstávám.
