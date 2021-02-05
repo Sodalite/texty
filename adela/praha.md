@@ -15,7 +15,7 @@ S mámou kurz chůze mám
 Stromovkou cupitám.
 Kráčí čas - pár jen dní
 zase Černouškem se stávám v Národním.  
-můj sen baletní z těch dávných let
+láska baletní z těch dávných let
 vrátí se zpět.
 Už víš, proč to město ráda mám?
 Už víš, proč to město ráda mám?
@@ -29,17 +29,15 @@ nesmíš město mé mi vzít.
 Já hvězdu svou  
 mám nad Prahou.
 
-Ta dá, ta ta ta dá
-ta dá, ta ta ta ta dá
-ta dá ta, ta ta ta ta dá
-dá ta ta dá, ta ta dá
-Ta dá, ta ta ta dá
-ta dá, ta ta ta ta dá
-ta ta ta dá
-ta ta ta dá.
-
-Řásnovka
-Zpívající fontána
-Valdštejnská zahrada
-Nový svět
-
+Krásných míst já tu znám  
+fontána mi svoji píseň zazpívá.  
+Pod zlatou hvězdou být   
+o Novém světě snít.  
+Vrátka snů dál mě zvou  
+s Valdštejnem jdu na procházku zahradou. 
+Strom zas vypráví o tajemství -
+v Řásnovce spí.
+Už víš, proč to město ráda mám?
+Už víš, proč tu stále zůstávám ... 
+... zůstávám  
+... já zůstávám.
