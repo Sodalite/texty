@@ -25,7 +25,7 @@ zkoušíš vyhrát nade mnou.
 Doufáš, že konečně se vzdám  
 snáz půjdu tam, s tebou tam.  
 Víš, já nechci pryč jít  
-nesmíš město mé mi vzít.  
+nechtěj město mé mi vzít.  
 Já hvězdu svou  
 mám nad Prahou.
 
