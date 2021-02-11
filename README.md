@@ -7,6 +7,7 @@
 [Hvězdář](original/hvezdar.md)  
 [Konkurz](original/konkurz.md)  
 [Liška a vrána](original/liska-vrana.md)  
+[Měla jsem sokola](original/mela-jsem-sokola.md)  
 [Milá ze Sally](original/sally.md)  
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
