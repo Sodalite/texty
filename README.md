@@ -4,6 +4,7 @@
 
 [AD 863](original/ad863.md)  
 [Černobíle](original/cernobile.md)  
+[Černá vráno](original/cerna_vrano.md)  
 [Drak pod postelí](original/drak.md)  
 [Hvězdář](original/hvezdar.md)  
 [Konkurz](original/konkurz.md)  
