@@ -1,7 +1,7 @@
 # Královna a voják
 *The Queen and the Soldier (Suzanne Vega)*
 
-Ten voják sám vchází na královnin práh.  
+Dnes voják sám vchází na královnin práh.  
 Řekne: "Já válku vzdávám a rád bych vám plách'."  
 A královně zdá se, že jej potkala v snách,  
 a tak volně jej nechá vejít.
@@ -22,19 +22,19 @@ a teď mám trochu pocit, že jsem vám naletěl,
 že válkou se bavíte jen.
 
 Potom královna mladá bodne pohledem svým,  
-praví: "Nezkoušej chápat, co já dobře vím!".  
+praví: "Nezkoušej chápat, co jenom já vím!".  
 A v tváři má dětství a v očích smutku stín,  
 svou samotu dál schovává.
 
-"Cítím, že mám v srdci planoucí drát,  
+"Cítím, že v srdci mi vězí žhavý drát,  
 řeže mě, pálí, a nedá mi spát."  
 On jí pohladí dlaň, jak by snad měl ji rád  
 a ona skloní až k němu svou tvář.
 
-"Rekni, jak moc jsi chtivá, když slabá se zdáš,  
+"Řekni, jak moc jsi chtivá, když slabá se zdáš,  
 žiješ v paláci sama, za zdí se ukrýváš,  
 ale já se tam nevrátím, kde vojsko své máš,  
-a pak pohlédli z okna ven.
+a pak pohlédl s ní z okna ven.
 
 Slunce tam září, šedivou oblohou,  
 ona po lásce touží celou duší svou,  
