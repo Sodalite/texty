@@ -1,7 +1,13 @@
 # Nádraží
 
-Všude je cítit noční můry  
-co chytnou stiskem ledovým  
+Ve vzduchu je ještě cítit
+únava z daleké cesty
+tlačíme se na pryčnách z buku
+alespoň tu nikdo není sám.
+Vítá nás dvůr osvětlený
+a rozkazy s ráznými gesty
+marně teď hledám tvoji ruku
+a ptám se, brácho, kde tě mám.
 
 
 
