@@ -1,13 +1,29 @@
 # Nádraží
 
-Ve vzduchu je ještě cítit
-únava z daleké cesty
-tlačíme se na pryčnách z buku
-alespoň tu nikdo není sám.
+Ještě je vzduch provoněný (napuštěný) 
+únavou z daleké cesty
+tlačíme se v jednom shluku
+aspoň tu žádný není sám.
 Vítá nás dvůr osvětlený
 a rozkazy s ráznými gesty
-marně teď hledám tvoji ruku
+marně teď hledám tvou ruku
 a ptám se, brácho, kde tě mám.
+
+Všichni tu stojíme v řadách
+vločky se z nebe k nám snáší
+divím se jen krátkou chvíli
+proč vlastně vůbec netají.
+Drahá je každičká rada
+poslední naději zháší
+čísla, co nám nakreslili,
+na jména víc se neptají.
+
+Prý svět jsou místa, kam naše cesty vedou,
+kam nejsou nutné lhůty čekací.
+Nádraží noční, kam všechny vlaky jedou
+a odkud žádný už se nevrací.
+
+
 
 
 
