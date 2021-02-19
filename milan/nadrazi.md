@@ -1,52 +1,40 @@
-# Nádraží
+# Noční nádraží
 
-Ještě je vzduch provoněný (napuštěný) 
-únavou z daleké cesty
-tlačíme se v jednom shluku
-aspoň tu žádný není sám.
-Vítá nás dvůr osvětlený
-a rozkazy s ráznými gesty
-marně teď hledám tvou ruku
+Těžký je vzduch, propocený  
+únavou z daleké cesty.  
+Tlačíme se v jednom shluku,  
+aspoň tu žádný není sám.  
+Vítá nás dvůr osvětlený  
+a rozkazy s ráznými gesty.
+Marně teď hledám tvou ruku  
 a ptám se, brácho, kde tě mám.
 
-Všichni tu stojíme v řadách
-vločky se z nebe k nám snáší
-divím se jen krátkou chvíli
-proč vlastně vůbec netají.
-Drahá je každičká rada
-poslední naději zháší
-čísla, co nám nakreslili,
-na jména víc se neptají.
+Všichni tu stojíme v řadách,  
+vločky se z nebe k nám snáší.   
+Divím se jen krátkou chvíli,  
+proč vlastně vůbec netají?  
+Drahá je každičká rada.  
+Poslední naději zháší  
+čísla, co nám nakreslili.  
+Na jména víc se neptají.
 
-Prý svět jsou místa, kam naše cesty vedou,
-kam nejsou nutné lhůty čekací.
-Nádraží noční, kam všechny vlaky jedou
-a odkud žádný už se nevrací.
+Každý má místo, kam jeho cesty vedou,  
+tam nejsou nutné lhůty čekací.  
+Nádraží noční, sem naše vlaky jedou  
+odtud se žádný nikdy nevrací.
+
+V dálce už pomalu svítá,  
+jsem první a ty zas druhý,  
+oba jsme zůstali sami  
+pod jednou ranní oblohou.  
+Vzali nám vše, co jsme měli,  
+všechno až na svislé pruhy.  
+Vzpomínky na oči mámy  
+ty nám však sebrat nemohou.
+
+Každý má místo, kam jeho cesty vedou,
+tam nejsou nutné lhůty čekací.
+Nádraží noční, sem naše vlaky jedou
+odtud se žádný nikdy nevrací.
 
 
-
-
-
-VŠUDE JE CÍTIT
-		STRACH A SVÍZEL ,
-		A VNITŘNÍ KLID TĚCH CO KRÁČÍ
-
-			A TI CO ZBYLI
-			NELOUČÍ SE
-			POTAJMU TIŠE PLÁČÍ
-
-		ZA RUCE SE DRŽÍ
-		DĚTI I STARCI
-		TRHAJÍ JE OD SEBE
-
-		PROSÍM VÁS PANE
-		VRAŤTE MI MÁMU
-		A RUKA Z RUKY NÁHLE SJEDE
-
-		TY BĚŽ VPRAVO
-		A TY VLEVO
-		NIKDO NEVÍ CO SE DĚJE
-					,
-		PROČ NA NÁS KŘIČÍ
-		PROČ NÁS BIJÍ
-		A TEN SE PSEM SE JEN SMĚJE
