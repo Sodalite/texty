@@ -33,6 +33,7 @@
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
 [Počkej moment (Herb Pedersen)](translated/pockej-moment.md)  
 [Už tě víckrát nepotkám (Seekers)](translated/dejavu/uztevicnepotkam.md)  
+[Vše, jak má být (Paul Simon)](translated/vse-jak-ma-byt.md)  
 [Výt na Měsíc (Cheryl Wheeler)](translated/vytnamesic.md)  
 [Zlatá pláň (Sting)](translated/zlataplan.md)
 
