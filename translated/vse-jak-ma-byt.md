@@ -17,14 +17,14 @@ najednou mě to míjí,
 cítím napětí v šíji,  
 tak nějak podivné se to zdá,  
 Já vím, já vím, že vše je    
-jak to být má,  
-tak jak to být má.
+tak, jak být má,
+tak, jak být má.
 
 Jak se brání Čína -  
 velikou silnou zdí -  
 nikoho z cizinců  
-tam nepustí.  
-Tak já si své zdi stavím  
+tam nepustí,  
+tak já si své zdi stavím  
 vůbec je nevidíš.  
 To času vzalo víc,  
 než jsi směla blíž.
@@ -38,8 +38,8 @@ najednou mě to míjí,
 cítím napětí v šíji,  
 tak nějak podivné se to zdá,  
 Já vím, já vím, že vše je    
-jak to být má,  
-tak jak to být má.
+tak, jak být má,
+tak, jak být má.
 
 Někteří říkají, že láska není  
 snad jenom v snách si ji lze přát.  
@@ -55,7 +55,7 @@ najednou mě to míjí,
 cítím napětí v šíji,  
 tak nějak podivné se to zdá,  
 Já vím, já vím, že vše je    
-jak to být má,  
-tak jak to být má.
+tak, jak být má,
+tak, jak být má.
 
 
