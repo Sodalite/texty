@@ -28,8 +28,8 @@ když svůj svět před ním schovává.
 
 "Cítím, že v srdci mi vězí žhavý drát,  
 řeže mě, pálí, a nedá mi spát."  
-on troufá si rukou jí s vlasy si hrát
-a k zemi blíž sklání jí tvář.
+Říká jí: "Víš, pýcha předchází pád!"
+a k zemi pak sklání jí tvář.
 
 "Řekni, jak moc jsi chtivá, když slabá se zdáš,  
 žiješ v paláci sama, za zdí se ukrýváš,  
@@ -53,6 +53,6 @@ než se vrátím, postůj ... opodál."
 
 A náhle v dálce šleh' rozkaz jak bič,  
 pak voják byl zabit a už nesou jej pryč  
-a královna pláče a její svět chrání klíč  
+a královna pláče a skrývá od zámku klíč  
 a bitva - ta běží dál.
 
