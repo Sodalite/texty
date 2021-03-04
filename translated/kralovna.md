@@ -29,7 +29,7 @@ když svůj svět před ním schovává.
 "Cítím, že v srdci mi vězí žhavý drát,  
 řeže mě, pálí, a nedá mi spát."  
 Říká jí: "Víš, pýcha předchází pád!"
-a k zemi pak sklání jí tvář.
+až k zemi pak sklání jí tvář.
 
 "Řekni, jak moc jsi chtivá, když slabá se zdáš,  
 žiješ v paláci sama, za zdí se ukrýváš,  
