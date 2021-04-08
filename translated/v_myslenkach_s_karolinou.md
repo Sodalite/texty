@@ -43,5 +43,9 @@ slunce pro nás září
 cítíš ten vítr v tváři  
 laskavý jako kamarád  
 mě plácne po zádech  
-zase jsem s Karolínou ve svých snech.
+zase jsem s Karolínou v krásných snech.
+
+Jsem s Karolínou ve svých snech.
+Jsem s Karolínou ve svých snech.
+Jsem s Karolínou ve svých snech.
 
