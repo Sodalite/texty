@@ -10,17 +10,17 @@ tak musím se i svých teď vzdát.
 
 Tak dál místo hledám kam jen jít
 den s nocí kolem jdou
-den s nocí se zas střídá.
+den s nocí zas se střídá.
 Já vím, že každý sen mám si chránit
 den s nocí kolem jdou
-den s nocí se zas střídá.
+den s nocí zas se střídá.
 
 Tam v modrých dálkách
-zas bránou projdu k dětským dnům.
-Příliv se blíží
-vrátí mě k starým způsobům.
+chci bránou jít zpět k dětským dnům.
+Příliv teď sílí
+vrátí mě blíž mým způsobům.
 
 Zvláštní jak váhám
 se brouzdat klidně ve tvých vodách.
 Zvláštní jak vnímám
-když stávám tu na plážích tvých.
+když vracívám se k plážím tvým.
