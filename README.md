@@ -33,6 +33,7 @@
 [Lásky své se vzdáš? (Bob Dylan)](translated/lasky-se-vzdas.md)  
 [Mávej mi (Rolling Stones)](translated/ruby_tuesday.md)  
 [Můry (Jethro Tull)](translated/mury.md)  
+[Na tvém břehu (Enya)](translated/na-tvem-brehu.md)  
 [Odešla duha (Peter, Paul, and Mary)](translated/dejavu/houpyhou.md)  
 [Právo k zabíjení (Bob Dylan)](translated/pravo.md)  
 [Počkej moment (Herb Pedersen)](translated/pockej-moment.md)  
