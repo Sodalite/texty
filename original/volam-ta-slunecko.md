@@ -2,7 +2,7 @@
 
 Volám ťa, slunéčko,  
 pověz jen milému,  
-že já sa neslúbím  
+že já viac neslúbím  
 žádnému inému,  
 že je můj jediný,  
 nosím ho v srdéčku,  
@@ -23,8 +23,8 @@ bude-li poslúchat,
 synkovi co mám říct,  
 až sa mně bude ptát,  
 kam od nás odešel,  
-a mám-li mu eště lhát?
-Ať sa mi navrátí,  
+a mám-li mu eště lhát?  
+Ať sa mi navrátí,   
 prosím ho nastokrát.
 
 
