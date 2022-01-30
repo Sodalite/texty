@@ -13,6 +13,6 @@ sluboval ně nastokrát,
 že sa ke mně vrátí rád.
 
 Když tři roky v světě byl,  
-sokol sa ně nevrátil,  
+sokol sa vjac nevrátil,  
 a pak z roka sedmého,  
 přinésli ho mrtvého.
