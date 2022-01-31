@@ -12,7 +12,7 @@ nech najde cestičku.
 Optaj sa, slunéčko,  
 či mňa má eště rád,  
 jako tú pjesničku,  
-co mi k nám chodil hrát,  
+co mně k nám chodil hrát,  
 keď vyšla zornička  
 nad horu nad velkú.  
 Nebo včil chodívá  
