@@ -5,7 +5,7 @@ pověz jen milému,
 že já viac neslúbím  
 žádnému inému.  
 Že je můj jediný,  
-nosím ho v srdéčku.
+nosím ho v srdéčku.  
 Do našej dědiny,  
 nech najde cestičku.
 
@@ -14,17 +14,17 @@ Optaj sa, slunéčko,
 jako tú pjesničku,  
 co mi k nám chodil hrát,  
 keď vyšla zornička  
-nad horu nad velkú,  
-nebo včil chodívá  
-za inú dcérenkú.
+nad horu nad velkú.  
+Nebo včil chodívá  
+za inú dcérenkú?
 
 Řekni mu, slunéčko,  
 bude-li poslúchat,  
 synkovi co mám říct,  
-až sa mně bude ptát,  
-kam od nás odešel,  
-a mám-li mu zkúšat lhát?  
-Ať sa mi navrátí,   
+až sa mňa bude ptát,  
+kam od nás odešel  
+a esli mu zkúšat psát?  
+Ať sa nám navrátí,   
 prosím ho nastokrát.
 
 
