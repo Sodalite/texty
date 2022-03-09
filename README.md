@@ -7,6 +7,7 @@
 [Černá vráno](original/cerna_vrano.md)  
 [Drak pod postelí](original/drak.md)  
 [Hvězdář](original/hvezdar.md)  
+[Já se houpu](original/houpu-se.md)  
 [Konkurz](original/konkurz.md)  
 [Liška a vrána](original/liska-vrana.md)  
 [Měla jsem sokola](original/mela-jsem-sokola.md)  
