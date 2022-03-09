@@ -61,7 +61,7 @@ Kdo by to řekl,
 že smrt nebolí?
 
 Vezmi si kousek toho provazu  
-a nos jej přivázaný u zápěstí  
+a nos jej uvázaný na zápěstí  
 z ruky mi stáhni snubní prsten  
 snad přinese ti štěstí.
 
