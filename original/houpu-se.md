@@ -8,7 +8,7 @@ když jim to nepovím
 pak řekli usměvavě.
 
 Dali mi včera, lásko, vybrat  
-abych jim ukázal  
+abych jim vyklopil  
 co písní nosím pod čepicí.  
 A za to že jsem je chtěl zahrát  
 a pravdu ukázat  
@@ -37,12 +37,12 @@ A založili na to výkaz
 a prý to se mnou jde  
 od deseti k pěti.
 
-Kdybych se, lásko, držel zpátky  
-moh jsem si užívat  
+Prý kdybych se, lásko, držel zpátky  
+moh' jsem si užívat  
 a mít se jako prase v žitě.  
 Dali mi hlavu do oprátky  
-a kat mi pošeptal  
-"hanba konformitě".
+a kat mi pošeptal:  
+"Hanba konformitě!"
 
 A tak se houpu  
 a slunko zlatě září  
