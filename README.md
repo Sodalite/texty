@@ -9,6 +9,7 @@
 [Hvězdář](original/hvezdar.md)  
 [Já se houpu](original/houpu-se.md)  
 [Konkurz](original/konkurz.md)  
+[Kráva v trávě](original/krava.md)  
 [Liška a vrána](original/liska-vrana.md)  
 [Měla jsem sokola](original/mela-jsem-sokola.md)  
 [Milá ze Sally](original/sally.md)  
