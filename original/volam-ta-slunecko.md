@@ -9,7 +9,7 @@ nosím ho v srdéčku.
 Do našej dědiny,  
 nech najde cestičku.
 
-Optaj sa, slunéčko,  
+Řekni mně, slunéčko,  
 či mňa má eště rád,  
 jako tú pjesničku,  
 co mně k nám chodil hrát,  
@@ -18,13 +18,13 @@ nad horu nad velkú.
 Nebo včil chodívá  
 za inú dcérenkú?
 
-Řekni mu, slunéčko,  
-bude-li poslúchat,  
+Optaj sa, slunéčko,  
+než půjde večer spát,  
 synkovi co mám říct,  
 až sa mňa bude ptát,  
 kam od nás odešel  
-a esli mu zkúšat psát?  
-Ať sa nám navrátí,   
+a esli už napořád?  
+Snad sa nám navrátí,   
 prosím ho nastokrát.
 
 
