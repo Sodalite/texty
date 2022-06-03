@@ -59,6 +59,7 @@
 [Lupič z Arkansasu](limeriky/lupic_arkansas.md)  
 [Krutá láska](limeriky/historicke/oldrich.md)  
 [Ministryně financí ČR](limeriky/ministryne.md)  
+[Na rodičovské dovolené](limeriky/rodicovska.md)  
 [Opilec](limeriky/opilec.md)  
 [Policista](limeriky/policista.md)  
 [Pat a Mat](limeriky/patmat.md)  
