@@ -49,6 +49,7 @@
 [Fotograf u splavu](limeriky/fotograf.md)  
 [Inženýr z Wu-hanu](limeriky/inzenyr_z_wuhanu.md)  
 [Indiáni z Koloráda](limeriky/indiani.md)  
+[Jazzman v baru](limeriky/jazzman.md)  
 [Kamarád Petr](limeriky/kamarad-petr.md)  
 [Kovboj z Arizony](limeriky/kovboj_arizona.md)  
 [Kulinářské pokusy na vsi](limeriky/fusilli.md)  
