@@ -105,11 +105,11 @@ Monika
 Emil
 ====
 
-Až z dalekých Semil
-přijel strejda Emil.
-Velcí nebo malí,
-všichni rozpoznali, 
-že se dlouho nemyl.
+| Až z dalekých Semil
+| přijel strejda Emil.
+| Velcí nebo malí,
+| všichni rozpoznali, 
+| že se dlouho nemyl.
 
 Vladimíra
 =========
