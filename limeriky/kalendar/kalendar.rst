@@ -1202,6 +1202,33 @@ Bohuslav
 | ukrutně nesnáší cizince
 | a tak mu rozbili novou RAV.
 
+Sandra
+======
+
+| Měsíc zpátky cítí Sandra
+| že jde na ni těžká chandra.
+| Deprese jsou dneska "in",
+| však si vezme sertralin
+| nebo ocas salamandra.
+
+Bartoloměj
+==========
+
+| Alchymista Bartoloměj
+| natrhal si v lese oměj.
+| Šalamounka, vlčí mor,
+| nestav se mu na odpor,
+| když má silné jedy v domě.
+
+Radim
+=====
+
+| Vyčítal mi přítel Radim,
+| že si kávu cukrem sladím:
+| "Kdo je přítel s postmodernou 
+| pije kávu jenom černou!"
+| A že mu tím hrozně vadím.
+
 Jaromír
 =======
 
