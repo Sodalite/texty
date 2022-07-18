@@ -105,8 +105,8 @@ Monika
 Emil
 ====
 
-| Až z dalekých Semil
-| přijel strejda Emil.
+| Přijel strejda Emil
+| až z dalekých Semil.
 | Velcí nebo malí,
 | všichni rozpoznali, 
 | že se dlouho nemyl.
@@ -1225,7 +1225,7 @@ Radim
 
 | Vyčítal mi přítel Radim,
 | že si kávu cukrem sladím:
-| "Kdo je přítel s postmodernou 
+| "Kdo chce žíti postmodernou 
 | pije kávu jenom černou!"
 | A že mu tím hrozně vadím.
 
