@@ -840,7 +840,7 @@ Drahomíra
 | se ženou měli sex v seně.
 | Ona mu do ucha vzdychala,
 | stébla jí nádherně píchala.
-| Tak se lze zavděčit ženě.
+| Dobře se zavděčil ženě.
 
 Ilja
 ====
@@ -1228,6 +1228,52 @@ Radim
 | "Kdo chce žíti postmodernou 
 | pije kávu jenom černou!"
 | A že mu tím hrozně vadím.
+
+Luděk
+=====
+
+| Prozradil mi fyzik Luděk,
+| jak se dobře bránit nudě:
+| "Vemu svoji dceru Kačku,
+| do Lužánek na houpačku
+| ať se baví v amplitudě.
+
+Otakar
+======
+
+| Sní si šofér Otakar -
+| s tatrou jede na Dakar.
+| Nakonec se fronta hnula.
+| Pomalinku směrem Pula
+| popojíždí autokar.
+
+Augustýn
+========
+
+| Připojil se Augustýn
+| k pouti svaté na Hostýn.
+| Zpochybňoval, že Bůh ví, 
+| praštili jej korouhví.
+| Kněz mu řekl: "Přestaň s tým!"
+
+Evelína
+=======
+
+| Pověsila Evelína
+| na zeď foto Rintintína:
+| "Tohle je na světě nejlepší pes,
+| komisař Rex je jen ubohý plebs.
+| Snad se hodí do ovčína."
+
+Vladěna
+=======
+
+| Pláče mi tu Vladěna,
+| že si přijde nechtěná,
+| přestože má velkou vilu,
+| továrnu a také pilu,
+| miliardu do věna.
+
 
 Jaromír
 =======
