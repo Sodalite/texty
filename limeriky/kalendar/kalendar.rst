@@ -1274,6 +1274,113 @@ Vladěna
 | továrnu a také pilu,
 | miliardu do věna.
 
+Pavlína
+=======
+
+| Tvrdila mi Pavlína,
+| že prý pudl nelíná.
+| Když jsem na něj použil lupu,
+| abych poznal vlastnost chlupu,
+| popadla ji vzteklina.
+
+Samuel
+======
+
+| To mě vyzval Samuel,
+| v ranní mlze na duel:
+| "Každý půjde deset kroků,
+| potom rychle tasí k boku."
+| Černým vozem domů jel.
+
+Linda
+=====
+
+| Odrazuje Linda:
+| "Neberte si Inda!
+| Mladý nebo starý -
+| na vše sype kari.
+| A po stole bryndá."
+
+Adéla
+=====
+
+| Čekala mě Adéla
+| po návratu z kostela.
+| Byla ze mě cítit piva,
+| praštila mě, celá divá,
+| velkou pánví do čela.
+
+Bronislav
+=========
+
+| "Podívej se, Bronislave,
+| co to tamhle v řece plave?"
+| "Vír to točí dokola."
+| "Co když je to mrtvola?"
+| "Pak to bude zajímavé!"
+
+Bronislava
+==========
+
+| Jela bruslit Bronislava,
+| aby byla štíhlá, zdravá.
+| Hned za prvním rohem,
+| prosvištěla hlohem.
+| Dnes to bylo do krvava.
+
+Jindřiška
+=========
+
+| Dostal jsem do očí od Jindřišky:
+| "Co na mě hledíš jak žaba z kyšky?"
+| "Kvůli tvému ksichtu není
+| taky žádné pozdvižení."
+| Hleděla jako když sere šišky.
+
+Rozálie
+=======
+
+| Nešťastná je Rosalie,
+| její muž je strašně zlý.
+| Kdysi ji moc miloval
+| věrnou lásku sliboval.
+| K tomu dodám: "C'est la vie."
+
+Boris
+=====
+
+| Přiznal se mi tuhle Boris,
+| jednou v zimě plotek olíz'.
+| A že právě mrazík byl,
+| jazyk se mu přilepil,
+| v místě kde byl v tyčce prolis.
+
+Boleslav
+========
+
+| Trápí teď myšlenka Boleslava,
+| jak by se zbavit měl Wenceslawa?
+| Nakonec na tuhle šmíru
+| sjednal si Čestu a Tiru.
+| I Hněvsa bodnul si do Václava.
+
+Regína
+======
+
+| Šla k lékaři Regína,
+| že ji pálí vagína.
+| Doktor se jen krátce mrknul
+| potom trochu zlobně frknul:
+| "To ten týden začíná."
+
+Věra
+====
+
+| Problémy s kognicí prý má Věra,
+| neví, kdy zítra je a kdy je včera.
+| Sedí a dívá se do dáli,
+| čas jí je podivně pomalý.
+| Říkali, že snad má alzheimera.
 
 Jaromír
 =======
