@@ -1262,8 +1262,8 @@ Evelína
 | Pověsila Evelína
 | na zeď foto Rintintína:
 | "Tohle je na světě nejlepší pes,
-| komisař Rex je jen ubohý plebs.
-| Snad se hodí do ovčína."
+| komisař Rex je jen ubohý plebs,
+| vhodný jenom do ovčína."
 
 Vladěna
 =======
