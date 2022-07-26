@@ -998,7 +998,7 @@ Oskar
 Gustav
 ======
 
-| Nesnáším všechny ty Gustavy,
+| Nesnáším ostatní Gustavy,
 | co se jim pořádně postaví.
 | Já to mám měkké jak z plazmatu,
 | před rokem vzali mi prostatu.
@@ -1520,11 +1520,11 @@ Kateřina
 Kateřina II
 ===========
 
-| Moje milá Kateřina
-| krásná je jak kopretina.
-| Horko, zima, štěstí, splín -
-| potěší mě její klín.
-| Nezajímá mě už jiná. 
+| Nebuď jak ta teta Kateřina,
+| která furt přísloví připomíná.
+| Nechej si stříbro, když není ti dáno,
+| z nebe jsi nespad a moudřejší ráno.
+| Hůl já si najdu ty hubo líná.
 
 
 
