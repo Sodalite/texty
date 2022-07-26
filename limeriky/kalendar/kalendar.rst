@@ -927,9 +927,9 @@ Anna
 ====
 
 | Co se divíš, že má Anna
-| je pořádně nafoukaná?
+| pořádně je nafoukaná?
 | Jak víš, láska nosí klam
-| a tak žiju s Annou sám.
+| a tak s Annou žiju sám.
 | Věrnost z gumy udělaná.
 
 Věroslav
@@ -1225,8 +1225,8 @@ Radim
 
 | Vyčítal mi přítel Radim,
 | že si kávu cukrem sladím:
-| "Kdo chce žíti postmodernou 
-| pije kávu jenom černou!"
+| "Kdo chce život neobžerný, 
+| pije kafe jenom černý!"
 | A že mu tím hrozně vadím.
 
 Luděk
@@ -1372,6 +1372,81 @@ Regína
 | Doktor se jen krátce mrknul
 | potom trochu zlobně frknul:
 | "To ten týden začíná."
+
+Mariana
+=======
+
+| Čapku žmoulá Mariana,
+| stojí jako zařezaná.
+| Volnost, rovnost, bratrství -
+| kam se ztrácí? Kdo to ví?
+| Malá nebo velká strana?
+
+Daniela
+=======
+
+| Uměnovědkyně Daniela
+| zamilovala si Donatella.
+| Judit řeže Holoferna, 
+| kam se hrabe postmoderna,
+| když se duch odpojí pryč od těla.
+
+Irma
+====
+
+| Básní, pábí teta Irma,
+| jak je krásná řeka Dirma,
+| vždy když slunko vyjde zrána
+| nad jezero jménem Tana.
+| Kecá! Je to známá firma.
+
+Denis
+=====
+
+| Ve zkouškovém frajer Denis,
+| kašlal na to, hrával tenis.
+| Přišla zkouška z fonetiky,
+| nepomohly cukrbliky.
+| Neznal "fortis" ani "lenis".
+
+Denisa
+======
+
+| Popisuju Denise
+| super výhled na Lysé.
+| Do krpálu zabrala 
+| za sebou mě nechala.
+| Křikla jenom: "Pohni se!"
+
+Marie
+=====
+
+| Sopranistka Marie
+| zpívá těžké árie.
+| Třeba včera v kuchyni -
+| Mozart, Verdi, Puccini.
+| Málokdo to zažije.
+
+Lubor
+=====
+
+| Stěžuju si, že Váš Lubor,
+| nemá zdání, co je úhor!
+| Spolužačku Veroniku 
+| osahával v tělocviku
+| a to ani neměl úbor!
+
+Radka
+=====
+
+| Usmívá se na mě Radka:
+| "Jéžiš růže! Ta je sladká."
+| Teď si počkám na vyznání.
+| Ona řekne bez váhání:
+| "Chci být tvoje kamarádka."
+
+
+
 
 Věra
 ====
