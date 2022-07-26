@@ -882,10 +882,10 @@ Magda
 =====
 
 | Vyzvídám od ženy Magdy
-| proč se strojí, líčí, na kdy?
-| Nálada mi rychle zvadla,
-| prý jdem večer do divadla.
-| To bych radši šel na rugby.
+| proč se strojí, líčí, nakdy?
+| Odpovídá od zrcadla,
+| že jdem večer do divadla.
+| Nálada mi právě zvadla.
 
 Libor
 =====
@@ -917,8 +917,8 @@ Jakub
 Anita
 =====
 
-| Včera večer Anitu,
-| záchvat přepad' na bytu.
+| Chvíli zpátky Anitu,
+| přepad' záchvat na bytu.
 | Pomoci se možná nedožije -
 | přijeli sem bidet, baterie.
 | Kdo volal tu sanitu?
@@ -1397,7 +1397,7 @@ Kateřina
 | Chtěl bych se svou Kateřinou
 | strávit pár dní pod peřinou.
 | Hrát si s ní na anatoma,
-| ale žena čučí doma.
+| žena však je pořád doma.
 | Zapíjím žal medovinou.
 
 Kateřina II
