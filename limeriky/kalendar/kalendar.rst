@@ -981,7 +981,7 @@ Ignác
 =====
 
 | Vidíme vrchního Ignáce,
-| jak zručně pobíhá po place.
+| jak hbitě pobíhá po place.
 | A pak v jedné krátké chvíli,
 | jeden z hostů, podnapilý, 
 | vyzvracel se mu do táce.
@@ -1088,11 +1088,11 @@ Vavřinec
 Zuzana
 ======
 
-| Na horách lezkyně Zuzana
-| trochu se zapletla do lana.
-| Bezmocně se teď jen výškou houpe,
-| učit se uzly jí přišlo hloupé.
-| Připomíná mi Tarzana.
+| Bioložka Zuzana
+| koupila si varana.
+| V noci vlezl do postele,
+| tam ji kousl do prdele,
+| tak je trochu naštvaná.
 
 Klára
 =====
@@ -1445,8 +1445,50 @@ Radka
 | Ona řekne bez váhání:
 | "Chci být tvoje kamarádka."
 
+Jolana
+======
 
+| Na horách lezkyně Jolana
+| trochu se zapletla do lana.
+| Bezmocně se teď ve výšce houpe,
+| učit se uzly jí přišlo hloupé.
+| Připomíná mi Tarzana.
 
+Ludmila
+=======
+
+| Dělala veletoč Ludmila,
+| hrazda se najednou zlomila.
+| Nestačil jí všechen um,
+| dostalo ji momentum.
+| A tak si pořádně nabila.
+
+Lidmila
+=======
+
+| Z nešťastné lásky si Lidmila
+| před spaním svítiplyn pustila.
+| A jak plyn z hořáků poklidně syčí -
+| poslední semínko naděje vzklíčí.
+| Vstala a zase jej ztlumila.
+
+Naďa
+====
+
+| Nejvíce miluju na Nadě,
+| když leží nahatá v zahradě.
+| Srdce mi vzplane,
+| když potom vstane,
+| a jde se osvěžit do kádě.
+
+Naděžda
+=======
+
+| Jak se jen blíží Naděžda,
+| tak se i ruský voják vzdá.
+| Má totiž pádný argument -
+| její dlaň váží skoro cent.
+| I soudruh Lenin. Natož já.
 
 Věra
 ====
