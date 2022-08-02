@@ -1387,9 +1387,9 @@ Daniela
 
 | Uměnovědkyně Daniela
 | zamilovala si Donatella.
-| Judit řeže Holoferna, 
+| Judit vraždí Holoferna, 
 | kam se hrabe postmoderna,
-| když se duch odpojí pryč od těla.
+| když hlava odpadne pryč od těla.
 
 Irma
 ====
@@ -1488,7 +1488,61 @@ Naděžda
 | tak se i ruský voják vzdá.
 | Má totiž pádný argument -
 | její dlaň váží skoro cent.
-| I soudruh Lenin. Natož já.
+| Vzdal to i Lenin. Natož já.
+
+Kryštof
+=======
+
+| Únava přemohla Kryštofa,
+| uložil své tělo na sofa.
+| V noci se mu vracel sen, 
+| že byl slavným básníkem,
+| co žije život svůj ve strofách.
+
+Zita
+====
+
+| Všimnula si včera Zita,
+| že ji trápí obezita.
+| Na břiše má tlusté faldy
+| jako spisy F. X. Šaldy.
+| Je v tom jistá monstrozita.  
+
+Oleg
+====
+
+| Jednou večer Olega
+| pozval k sobě kolega.
+| Z pozvání měl obavy,
+| že snad půjde o mravy.
+| Nakonec šli do lega.
+
+Matouš
+======
+
+| Herpetologa Matouše
+| zavedli mezi šotouše:
+| "Mám tady Bardotku u Bílovce!"
+| "Já se však soustředím na brejlovce.
+| Miluju svoje kobrouše."
+
+Darina
+======
+
+| Dal jsem recept Darině
+| na kohouta na víně
+| a v kuchařské čepici
+| uvařila slepici.
+| Usmála se nevinně.
+
+Berta
+=====
+
+| Poslala mě jednou Berta,
+| na nákupy do Alberta.
+| Prý tam mají velké slevy,
+| na procenta sice neví,
+| v letáku se to tak jeví. 
 
 Věra
 ====
@@ -1496,7 +1550,7 @@ Věra
 | Problémy s kognicí prý má Věra,
 | neví, kdy zítra je a kdy je včera.
 | Sedí a dívá se do dáli,
-| čas jí je podivně pomalý.
+| čas je jí podivně pomalý.
 | Říkali, že snad má alzheimera.
 
 Jaromír
@@ -1507,6 +1561,96 @@ Jaromír
 | Sirkou škrtnul do věchýtka
 | zapálily se mu lýtka.
 | Co jen to má za manýr? 
+
+Jaromíra
+========
+
+| Všimnula si Jaromíra,
+| že je ve zdi malá škvíra.
+| Strčila tam šroubovák
+| a za chvíli, neví jak, 
+| už tam byla obří díra.
+
+Zlata
+=====
+
+| Otravuje pořád Zlata,
+| ke štěstí jí chybí chata.
+| Účty, fondy, akcie -
+| možná mi to pokryje
+| u garáže nová vrata.
+
+Zlatuše
+=======
+
+| Křičím na ni: "Zlatuše,
+| ani vůl tak nekluše!"
+| Je to leda chiméra
+| dělat ženě trenéra.
+| Vkládám šipku do kuše.
+
+Andrea
+======
+
+| Chtěla vědět Andrea,
+| kde prý leží Korea?
+| Nechtěl jsem být na ni zlej,
+| říkám: "Asi v Tampa Bay."
+| Tenhle blázen jazzovej.
+
+Jonáš
+=====
+
+| Prosím tě, pověz mi, Jonáši,
+| kantorem být ... co to obnáší?
+| "Ředitel celý rok tě týrá,
+| rodič si hubu otevírá,
+| a z kapes jenom se zapráší."
+
+Václav
+======
+
+| Na svátek svatého Václava
+| lidí je ve městě záplava.
+| Volají, že zase voliči
+| dostali pořádně "po piči".
+| Prý se to na západ nestává. 
+
+Václava
+=======
+
+| Napsala pozvánku Václava,
+| za týden koná se oslava.
+| Prý to bude bezvadné, 
+| tak RSVP. 
+| Slušný to tak dělává.
+
+Michal
+======
+
+| Traktorista Michal
+| do karet se míchal.
+| A v hospodě "U Dubu"
+| dali mu pak na hubu.
+| V roští smutně vzdychal.
+
+Michael
+=======
+
+| Jednou v zimě Michael
+| do knihovny cestu měl.
+| A že je fanoušek Mobyho,
+| zajásal najednou nad knihou:
+| "Říkejte mi Izmael."
+
+Jeroným
+=======
+
+| S koncilem stojí Jeroným:
+| "O Janu z Husi já cosi vím -
+| ve všem, co řekl pravdu měl,
+| nemůžu jinak, byť bych chtěl."
+| Taky z něj zůstal jenom dým.
 
 Kateřina
 ========
