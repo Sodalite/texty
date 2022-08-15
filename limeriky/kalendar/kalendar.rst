@@ -1684,7 +1684,7 @@ František
 
 | Prohlíží se František,
 | jak mu roste podbřišek.
-| Faldy sice skryjí ruku,
+| Špeky skryjí celou ruku,
 | A, D, E, K jsou jen v tuku.
 | Zhubnout bude oříšek.
 
