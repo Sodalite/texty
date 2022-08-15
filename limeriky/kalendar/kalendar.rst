@@ -1485,7 +1485,7 @@ Naděžda
 =======
 
 | Jak se jen blíží Naděžda,
-| tak se i ruský voják vzdá.
+| to se i ruský voják vzdá.
 | Má totiž pádný argument -
 | její dlaň váží skoro cent.
 | Vzdal to i Lenin. Natož já.
@@ -1543,15 +1543,6 @@ Berta
 | Prý tam mají velké slevy,
 | na procenta sice neví,
 | v letáku se to tak jeví. 
-
-Věra
-====
-
-| Problémy s kognicí prý má Věra,
-| neví, kdy zítra je a kdy je včera.
-| Sedí a dívá se do dáli,
-| čas je jí podivně pomalý.
-| Říkali, že snad má alzheimera.
 
 Jaromír
 =======
@@ -1651,6 +1642,106 @@ Jeroným
 | ve všem, co řekl pravdu měl,
 | nemůžu jinak, byť bych chtěl."
 | Taky z něj zůstal jenom dým.
+
+Igor
+====
+
+| Mám otázku pro Igora,
+| co je to ta epifora?
+| "Pročpak se mě na to ptáš?
+| Rád bych věděl, proč se ptáš?
+| Překvapen jsem, že se ptáš."
+
+Oliver
+======
+
+| Každý týden Oliver
+| odevzdává sběrně sběr.
+| Peníze si pilně šetří,
+| dnes má za dva, zítra za tři.
+| Nedosáhne na úvěr.
+
+Olívie
+======
+
+| "Už jsi slyšel, s kým teď žije
+| z Holešovic Olívie?"
+| "Nevím, ale prý se říká,
+| že snad má mít námořníka?"
+| "Polkne špenát než se bije."
+
+Bohumil
+=======
+
+| Misionář Bohumil
+| to byl známý lidumil.
+| Na misii, stokrát běda,
+| potkal v džungli lidojeda.
+| Tak prý také chutný byl.
+
+František
+=========
+
+| Prohlíží se František,
+| jak mu roste podbřišek.
+| Faldy sice skryjí ruku,
+| A, D, E, K jsou jen v tuku.
+| Zhubnout bude oříšek.
+
+Eliška
+======
+
+| Chtěl jsem pozvat Elišku
+| do teplého pelíšku.
+| Řekla: "Zalez, ořechu,
+| nedělej tu neplechu!
+| Dej si ručník na šišku." 
+
+Hanuš
+=====
+
+| Pod orlojem sedí Hanuš
+| z očí teče skoro kaluž.
+| Neznalí doložky konkurenční,
+| zvolili metodu nekonvenční -
+| chlápek padl dvakrát na nůž.
+
+Justýna
+=======
+
+| Nový objev Justýna
+| v posteli mi usíná.
+| Když ji budím, co s ní je,
+| říká: "Narkolepsie."
+| Nebo mě jen napíná? 
+
+Věra
+====
+
+| Problémy s kognicí prý má Věra,
+| neví, kdy zítra je a kdy je včera.
+| Sedí a dívá se do dáli,
+| čas je jí podivně pomalý.
+| Říkali, že snad má alzheimera.
+
+Štefan
+======
+
+| U řezníka Štefana
+| byla boží sekaná.
+| Aniž by se dlouze ptal,
+| všem nám jen tak nasekal
+| obrovskýma tlapama.
+
+Sára
+====
+
+| Na hodech jsem balil Sáru:
+| "Zahraju ti na kytáru."
+| "Tož já dojdu na chvílu,
+| jen co sbírku motýlů,
+| ukážú ně Jožin s Marú."
+
 
 Kateřina
 ========
