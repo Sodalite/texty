@@ -1614,7 +1614,7 @@ Václava
 | za týden koná se oslava.
 | Prý to bude bezvadné, 
 | tak RSVP. 
-| Slušný to tak dělává.
+| Slušný prý to tak dělává.
 
 Michal
 ======
