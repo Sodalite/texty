@@ -1215,9 +1215,9 @@ Bartoloměj
 ==========
 
 | Alchymista Bartoloměj
-| natrhal si v lese oměj.
-| Šalamounka, vlčí mor,
-| nestav se mu na odpor,
+| natrhal si v lese oměj -
+| šalamounka, vlčí mor.
+| Nestav se mu na odpor,
 | když má silné jedy v domě.
 
 Radim
