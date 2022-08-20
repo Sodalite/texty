@@ -1742,6 +1742,113 @@ Sára
 | jen co sbírku motýlů,
 | ukážú ně Jožin s Marú."
 
+Marina
+======
+
+| To šla jednou Marina
+| cestou od Hodonína.
+| Mládence tam potkala,
+| jablíčko mu podala.
+| Teď už jenom vzpomíná.
+
+Andrej
+======
+
+| Tak se přiznej Andreji,
+| ruce v kapsách svrbějí.
+| V prvním kroku přiznej sám,
+| že jsi vlastně kleptoman.
+| Pak máš ještě naději.
+
+Marcel
+======
+
+| Nabídl mi Marcel
+| jednu ze svých parcel.
+| Levně mi ji přidělí,
+| prý je vhodná na zelí.
+| Jenže kdesi v prdeli.
+
+Renáta
+======
+
+| Z koncertu jde Renáta,
+| dál zní v uších sonáta.
+| Během svého návratu
+| brnkla špičkou o patu -
+| natáhla se do bláta.
+
+Agáta
+=====
+
+| V restauraci Agáta
+| objednala candáta.
+| Zřejmě musel déle stát,
+| linul se z něj děsný smrad,
+| že by skolil piráta.
+
+Tereza
+======
+
+| Vůli měla Tereza
+| pevnou jako z železa.
+| Dneska je to jinak. Zkrátka,
+| jak se blíží padesátka,
+| každá ocel orezá.
+
+Terezie
+=======
+
+| "V horách", tvrdí Terezie,
+| "nebezpečné žijí zmije.
+| Kdo má jenom pumpky, hošku,
+| stačí, když ho kousne trošku.
+| Dlouho to pak nepřežije."
+
+Havel
+=====
+
+| K večeru souseda Havla
+| nechala manželka Pavla.
+| Nejprve došlo tam k hádce,
+| pak už to trvalo krátce,
+| nežli si na taxi mávla.
+
+Galina
+======
+
+| Plamenně přednáší Galina
+| úlohu strany a Stalina.
+| Přistoupím: "Vodu tu čeříš.
+| To tomu opravdu věříš?"
+| Zčervená v tváři jak malina.
+
+Hedvika
+=======
+
+| K posteli přistoupí Hedvika,
+| z ramen jí sklouzává tunika.
+| Krev mi těžko zapění, 
+| není tu nic k vidění.
+| To je ta románská tragika.
+
+Lukáš
+=====
+
+| Vzali jednou Lukáše
+| s sebou do mariáše.
+| Tichá sedma, štychy, esa,
+| jejich srdce zkrátka plesá.
+| Svlékli jej i z rubáše.
+
+Lukáš II
+========
+
+| Ty jít ke mně, lieber Lukáš,
+| Jacke runter, už to ukaž!
+| Já být erregt. Vzrušená?
+| Vyprávět mi Blažena,
+| že ty wirklich dobře Hackbrett spielst.
 
 Kateřina
 ========
