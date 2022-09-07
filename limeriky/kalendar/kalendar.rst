@@ -1360,9 +1360,9 @@ Boleslav
 
 | Trápí teď myšlenka Boleslava,
 | jak by se zbavit měl Wenceslawa?
-| Nakonec na tuhle šmíru
-| sjednal si Čestu a Tiru.
-| I Hněvsa bodnul si do Václava.
+| Nakonec si na tu šmíru
+| objednal Čestu a Tiru.
+| Hněvsa si též bodnul do Václava.
 
 Regína
 ======
@@ -1849,6 +1849,75 @@ Lukáš II
 | Já být erregt. Vzrušená?
 | Vyprávět mi Blažena,
 | že ty wirklich dobře Hackbrett spielst.
+
+Michala
+=======
+
+| Na učňáku Michala
+| napřed jenom čichala.
+| Na život, když měla vztek,
+| přibrala si k tomu crack.
+| Nakonec si píchala.
+
+Michaela
+========
+
+| Uviděla Michaela
+| na mostě stát archanděla:
+| "Podívej se, co mám, heč!"
+| Plamenný si držel meč.
+| Kéž by jeden taky měla.
+
+Vendelín
+========
+
+| Rozhodl se Vendelín,
+| že by zkusil prodat stín.
+| Jenže takhle bez stínu
+| vyděsil i rodinu.
+| Teď by mohl prodat splín.
+
+Brigita
+=======
+
+| Chodí se mnou Brigita
+| milovat se do žita.
+| A hned jak je konec tomu,
+| spěchám za svou ženou domů.
+| Pláče, že jsem necita.
+
+Sabina
+======
+
+| Předtuchu má Sabina,
+| že je v laně slabina.
+| Na Ještědu neveřili,
+| k řediteli nepustili.
+| Utrhla se kabina.
+
+Teodor
+======
+
+| Mladý lékař Teodor
+| našel v našem městě mor.
+| Stejně jako kdysi
+| roznesly ho krysy.
+| Yersinie nejsou fór.
+
+Nina
+====
+
+| Po sexu mi říká Nina,
+| že se těší na mimina.
+| Čas je přímo nevhodný,
+| říct jí, že jsem neplodný.
+| To snad radši gilotina.
+
+
+Beáta
+=====
+
+| 
 
 Kateřina
 ========
