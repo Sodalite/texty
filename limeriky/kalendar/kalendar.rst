@@ -1386,9 +1386,9 @@ Daniela
 =======
 
 | Uměnovědkyně Daniela
-| zamilovala si Donatella.
-| Judit vraždí Holoferna, 
-| kam se hrabe postmoderna,
+| vynáší do nebe Donatella.
+| Judita zavraždí Holoferna,
+| kam na to hrabe se postmoderna,
 | když hlava odpadne pryč od těla.
 
 Irma
