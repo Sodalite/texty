@@ -1388,7 +1388,7 @@ Daniela
 | Uměnovědkyně Daniela
 | vynáší do nebe Donatella.
 | Judita zavraždí Holoferna,
-| kam na to hrabe se postmoderna,
+| těžko to překoná postmoderna,
 | když hlava odpadne pryč od těla.
 
 Irma
