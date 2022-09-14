@@ -1917,7 +1917,11 @@ Nina
 Beáta
 =====
 
-| 
+| Snažila se Beáta
+| vyléčit má traumata:
+| "Žil bys dobře a bez nesnáze,
+| nebýt tvojí anální fáze."
+| To zas byla debata.
 
 Kateřina
 ========
