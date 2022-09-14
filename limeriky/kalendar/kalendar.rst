@@ -1523,8 +1523,8 @@ Matouš
 | Herpetologa Matouše
 | zavedli mezi šotouše:
 | "Mám tady Bardotku u Bílovce!"
-| "Já se však soustředím na brejlovce.
-| Miluju svoje kobrouše."
+| "Já se však soustředím na brejlovce."
+| "Tak na ty se zeptej Bohouše."
 
 Darina
 ======
