@@ -1451,7 +1451,7 @@ Jolana
 | Na horách lezkyně Jolana
 | trochu se zapletla do lana.
 | Bezmocně se teď ve výšce houpe,
-| učit se uzly jí přišlo hloupé.
+| učit se uzly přišlo jí hloupé.
 | Připomíná mi Tarzana.
 
 Ludmila
@@ -1922,6 +1922,15 @@ Beáta
 | "Žil bys dobře a bez nesnáze,
 | nebýt tvojí anální fáze."
 | To zas byla debata.
+
+Erik
+====
+
+| "Žalovat chci na Erika,
+| povahu má hysterika.
+| V jeho slovech temný tón."
+| "Správně má být 'histrion'!"
+| "No vždyť říkám, to je on."
 
 Kateřina
 ========
