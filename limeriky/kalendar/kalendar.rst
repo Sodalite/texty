@@ -658,7 +658,7 @@ Jan Hus
 | Provokatér, tenhle Hus,
 | dosti drzý na můj vkus.
 | Boháč, chudák, že jim rovno?
-| Na to říkám: "Leda hovno."
+| Na to říkám: "Leda  hovno."
 | Spalte ho jak papyrus.
 
 Bohuslava
@@ -1931,6 +1931,74 @@ Erik
 | V jeho slovech temný tón."
 | "Správně má být 'histrion'!"
 | "No vždyť říkám, to je on."
+
+Zoe
+===
+
+| Vlezla v létě tajně Zoe
+| v loděnici do kánoe.
+| Teď se pevně drží madla,
+| táhne ji to do zdymadla.
+| Pomyslí si: "No, ty voe."
+
+Šarlota
+=======
+
+| Zadřela na poli Šarlota
+| agregát traktoru Kubota.
+| Bylo tam maličko oleje.
+| Myslela, že starý doleje.
+| S volky to teď bude robota. 
+
+Den vzniku Československa
+=========================
+
+| Na den vzniku Československa,
+| jedu zkoumat krásy Blanenska.
+| Tam kde stojí v lese hájovna,
+| tam jsem šlápl přímo do hovna.
+| Příště pojedu radši do Hřenska.
+
+Sylva 
+Silvie
+Tadeáš
+Štěpánka
+
+Felix
+Tobiáš
+Hubert
+Karel
+Karla
+Miriam
+Liběna
+Saskie
+Bohumír
+Bohumíra
+Bohdan
+Evžen
+Martin
+Benedikt
+Tibor
+Sáva
+Leopold
+Otmar
+Mahulena
+Gertruda
+Den boje za svobodu a demokracii
+Romana
+Alžběta
+Nikola
+Albert
+Cecílie
+Klement
+Emílie
+Kateřina
+Artur
+Xenie
+René
+Zina
+Ondřej
+	
 
 Kateřina
 ========
