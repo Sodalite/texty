@@ -1960,9 +1960,43 @@ Den vzniku Československa
 | Příště pojedu radši do Hřenska.
 
 Sylva 
+=====
+
+| Kamarádka Sylva
+| zakoupila si lva.
+| Nebyl příliš přítulný,
+| tak šel za trest do kůlny.
+| Hlady sotva šilhá.
+
+
 Silvie
+======
+
+| Moje guru Silvie
+| nejí ani nepije.
+| Prý, že žije z prány
+| touží do nirvány.
+| Vlastně ani nežije.
+
+
 Tadeáš
+======
+
+| Přišel k milé Tadeáš,
+| říká: "Lásko, tu mě máš."
+| Její hlas tu zazněl ploše:
+| "Nezouvej se a běž s košem!
+| Potom skříňky přiděláš."
+
+
 Štěpánka
+========
+
+| Rusovlasou Štěpánku
+| potkal jsem tam u stánků.
+| Ač jsem u ní hledal spásu,
+| našel jsem jen levnou krásu.
+| V saténovém župánku.
 
 Felix
 Tobiáš
