@@ -1828,18 +1828,10 @@ Hedvika
 
 | K posteli přistoupí Hedvika,
 | z ramen jí sklouzává tunika.
-| Krev mi těžko zapění, 
+| Krev mi sotva zapění, 
 | není tu nic k vidění.
 | To je ta románská tragika.
 
-Lukáš
-=====
-
-| Vzali jednou Lukáše
-| s sebou do mariáše.
-| Tichá sedma, štychy, esa,
-| jejich srdce zkrátka plesá.
-| Svlékli jej i z rubáše.
 
 Lukáš II
 ========
@@ -1928,7 +1920,7 @@ Erik
 
 | "Žalovat chci na Erika,
 | povahu má hysterika.
-| V jeho slovech temný tón."
+| V milých slovech temný tón."
 | "Správně má být 'histrion'!"
 | "No vždyť říkám, to je on."
 
@@ -1999,9 +1991,37 @@ Tadeáš
 | V saténovém župánku.
 
 Felix
+=====
+
+| Se zvukařem Felixem
+| stojím dlouho nad mixem.
+| Celou obcí Strání-Květná
+| ozývá se vazba zpětná.
+| Něco dovnitř, více ven.
+
 Tobiáš
+======
+
+| Vzali jednou Tobiáše
+| na kolečko mariáše.
+| Tichá sedma, štychy, esa,
+| jejich srdce zkrátka plesá.
+| Svlékli jej až do rubáše.
+
 Hubert
+======
+
+| Ptali se doktora Huberta,
+| jakože srdcaře, experta:
+| "Jaké, že jsou sporty pravé,
+| aby srdce bylo zdravé?"
+| "Já jezdím na kole Liberta."
+
 Karel
+=====
+
+| 
+
 Karla
 Miriam
 Liběna
