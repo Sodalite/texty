@@ -1596,7 +1596,7 @@ Jonáš
 | kantorem být ... co to obnáší?
 | "Ředitel celý rok tě týrá,
 | rodič si hubu otevírá,
-| a z kapes jenom se zapráší."
+| z kapes tvých jenom se zapráší."
 
 Václav
 ======
@@ -1920,7 +1920,11 @@ Erik
 
 | "Žalovat chci na Erika,
 | povahu má hysterika.
+<<<<<<< Updated upstream
 | V milých slovech temný tón."
+=======
+| V sladkých slovech temný tón."
+>>>>>>> Stashed changes
 | "Správně má být 'histrion'!"
 | "No vždyť říkám, to je on."
 
