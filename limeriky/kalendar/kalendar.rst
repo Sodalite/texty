@@ -1605,7 +1605,7 @@ Václav
 | lidí je ve městě záplava.
 | Volají, že zase voliči
 | dostali pořádně "po piči".
-| Prý se to na západ nestává. 
+| Prý se to v Německu nestává. 
 
 Václava
 =======
@@ -2024,13 +2024,39 @@ Hubert
 Karel
 =====
 
-| 
-
 Karla
+=====
+
 Miriam
+======
+
+| Jedináček Miriam
+| rozjela se na Siam.
+| Svěřila se mojí Lence,
+| chce si najít sourozence.
+| Kde už jinde, když ne tam?
+
 Liběna
+======
+
+| Navrhuje Liběna:
+| "Táto, co ta Výměna?
+| Není třeba ekonoma -
+| deset dní a pade doma."
+| Ve sklepě je zazděná.
+
 Saskie
+======
+
+| Pohleď, to je Saskie
+| na showroomu u Kie.
+| Prodejce jde na ruku,
+| slíbí dlouhou záruku.
+| Snad si auto užije.
+
 Bohumír
+=======
+
 Bohumíra
 Bohdan
 Evžen
