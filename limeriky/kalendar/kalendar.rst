@@ -2024,8 +2024,20 @@ Hubert
 Karel
 =====
 
+| Na Orlík teď jede Karel, 
+| veze s sebou velký barel.
+| Dneska byl to večer perný,
+| je tu s ním i Ludvík Černý.
+| Námět na film? Na akvarel?
+
 Karla
 =====
+
+| Moje první láska Karla
+| skoro vůbec nezestárla.
+| Skrze pátou lahev pivní
+| čas se zdá být relativní,
+| Karla stále atraktivní.
 
 Miriam
 ======
@@ -2057,7 +2069,22 @@ Saskie
 Bohumír
 =======
 
+| Předváděl se Bohumír,
+| jak je skvělý mušketýr.
+| Rozběhne se, mocně skočí,
+| kolem sebe zbraní točí.
+| Nabodnul se na rapír.
+
 Bohumíra
+========
+
+| 
+|
+|
+|
+|
+
+
 Bohdan
 Evžen
 Martin
