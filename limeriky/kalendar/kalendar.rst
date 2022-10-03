@@ -2078,16 +2078,28 @@ Bohumír
 Bohumíra
 ========
 
-| 
-|
-|
-|
-|
-
+| Po schodech jde Bohumíra
+| na hrudi ji něco svírá.
+| Osud jí dal těžkou dardu,
+| vážný infarkt myokardu.
+| Ze sanitky už jen zírá.
 
 Bohdan
+======
+
+| "Co to chroupeš, Bohdane?"
+| "Ale ... zelí kysané."
+| Spiklenecky na mě kouk'
+| pak hned pustil ostrý pšouk.
+| Žádný z nás už nevstane.
+
+
 Evžen
+=====
+
 Martin
+======
+
 Benedikt
 Tibor
 Sáva
