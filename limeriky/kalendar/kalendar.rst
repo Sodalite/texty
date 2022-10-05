@@ -1920,11 +1920,7 @@ Erik
 
 | "Žalovat chci na Erika,
 | povahu má hysterika.
-<<<<<<< Updated upstream
 | V milých slovech temný tón."
-=======
-| V sladkých slovech temný tón."
->>>>>>> Stashed changes
 | "Správně má být 'histrion'!"
 | "No vždyť říkám, to je on."
 
@@ -2099,7 +2095,7 @@ Evžen
 
 Martin
 ======
-
+ 
 Benedikt
 Tibor
 Sáva
