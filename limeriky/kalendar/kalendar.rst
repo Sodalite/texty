@@ -1828,13 +1828,12 @@ Hedvika
 
 | K posteli přistoupí Hedvika,
 | z ramen jí sklouzává tunika.
-| Krev mi sotva zapění, 
-| není tu nic k vidění.
+| Krev mi mocně zapění ...
+| bere knížku ke čtení.
 | To je ta románská tragika.
 
-
-Lukáš II
-========
+Lukáš
+=====
 
 | Ty jít ke mně, lieber Lukáš,
 | Jacke runter, už to ukaž!
@@ -1849,7 +1848,7 @@ Michala
 | napřed jenom čichala.
 | Na život, když měla vztek,
 | přibrala si k tomu crack.
-| Nakonec si píchala.
+| Pak už si jen píchala.
 
 Michaela
 ========
@@ -1857,7 +1856,7 @@ Michaela
 | Uviděla Michaela
 | na mostě stát archanděla:
 | "Podívej se, co mám, heč!"
-| Plamenný si držel meč.
+| Plamenný tam držel meč.
 | Kéž by jeden taky měla.
 
 Vendelín
@@ -1904,7 +1903,6 @@ Nina
 | Čas je přímo nevhodný,
 | říct jí, že jsem neplodný.
 | To snad radši gilotina.
-
 
 Beáta
 =====
@@ -2020,10 +2018,10 @@ Hubert
 Karel
 =====
 
-| Na Orlík teď jede Karel, 
+| Na Orlík teď jede Karel,
 | veze s sebou velký barel.
 | Dneska byl to večer perný,
-| je tu s ním i Ludvík Černý.
+| je tu s ním i Ludvík Černý
 | Námět na film? Na akvarel?
 
 Karla
@@ -2050,7 +2048,7 @@ Liběna
 | Navrhuje Liběna:
 | "Táto, co ta Výměna?
 | Není třeba ekonoma -
-| deset dní a pade doma."
+| deset dní a stovák doma."
 | Ve sklepě je zazděná.
 
 Saskie
@@ -2093,11 +2091,35 @@ Bohdan
 Evžen
 =====
 
+| "Podívej se, Evžene,
+| prádlo má být složené!
+| Co to tamhle vidím v rohu?
+| Z toho se snad roznemohu.
+| Ty trenky jsou kožené?"
+
 Martin
 ======
- 
+
+| Zobrazuje Martina
+| středověkká rytina.
+| Jede na svém bílém koni,
+| vločky, ty se za ním honí.
+| Zima brzo začíná.
+
 Benedikt
+========
+
+| Co měl asi Benedikt
+| s Vatikánem za konflikt?
+| Copak žvanil tenhle borec,
+| že před týdnem, římský stolec,
+| uvalil naň interdikt.
+
 Tibor
+=====
+
+
+
 Sáva
 Leopold
 Otmar
