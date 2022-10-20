@@ -2113,22 +2113,89 @@ Benedikt
 | s Vatikánem za konflikt?
 | Copak žvanil tenhle borec,
 | že před týdnem, římský stolec,
-| uvalil naň interdikt.
+| uvalil naň interdikt?
 
 Tibor
 =====
 
-
+| Přihlásili Tibora
+| do skautského tábora.
+| Dítě prý je "zralý",
+| tak si dneska balí.
+| Spacák, ešus, čutora.
 
 Sáva
+====
+
+| Můj bratranec Sáva
+| dostudoval práva.
+| Po patnácti letech,
+| ženě a třech dětech.
+| To je dobrá zpráva.
+
 Leopold
+=======
+
+| Rozkazem měl Leopold
+| majorovi vzdáti hold
+| a jak prudce salutoval,
+| major facku vyfasoval.
+| Stálo ho to celý žold.
+
 Otmar
+=====
+
+| Pozoruju Otmara,
+| městem vleče soumara.
+| Málo nafty. Zvíře jaksi
+| jede už zas líp než taxi.
+| Tradice to prastará.
+
 Mahulena
+========
+
+| Konečně je Mahulena
+| znovu čistě přebalena.
+| Jen se mrknu na oblaka,
+| slyším zase: "Tata kaka".
+| Šmarjá, to je osmá plena.
+
 Gertruda
-Den boje za svobodu a demokracii
+========
+
+| Stydím se za Gertrudu,
+| že mi dělá ostudu.
+| Na Karlově mostě
+| oděna jen prostě
+| recituje Nerudu.
+
 Romana
+======
+
+| Hezká groupie Romana
+| líbá v šatně frontmana.
+| Nakonec i k sexu svolí,
+| jenže ji to hrozně bolí.
+| Domů pak jde zklamaná.
+
 Alžběta
+=======
+
+| Jednou ráno Alžběta
+| vyrazila do světa.
+| Jede loukou, jede lesem,
+| také polem harcuje se
+| na mopedu Babetta.
+
 Nikola
+======
+
+| Zvědavostí Nikola
+| strčí nohu do kola.
+| Následuje strašný pád,
+| zuby musí sesbírat
+| všude kolem dokola.
+
 Albert
 Cecílie
 Klement
