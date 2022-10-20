@@ -2101,7 +2101,7 @@ Martin
 ======
 
 | Zobrazuje Martina
-| středověkká rytina.
+| středověká rytina.
 | Jede na svém bílém koni,
 | vločky, ty se za ním honí.
 | Zima brzo začíná.
@@ -2195,6 +2195,7 @@ Nikola
 | Následuje strašný pád,
 | zuby musí sesbírat
 | všude kolem dokola.
+
 
 Albert
 Cecílie
