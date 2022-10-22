@@ -2294,7 +2294,7 @@ Ondřej
 | to jsou vážně galeje.
 | Ať si není žádná bedna,
 | ale neznat dva plus jedna?
-| To mě vážně omeje.
+| To mě teda omeje.
 
 Iva
 ===
@@ -2306,6 +2306,107 @@ Iva
 | velkou láskou zahořívá.
 
 
+Blanka
+======
+
+Svatoslav
+======
+
+Barbora
+======
+
+Jitka
+======
+
+Mikuláš
+======
+
+Benjamín
+======
+
+Ambrož
+======
+
+Květoslava
+======
+
+Vratislav
+======
+
+Julie
+======
+
+Danuše
+======
+
+Dana
+======
+
+Simona
+======
+
+Lucie
+======
+
+Lýdie
+======
+
+Radan
+======
+
+Radana
+======
+
+Albína
+======
+
+Daniel
+======
+
+Miloslav
+======
+
+Ester
+======
+
+Dagmar
+======
+
+Natálie
+======
+
+Šimon
+======
+
+Vlasta
+======
+
+Adam
+======
+
+Eva
+======
+
+1. svátek vánoční
+======
+
+Štěpán
+======
+
+Žaneta
+======
+
+Bohumila
+======
+
+Judita
+======
+
+David
+======
+
+Silvestr
+======
 
 
 
