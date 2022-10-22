@@ -66,6 +66,15 @@ Miloš
 | v očích větu: "Co si budem?"
 | Lepší, než žrát choroše.
 
+Hynek
+=====
+
+| Dozvěděl se přítel Hynek -
+| prý má slabost nadledvinek.
+| Působí to nesnáze,
+| přibírání na váze.
+| Kdo ví, snad by pomoh' zinek?
+
 Nataša
 ======
 
