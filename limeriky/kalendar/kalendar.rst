@@ -2205,8 +2205,17 @@ Nikola
 | zuby musí sesbírat
 | všude kolem dokola.
 
-
 Albert
+======
+
+| Ráno našli Alberta.
+| Z Palerma toť poberta.
+| Dnes jej už nic nebolí,
+| v tělo broky se solí.
+| Prolomená omerta.
+
+
+
 Cecílie
 Klement
 Emílie
@@ -2217,6 +2226,15 @@ René
 Zina
 Ondřej
 	
+
+Iva
+===
+
+| U klavíru stojí Iva
+| dneska jenom pro mě zpívá:
+| "J'ai allumé le feu."
+| A z toho srdce mé
+| velkou láskou zahořívá.
 
 Kateřina
 ========
