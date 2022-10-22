@@ -2211,21 +2211,90 @@ Albert
 | Ráno našli Alberta.
 | Z Palerma toť poberta.
 | Dnes jej už nic nebolí,
-| v tělo broky se solí.
+| v těle broky se solí.
 | Prolomená omerta.
 
-
-
 Cecílie
+=======
+
+| Chodí ke mně Cecílie,
+| hned jak městem půlnoc bije.
+| Nikdo z přátel netuší,
+| zpívává mi do uší.
+| Valerián ve mně žije.
+
 Klement
+=======
+
+| Moje víra, praví Klement,
+| ta je pevná jako cement.
+| Kdo ji se mnou nesdílí,
+| soudruzi ho za chvíli
+| zredukují na exkrement.
+
 Emílie
+======
+
+| Moje žena Emílie
+| hledá světem fosílie.
+| Rázem září její aura,
+| v hlíně kosti vespersaura
+| na pomezí Brazílie.
+
 Kateřina
+========
+
+| Chtěl bych se svou Kateřinou
+| strávit pár dní pod peřinou,
+| hrát si s ní na anatoma,
+| žena je však pořád doma.
+| Zapíjím žal medovinou.
+
 Artur
+=====
+
+| Když tak vidím Artura,
+| připomíná pratura.
+| Jenom když jsme spolu v Chebu,
+| vypadá spíš jako zebu.
+| Snad to dělá kontura.
+
 Xenie
+=====
+
+| Ráno přijde Xenie,
+| hned si kafe zalije.
+| Vezme si ho do skladu
+| až úplně dozadu.
+| Tam se klidně zašije.
+
 René
+====
+
+| Na verbuňcích neměl René
+| vůbec mašle přežehlené.
+| Ač měl tanec hodnotu,
+| za krojovou čistotu
+| "mosel však byt vylóčené."
+
+
 Zina
+====
+
+| Uviděl jsem svoji Zinu
+| vyfocenou v magazínu.
+| Kdo jen tyhle fotky tvořil,
+| vzal to, jak ji pánbůh stvořil.
+| Přivedu je na mizinu.
+
 Ondřej
-	
+======
+
+| Doučovat Ondřeje,
+| to jsou vážně galeje.
+| Ať si není žádná bedna,
+| ale neznat dva plus jedna?
+| To mě vážně omeje.
 
 Iva
 ===
@@ -2233,26 +2302,10 @@ Iva
 | U klavíru stojí Iva
 | dneska jenom pro mě zpívá:
 | "J'ai allumé le feu."
-| A z toho srdce mé
+| Z toho srdce mé
 | velkou láskou zahořívá.
 
-Kateřina
-========
 
-| Chtěl bych se svou Kateřinou
-| strávit pár dní pod peřinou.
-| Hrát si s ní na anatoma,
-| žena však je pořád doma.
-| Zapíjím žal medovinou.
-
-Kateřina II
-===========
-
-| Nebuď jak ta teta Kateřina,
-| která furt přísloví připomíná.
-| Nechej si stříbro, když není ti dáno,
-| z nebe jsi nespad a moudřejší ráno.
-| Hůl já si najdu ty hubo líná.
 
 
 
