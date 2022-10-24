@@ -2309,6 +2309,12 @@ Iva
 Blanka
 ======
 
+| Běží rychle domů Blanka
+| praštila ji přední branka.
+| V očích se jí zajiskřilo,
+| kolem černo, potom bílo.
+| Na čele jen malá ranka.
+
 Svatoslav
 ======
 
