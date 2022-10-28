@@ -2381,13 +2381,29 @@ Ambrož
 Květoslava
 ==========
 
-| 
+| Ve Strážnici Květoslava
+| rozhodla se hladit páva:
+| "Proč mě strašíš jipkou?
+| Chci být s milou slípkou!"
+| Jenže páv byl jiná káva.
 
 Vratislav
-======
+=========
+
+| To zas jednou Vratislava
+| štve snad všechno. Zleva, zprava.
+| Kam se vrtne, tam naň zírá,
+| jeho stará, Drahomíra.
+| Mrcha jedna rozpínavá. 
 
 Julie
-======
+=====
+
+| Dnes večer se Julie
+| mimořádně umyje.
+| V noci přijde Romeo,
+| to zas bude rodeo.
+| Osedlá ji. A hyjé.
 
 Danuše
 ======
