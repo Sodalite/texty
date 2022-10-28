@@ -1958,6 +1958,15 @@ Den vzniku Československa
 | tam jsem šlápl přímo do hovna.
 | Příště pojedu radši do Hřenska.
 
+Alfréd
+======
+
+| Společně s bratrem Alfrédem
+| sereme se tu s mopedem.
+| Startér točí, jiskru hází,
+| pořád nám to nevychází.
+| Akorát do řiti pojedem.
+
 Sylva 
 =====
 
@@ -2302,7 +2311,7 @@ Iva
 | U klavíru stojí Iva
 | dneska jenom pro mě zpívá:
 | "J'ai allumé le feu."
-| Z toho srdce mé
+| A z toho srdce mé
 | velkou láskou zahořívá.
 
 
@@ -2316,25 +2325,63 @@ Blanka
 | Na čele jen malá ranka.
 
 Svatoslav
-======
+=========
+
+| Euroindián Svatoslav
+| ve snu uviděl svoji squaw.
+| Jak otevřel oči,
+| stála nad tím Nšo-či.
+| Zůstal chudera celý paf.
 
 Barbora
-======
+=======
+
+| Dostal jsem buchtu od Barbory
+| prý, že je celá z rebarbory.
+| Byly v ní nejspíše jakési spóry,
+| ty se mi zahryzly do mikroflóry,
+| trousím, kde mohu ... i do komory.
 
 Jitka
-======
+=====
+
+| Ulovil jsem krásku Jitku
+| celkem dobře na kreditku.
+| Teď bych toužil zmáčknout "edit".
+| Když té kartě došel kredit,
+| tak jsem zůstal bez zážitku.
 
 Mikuláš
-======
+=======
+
+| Objednal jsem Mikuláše.
+| Dcery stály tiše, plaše.
+| Pak už jenom hrůzou tuhly,
+| jak on vyndal kusy uhlí.
+| Hnědá stekla na kamaše.
 
 Benjamín
-======
+========
+
+| Ten náš kocour Benjamín
+| chodí spávat za komín.
+| Jednou v noci, potichu,
+| vzplála jiskra v kožichu.
+| Letěl jako džavelín.
 
 Ambrož
 ======
 
+| Potkal jsem tlustého Ambrože
+| hned jsem si vzpomenul na mrože.
+| Odplivnul jsem si hned, protože
+| jsem s tímhle člověkem na nože,
+| neboť mi zkazil dvě soulože.
+
 Květoslava
-======
+==========
+
+| 
 
 Vratislav
 ======
