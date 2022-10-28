@@ -1763,11 +1763,11 @@ Marina
 Andrej
 ======
 
-| Tak se přiznej Andreji,
+| Tak si přiznej Andreji,
 | ruce v kapsách svrbějí.
-| V prvním kroku přiznej sám,
-| že jsi vlastně kleptoman.
-| Pak máš ještě naději.
+| Jestli zavčas uznáš sám,
+| že jsi prostý kleptoman,
+| pak máš ještě naději.
 
 Marcel
 ======
