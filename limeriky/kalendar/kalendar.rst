@@ -2355,8 +2355,8 @@ Mikuláš
 =======
 
 | Objednal jsem Mikuláše.
-| Dcery stály tiše, plaše.
-| Pak už jenom hrůzou tuhly,
+| Děti stály tiše, plaše.
+| Letos zase hrůzou ztuhly,
 | jak on vyndal kusy uhlí.
 | Hnědá stekla na kamaše.
 
@@ -2408,14 +2408,38 @@ Julie
 Danuše
 ======
 
+| Na malém balkónu Danuše
+| pěstuje v truhlíku moruše.
+| Přezrálé moruše nevábí.
+| Doufá však v lehounké hedvábí,
+| jakmile bource si přivábí.
+
 Dana
-======
+====
+
+| Plánuje si život Dana,
+| za rok budu nejspíš vdaná.
+| Aby mohli spolu žít,
+| musí cit v ní zapálit.
+| Tak si najde pyromana.
 
 Simona
 ======
 
+| Zkouší se nasoukat Simona
+| do svého starého kimona,
+| co dlouho leželo v šuplíku.
+| Vypadá jak párek v rohlíku.
+| Přesto to zní jako poklona.
+
 Lucie
-======
+=====
+
+| Nadhodím své ženě: "Lucie?
+| Jak asi vypadá harpyje?"
+| Na chvíli přemýšlí, metodicky,
+| a potom odpoví lakonicky:
+| "Ženská, co nechceš mít u pyje."
 
 Lýdie
 ======
