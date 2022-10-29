@@ -2442,13 +2442,31 @@ Lucie
 | "Ženská, co nechceš mít u pyje."
 
 Lýdie
-======
+=====
+
+| Zjistilo se u Lýdie,
+| že má v krvi chlamýdie.
+| Doktor jásá: "To je sen,
+| já jsem našel nový kmen.
+| To jsou totiž chlamlýdie."
 
 Radan
-======
+=====
+
+| "Radan."
+| "Vladan."
+| "Líbíš!"
+| "Slíbíš?"
+| "Zadán."
 
 Radana
 ======
+
+| Přišla si stěžovat Radana
+| na svého třídního, na Dana.
+| Dotkl se jejích citů,
+| prokázal toxicitu,
+| když řekl, že není nadaná.
 
 Albína
 ======
@@ -2474,32 +2492,59 @@ Natálie
 Vlasta
 ======
 
-Adam
-======
+| Chlubila se Vlasta,
+| že je teďka rasta.
+| Však já jsem si všimnul hned,
+| že jí roste z nosu dread.
+| Ustřihnout a basta.
 
-Eva
-======
+Adam a Eva
+==========
+
+| Vejdou pod strom Adam, Eva.
+| Eva zprava, Adam zleva:
+| "Lásko, budou Vánoce!"
+| "Jíme málo ovoce!
+| Dej si jabko, to snad neva."
 
 1. svátek vánoční
-======
+=================
+
+| První svátek vánoční
+| moje mužství k nebi ční
+| velikosti kůlu.
+| Bohužel mám smůlu.
+| Žena jde dnes na noční.
 
 Štěpán
 ======
 
+| Odpoledne na Štěpána
+| dal jsem děcku marcipána.
+| Už je deset, ještě žije,
+| má snad vagón energie.
+| Zrovna mlátí do tympána.
+
 Žaneta
 ======
 
+| Obíhá mě Žaneta
+| jako hvězdu planeta.
+| "Holka, nechci říkat fráze,
+| zůstaň na oběžné dráze,
+| nebo odleť do světa."
+
 Bohumila
-======
+========
 
 Judita
 ======
 
 David
-======
+=====
 
 Silvestr
-======
+========
 
 
 
