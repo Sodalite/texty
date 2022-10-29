@@ -1974,7 +1974,7 @@ Sylva
 | zakoupila si lva.
 | Nebyl příliš přítulný,
 | tak šel za trest do kůlny.
-| Hlady sotva šilhá.
+| Prý to tam má útulný.
 
 
 Silvie
