@@ -2246,7 +2246,7 @@ Emílie
 
 | Moje žena Emílie
 | hledá světem fosílie.
-| Rázem září její aura,
+| Rázem může dělat haura,
 | v hlíně kosti vespersaura
 | na pomezí Brazílie.
 
@@ -2544,7 +2544,7 @@ David
 =====
 
 Silvestr
-========
+=========
 
 
 
