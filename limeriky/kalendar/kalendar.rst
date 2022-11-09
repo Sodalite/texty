@@ -2103,7 +2103,7 @@ Bohdan
 | "Ale ... zelí kysané."
 | Spiklenecky na mě kouk'
 | pak hned pustil ostrý pšouk.
-| Žádný z nás už nevstane.
+| Mizím, než mě ovane.
 
 
 Evžen
