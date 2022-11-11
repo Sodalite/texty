@@ -2118,11 +2118,11 @@ Evžen
 Martin
 ======
 
-| Zobrazuje Martina
-| středověká rytina.
+| Doprovází Martina
+| nerozlučná družina.
 | Jede na svém bílém koni,
-| vločky, ty se za ním honí.
-| Zima brzo začíná.
+| veze vločky jako vloni.
+| Tak nám zima začíná.
 
 Benedikt
 ========
