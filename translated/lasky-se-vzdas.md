@@ -24,15 +24,15 @@ Se mnou snídal král, chtěl mi křídla dát
 a já stejně si ho nevážil.
 
 Já snad dál šanci mám  
-zkusím lásku svou ti dát.  
-Když já jsem bloud tak zůstaň celou noc  
+zkusím lásku tvou si přát.  
+Když mám být bloud tak zůstaň celou noc  
 klidně ráno zůstaň spát.  
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
-Dál jsi ochotná všechno do hry dát  
+Dál jsi ochotná znovu o vše hrát  
 nebo lásky své se vzdáš.
 
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
-Dál jsi ochotná všechno do hry dát   
+Dál jsi ochotná znovu o vše hrát  
 nebo lásky své se vzdáš?
