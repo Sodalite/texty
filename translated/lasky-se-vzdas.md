@@ -14,23 +14,23 @@ Chceš rázem mít víc a dál nevidíš
 Když jsem s hlavou v dálkách,  
 proč chceš jít i tam?  
 Jestli znáš můj svět, a víš kým jsem já,  
-jen se chápat snaž.  
+(tak) jen se chápat snaž.  
 Můžu chvíli sám sebou být  
 nebo lásky své se vzdáš?
 
-Jo, byl jsem kdysi v kopcích, cítil chladný vítr vát  
-měl jsem neštěstí, i šťastný byl  
-Se mnou snídal král, chtěl mi křídla dát  
+Já byl jsem kdysi v kopcích, cítil chladný vítr vát,  
+měl jsem neštěstí i šťastný byl.  
+Se mnou snídal král, chtěl mi křídla dát,  
 a já stejně si ho nevážil.
 
-Já snad dál šanci mám  
+Já snad dál šanci mám,  
 zkusím lásku tvou si přát.  
-Když mám být bloud tak zůstaň celou noc  
+Když mám být bloud tak zůstaň celou noc,  
 klidně ráno zůstaň spát.  
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
 Dál jsi ochotná znovu o vše hrát  
-nebo lásky své se vzdáš.
+nebo lásky své se vzdáš?
 
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
