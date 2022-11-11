@@ -30,6 +30,7 @@
 [Katce (Paul Simon)](translated/katce.md)  
 [Kejklíř (Bob Dylan)](translated/kejklir.md)  
 [Královna a voják (Suzanne Vega)](translated/kralovna.md)  
+[Lásky své se vzdáš? (Bob Dylan)](translated/lasky-se-vzdas.md)  
 [Mávej mi (Rolling Stones)](translated/ruby_tuesday.md)  
 [Můry (Jethro Tull)](translated/mury.md)  
 [Odešla duha (Peter, Paul, and Mary)](translated/dejavu/houpyhou.md)  
