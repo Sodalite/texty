@@ -6,7 +6,7 @@ Chceš mě vážně mít tak moc jak dáváš znát
 nebo stín tvých vin tu zbyl?  
 Mám už z lásky šrám, jak to pálí znám,  
 stížností se nedočkáš.  
-Chci znát, zda s tebou počítát  
+Chci znát, zda s tebou počítat  
 nebo lásky své se vzdáš?
 
 Chceš rázem mít víc a dál nevidíš  
@@ -25,7 +25,7 @@ a já stejně si ho nevážil.
 
 Já snad dál šanci mám,  
 zkusím lásku tvou si přát.  
-Když mám být bloud tak zůstaň celou noc,  
+Když bláznem být tak zůstaň celou noc,  
 klidně ráno zůstaň spát.  
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
