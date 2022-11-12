@@ -6,7 +6,7 @@ Chceš mě vážně mít tak moc jak dáváš znát
 nebo stín tvých vin tu zbyl?  
 Mám už z lásky šrám, jak to pálí znám,  
 stížností se nedočkáš.  
-Chceš znát, zda s tebou počítám  
+Chci znát, zda s tebou počítát  
 nebo lásky své se vzdáš?
 
 Chceš rázem mít víc a dál nevidíš  
