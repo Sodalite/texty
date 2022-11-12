@@ -29,10 +29,10 @@ Když bláznem být tak zůstaň celou noc,
 klidně ráno zůstaň spát.  
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
-Dál jsi ochotná znovu o vše hrát  
+Dál jsi ochotná o vše hrát  
 nebo lásky své se vzdáš?
 
 Umíš šít a stlát, život kytkám dát,  
 moje trápení už znáš?  
-Dál jsi ochotná znovu o vše hrát  
+Dál jsi ochotná o vše hrát  
 nebo lásky své se vzdáš?
