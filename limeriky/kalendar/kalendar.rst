@@ -2199,11 +2199,11 @@ Romana
 Alžběta
 =======
 
-| Jednou ráno Alžběta
-| vyrazila do světa.
-| Jede loukou, jede lesem,
-| také polem harcuje se
-| na mopedu Babetta.
+| Jednou večer Alžběta:
+| "Hele, padá kometa".
+| Soused kleje za garáží,
+| zklamaný je po baráži.
+| Pak jde radši zametat.
 
 Nikola
 ======
