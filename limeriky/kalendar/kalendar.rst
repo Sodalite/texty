@@ -2218,7 +2218,7 @@ Albert
 ======
 
 | Ráno našli Alberta.
-| Z Palerma toť poberta.
+| Z Palerma je, poberta.
 | Dnes jej už nic nebolí,
 | v těle broky se solí.
 | Prolomená omerta.
@@ -2246,8 +2246,8 @@ Emílie
 
 | Moje žena Emílie
 | hledá světem fosílie.
-| Rázem může dělat haura,
-| v hlíně kosti vespersaura
+| Dneska může dělat haura,
+| našla kosti vespersaura
 | na pomezí Brazílie.
 
 Kateřina
