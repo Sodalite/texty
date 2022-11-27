@@ -2274,8 +2274,8 @@ Xenie
 | Ráno přijde Xenie,
 | hned si kafe zalije.
 | Vezme si ho do skladu
-| až úplně dozadu.
-| Tam se klidně zašije.
+| za regály, dozadu.
+| Tam se tajně zašije.
 
 René
 ====
