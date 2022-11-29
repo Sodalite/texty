@@ -11,7 +11,7 @@ nebo lásky své se vzdáš?
 
 Chceš rázem mít víc a dál nevidíš  
 že já toužím být i sám?  
-Když jsem s hlavou v dálkách,  
+Když sním s hlavou v dálkách,  
 proč chceš jít i tam?  
 Jestli znáš můj svět, a víš kým jsem já,  
 (tak) jen se chápat snaž.  
