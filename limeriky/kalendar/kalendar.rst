@@ -2475,19 +2475,44 @@ Daniel
 ======
 
 Miloslav
-======
+========
 
 Ester
-======
+=====
+
+| Do hovoru vstoupí Ester:
+| "Já mám asi stopět sester."
+| "Jistě budou fajnové."
+| "Zapomeňte, pánové,
+| ty jsou všechny řádové."
 
 Dagmar
 ======
 
+| "Co to hobby Dagmary?"
+| "Chová doma nezmary."
+| "To se na nich něco učí?"
+| "Líbí se jí jak se pučí.
+| Čučí na ně z almary."
+
 Natálie
-======
+=======
+
+| Vsadila se Natálie:
+| "Já sa nikdy neopijem."
+| Po pár chvílích "na bare"
+| už je strašně kantáre.
+| Na záchodě právě blije.
+
 
 Šimon
-======
+=====
+
+| Podezírám Šimona,
+| že se mění v démona.
+| Včera vběhl na faru,
+| rozšlapal tam kytaru
+| české značky Cremona.
 
 Vlasta
 ======
@@ -2537,14 +2562,38 @@ Adam a Eva
 Bohumila
 ========
 
+| Celý život Bohumila
+| věřila, že bohu milá.
+| Po smrti však spladla klec.
+| Nabídli jí očistec,
+| protože prý pyšná byla.
+
 Judita
 ======
+
+| Hledí smutně Judita,
+| pořád ještě nesvítá.
+| Ke Schweinfurtu, hurá sláva,
+| vidí cválat Břetislava.
+| Romance jak vyšitá.
 
 David
 =====
 
+| Osočili Davida,
+| že je hrozný nelida.
+| Jak má trochu příležitost
+| sedře všechny skoro na kost.
+| Všem se nám to zajídá.
+
 Silvestr
-=========
+========
+
+| Dneska mě navštívil Silvestr,
+| před domem zastavil harvestr,
+| a přes plotek do zahrady
+| přehodil mi ze tři klády.
+| To mi prý vydrží semestr.
 
 
 
