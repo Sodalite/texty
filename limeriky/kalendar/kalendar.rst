@@ -2357,7 +2357,7 @@ Mikuláš
 | Objednal jsem Mikuláše.
 | Děti stály tiše, plaše.
 | Letos zase hrůzou ztuhly,
-| jak on vyndal kusy uhlí.
+| hned jak vyndal kusy uhlí.
 | Hnědá stekla na kamaše.
 
 Benjamín
@@ -2400,7 +2400,7 @@ Julie
 =====
 
 | Dnes večer se Julie
-| mimořádně umyje.
+| líp než jindy umyje.
 | V noci přijde Romeo,
 | to zas bude rodeo.
 | Osedlá ji. A hyjé.
@@ -2564,7 +2564,7 @@ Bohumila
 
 | Celý život Bohumila
 | věřila, že bohu milá.
-| Po smrti však spladla klec.
+| Po smrti však spadla klec.
 | Nabídli jí očistec,
 | protože prý pyšná byla.
 
