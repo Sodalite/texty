@@ -2544,11 +2544,11 @@ Adam a Eva
 Štěpán
 ======
 
-| Odpoledne na Štěpána
-| dal jsem děcku marcipána.
+| Odpoledne o Štěpánu
+| dal jsem děcku marcipánu.
 | Už je deset, ještě žije,
 | má snad vagón energie.
-| Zrovna mlátí do tympána.
+| Zrovna mlátí do tympánu.
 
 Žaneta
 ======
