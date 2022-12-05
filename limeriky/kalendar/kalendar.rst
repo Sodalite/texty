@@ -2349,7 +2349,7 @@ Jitka
 | celkem dobře na kreditku.
 | Teď bych toužil zmáčknout "edit".
 | Když té kartě došel kredit,
-| tak jsem zůstal bez zážitku.
+| už jsem zůstal bez zážitku.
 
 Mikuláš
 =======
