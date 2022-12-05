@@ -2435,7 +2435,7 @@ Simona
 Lucie
 =====
 
-| Nadhodím své ženě: "Lucie?
+| Nadhodím ženě své: "Lucie?
 | Jak asi vypadá harpyje?"
 | Na chvíli přemýšlí, metodicky,
 | a potom odpoví lakonicky:
@@ -2471,20 +2471,39 @@ Radana
 Albína
 ======
 
+| Vrtí se v sedačce Albína,
+| že se jí nelíbí forbína:
+| "Čekala jsem velké věci,
+| zatím jsou to jenom kecy.
+| A to sem jedem až ze Zlína."
+
 Daniel
 ======
 
+| Řidič bagru Daniel
+| cestu k firmě zkrátit chtěl.
+| Byl v tom ovšem malý háček,
+| jak byl hloupý, nedbal značek.
+| A pod mostem neprojel.
+
 Miloslav
 ========
+
+| Vypravil se Miloslav
+| kolmo z Brodu na Čáslav.
+| Už jak minul Kšely,
+| zchvácený je celý.
+| Raděj si na taxi máv'. 
 
 Ester
 =====
 
 | Do hovoru vstoupí Ester:
-| "Já mám asi stopět sester."
+| "Já mám asi sto pět sester."
 | "Jistě budou fajnové."
 | "Zapomeňte, pánové,
 | ty jsou všechny řádové."
+
 
 Dagmar
 ======
@@ -2595,16 +2614,3 @@ Silvestr
 | přehodil mi ze tři klády.
 | To mi prý vydrží semestr.
 
-
-
-
-Jednoho dne se malá holčička zeptala svého moudrého dědečka: ,,Dědo, řekni mi, co je nejsilnější na světě?" Děda odpověděl: ,,Víš, vnučko moje, na světě je 8 silných věcí: 
--  Železo je silné, ale změkne v ohni.
-- Oheň je silný, ale uhasí ho voda.
-- Voda je silná, ale odpaří se do oblak.
-- Mraky jsou silné, ale rozfouká je vítr.
-- Vítr je silný, ale zastaví ho hory.
-- Hory jsou silné, ale zdolá je člověk.
-- Člověk je silný, ale zdolá ho smrt.
-,,Takže nejsilnější je smrt?" vykřikne holčička. ,,Ne, smrt není nejsilnější," odpoví děda. ,,Láska totiž překoná i smrt." 
-(Zdroj: anonymní citát)
