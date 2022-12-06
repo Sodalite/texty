@@ -2356,7 +2356,7 @@ Mikuláš
 
 | Objednal jsem Mikuláše.
 | Děti stály tiše, plaše.
-| Letos zase hrůzou ztuhly,
+| Poznal jsem, jak hrůzou ztuhly,
 | hned jak vyndal kusy uhlí.
 | Hnědá stekla na kamaše.
 
