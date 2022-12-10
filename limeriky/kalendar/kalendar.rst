@@ -2390,11 +2390,11 @@ Květoslava
 Vratislav
 =========
 
-| To zas jednou Vratislava
-| štve snad všechno. Zleva, zprava.
-| Kam se vrtne, tam naň zírá,
-| jeho stará, Drahomíra.
-| Mrcha jedna rozpínavá. 
+| To zas jednou Vratislav
+| pozoroval stádo krav:
+| "Žije jenom stykem,
+| kdo se zrodil býkem.
+| Chtěl bych také býti brav."
 
 Julie
 =====
