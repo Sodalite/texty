@@ -9,7 +9,7 @@ stížností se nedočkáš.
 Chci znát, zda s tebou počítat  
 nebo lásky své se vzdáš?
 
-Chceš rázem mít víc a dál nevidíš  
+Chceš čím dál víc a pak už nevidíš  
 že já toužím být i sám?  
 Když sním s hlavou v dálkách,  
 proč chceš jít i tam?  
