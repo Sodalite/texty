@@ -2348,7 +2348,7 @@ Jitka
 | Ulovil jsem krásku Jitku
 | celkem dobře na kreditku.
 | Teď bych toužil zmáčknout "edit".
-| Když té kartě došel kredit,
+
 | už jsem zůstal bez zážitku.
 
 Mikuláš
@@ -2512,7 +2512,7 @@ Dagmar
 | "Chová doma nezmary."
 | "To se na nich něco učí?"
 | "Líbí se jí jak se pučí.
-| Čučí na ně z almary."
+| Čučí na ni z almary."
 
 Natálie
 =======
