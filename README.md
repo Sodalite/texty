@@ -18,6 +18,7 @@
 [Příběh pana Šedého](original/dgray.md)  
 [Přiletěl orel](original/priletel-orel.md)  
 [Rovnátka](original/rovnatka.md)  
+[Vánoční skepse](original/vanocni-skepse.md)  
 [Ve frontě na vleku](original/fronta_na_vleky.md)  
 [Vezmi mě, táto](original/vezmi-me-tato.md)  
 [Vysoce inteligentní robot](original/robot.md)  
