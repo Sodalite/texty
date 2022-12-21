@@ -1,7 +1,7 @@
 # Na tvém břehu (On your shore)
 
 Zvláštní jak vnímám,  
-když trávím čas na plážích tvých. 
+když trávím čas na plážích tvých.   
 Zvláštní jak cítím,  
 když střídá radost trápení.
 
@@ -20,7 +20,7 @@ den s nocí zas se střídá.
 Tam v modrých dálkách  
 chci bránou jít zpět k dětským dnům.  
 Příliv teď sílí  
-vrátí mě blíž mým způsobům.  
+snad vrátí mě k mým způsobům.  
 
 Zvláštní jak váhám  
 se brouzdat klidně ve tvých vodách.  
