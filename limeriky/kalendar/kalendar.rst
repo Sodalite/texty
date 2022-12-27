@@ -18,7 +18,25 @@ Karina
 | svou Toyotou Carina
 | sviští krajem, cesty řeže,
 | za volantem skoro vleže,
-| jezdí jako Farina.
+| jede jako Farina.
+
+Radmila
+=======
+
+| Cikánečka Radmila
+| budoucnost mi věštila.
+| Na Brněnském Cejlu,
+| byl jsem jedním z hejlů.
+| Hotovost se ztratila.
+
+Radomil
+=======
+
+| Starý trempíř Radomil
+| první ledy prolomil.
+| Na potlachu v Ascaloně
+| cucnul lektvar ze slivoně,
+| palce se mnou zalomil.
 
 Diana
 =====
@@ -38,15 +56,14 @@ Dalimil
 | tak si ještě zlomil kyčel.
 | Neděle se vydařila.
 
-Čestmír
-=======
+Baltazar, Kašpar, Melichar
+==========================
 
-| Oslovila Čestmíra
-| smíchy skoro umírá -
-| svalů plno, chlap jak hora,
-| však ne IQ vědátora.
-| Možná trumfne tapíra.
-
+| Kašpara, Baltazara, Melichara
+| vzala si do postele moje stará.
+| S výmluvou je pohotová:
+| "Je to sbírka tříkrálová."
+| Na všechny čumím tak jako z jara.
 
 Vilma
 =====
@@ -57,6 +74,114 @@ Vilma
 | jak jen se tam nakrucuje
 | s Rosenbergem v stínu jilmu.
 
+Čestmír
+=======
+
+| Oslovila Čestmíra
+| smíchy skoro umírá --
+| svalů plno, chlap jak hora,
+| však ne IQ vědátora.
+| Možná trumfne tapíra.
+
+Vladan
+======
+
+| "Zahraj ještě, Vladane,
+| tohle 'Listí spadané'".
+| "Dneska je to po vosmý,
+| co chceš něco vod Kosmy,
+| tak už se to nestane." 
+
+Břetislav
+=========
+
+| Přesvědčuje Břetislav,
+| že je lepší FLAC než WAV:
+| "Kdo je pevný v kramflecích, 
+| ten ukládá ve flacích.
+| A kdo WAV ten není zdráv."
+
+Bohdana
+=======
+
+| Jdeme spolu s Bohdanou
+| na Nevěstu Prodanou.
+| Srdce bolí, v uších píchá
+| hned jak spustí Jeník Mícha
+| na Mařenku vyžranou.
+
+Pravoslav
+=========
+
+| Oznamuje Pravoslav,
+| že chce dělat zkoušku trav.
+| Podívím se: "Ale nač?
+| To snad chceš být zaklínač?"
+| "Chci si koupit vyžínač!" 
+
+Edita
+=====
+
+| Konzumuje Edita
+| řezy značky Sedita:
+| Tatranky, Horalky, Anita, Vesna.
+| V tomhle je opravdu naprosto děsná.
+| Roli hraje kvantita.
+
+Radovan
+=======
+
+| Do garsónky Radovana
+| nevejde se sprcha, vana.
+| Tak si svoje propriety
+| myje v hrnci na špagety.
+| I to skýtá Malá Strana. 
+
+Alice
+=====
+
+| Koupila si Alice
+| v IKEA dvě police.
+| A jak si je pověsila,
+| nosnost hmoždin přecenila,
+| bolelo to velice.
+
+Ctirad
+======
+
+Drahoslav
+=========
+
+Vladislav
+=========
+
+Vladislava
+==========
+
+Doubravka
+=========
+
+Sebastián
+=========
+
+Ilona
+=====
+
+Běla
+====
+
+Slavomír
+========
+
+Slavomíra
+=========
+
+Zdeněk
+======
+
+Milena
+======
+
 Miloš
 =====
 
@@ -65,6 +190,27 @@ Miloš
 | Mrknul na mě s velkým studem
 | v očích větu: "Co si budem?"
 | Lepší, než žrát choroše.
+
+Zora
+====
+
+Ingrid
+======
+
+Otýlie
+======
+
+Zdislava
+========
+
+Robin
+=====
+
+Erna
+====
+
+Marika
+======
 
 Hynek
 =====
