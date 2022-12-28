@@ -149,8 +149,20 @@ Alice
 Ctirad
 ======
 
+| "Nevnucuj mi Ctirada,
+| toho já mám nerada.",
+| čílí se tu známá, Lída.
+| "Trochu smrdí? Holky střídá?
+| Je to pro mě záhada."
+
 Drahoslav
 =========
+
+| V Trutnově, v muzeu Drahoslav
+| potajmu vyzkoušel starý stav.
+| Zrak mu až přechází ze stovek strunek,
+| nakonec úplně zamotal člunek.
+| Raději vrátil se do Svitav.
 
 Vladislav
 =========
