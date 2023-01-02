@@ -727,7 +727,7 @@ Ladislava
 | že ji dneska bolí hlava
 | a že radši půjde spát.
 | S kým se mám teď milovat?
-| Zbudou ruce - levá, pravá.
+| Zbudou ruce. Levá? Pravá?
 
 Lubomír
 =======
