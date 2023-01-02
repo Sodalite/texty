@@ -167,11 +167,30 @@ Drahoslav
 Vladislav
 =========
 
+| MUDr. Pechlát Vladislav
+| to byl blázen do otrav.
+| Jednou u něj chcípnul pes,
+| tak si jako Sokrates,
+| k pití svařil bolehlav.
+
 Vladislava
 ==========
 
+| Vyhodili Vladislavu
+| z představenstva Metrostavu.
+| Jde jí na vrub ztráta
+| za víno pro Ratha.
+| Taky chtěla na výbavu.
+
+
 Doubravka
 =========
+
+| Dělám si legraci z Doubravky,
+| že se jí nedaří sykavky.
+| "Fetři moje emofe
+| afpoň dyfou Vánofe."
+| "Zapálit jdu prfkavky."
 
 Sebastián
 =========
