@@ -14,11 +14,11 @@ Nový rok
 Karina
 ======
 
-| Moje známá Karina
-| svou Toyotou Carina
+| Moje sestřenka Karina
+| svojí Toyotou Carina
 | sviští krajem, cesty řeže,
 | za volantem skoro vleže,
-| jede jako Farina.
+| cítí se jako Farina.
 
 Radmila
 =======
@@ -2742,8 +2742,8 @@ Bohumila
 | Celý život Bohumila
 | věřila, že bohu milá.
 | Po smrti však spadla klec.
-| Nabídli jí očistec,
-| protože prý pyšná byla.
+| Nabídli jí očistec.
+| Prý si ještě polepšila.
 
 Judita
 ======
@@ -2757,11 +2757,11 @@ Judita
 David
 =====
 
-| Osočili Davida,
-| že je hrozný nelida.
-| Jak má trochu příležitost
-| sedře všechny skoro na kost.
-| Všem se nám to zajídá.
+| Brečela, že Davida,
+| nevídá skrz kovida.
+| Inteligent, členem v menze,
+| chodí jen, když přijde penze.
+| Takhle se to povídá.
 
 Silvestr
 ========
