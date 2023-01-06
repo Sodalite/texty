@@ -63,7 +63,7 @@ Baltazar, Kašpar, Melichar
 | vzala si do postele moje stará.
 | S výmluvou je pohotová:
 | "Je to sbírka tříkrálová."
-| Na všechny čumím tak jako z jara.
+| Odpověď až krutě přímočará.
 
 Vilma
 =====
