@@ -167,7 +167,7 @@ Drahoslav
 Vladislav
 =========
 
-| MUDr. Pechlát Vladislav
+| Docent Pechlát Vladislav
 | to byl blázen do otrav.
 | Jednou u něj chcípnul pes,
 | tak si jako Sokrates,
@@ -178,8 +178,8 @@ Vladislava
 
 | Vyhodili Vladislavu
 | z představenstva Metrostavu.
-| Jde jí na vrub ztráta
-| za víno pro Ratha.
+| Jde jí na vrub velká ztráta
+| za víno pro MUDr. Ratha.
 | Taky chtěla na výbavu.
 
 
@@ -195,23 +195,65 @@ Doubravka
 Sebastián
 =========
 
+| Závidí mi Sebastián,
+| že mám doma obsidián.
+| V očích se mu zalesklo.
+| Pravím: "Je to jenom sklo.
+| Pojď se mrknout na persián."
+
 Ilona
 =====
+
+| Říkám své modelce Iloně:
+| "Budu tě fotit jen v zácloně".
+| Jak by na mě sáhla smrt,
+| na fotkách je velké prd.
+| Já jsem se pomýlil ve cloně.
 
 Běla
 ====
 
+| Do vlasů mi vzdychá Běla,
+| že prý by mě strašně chtěla.
+| Na pozadí zpívá Meky,
+| jenže já jsem pořád měkký.
+| Ani ona neuspěla.
+
 Slavomír
 ========
+
+| Podívejte Slavomíra,
+| šteluje si pionýra.
+| A jak svoji milou vez,
+| zasmradil nám celou ves,
+| taky humna, ba i les.
 
 Slavomíra
 =========
 
-Zdeněk
+| Marně čeká Slavomíra
+| doma v bytě na kurýra.
+| V schránce strohé oznámení
+| nebyla prý "k zastižení".
+| Nechápavě na ně zírá.
+
+Zdenek
 ======
+
+| Včera na plese Zdenek
+| vypil osmnáct sklenek.
+| Tančí ve stoje, v kleče.
+| Naráz cosi mu teče
+| přímo po noze z trenek.
 
 Milena
 ======
+
+| Dětem dnes vypráví Milena,
+| nejlepší prý je věc sdílená.
+| Polknu sousto chleba s medem:
+| "Sdílím ženu se sousedem."
+| Vyletí na mě jak šílená.
 
 Miloš
 =====
@@ -225,14 +267,38 @@ Miloš
 Zora
 ====
 
+| Zapálila naše Zora
+| staré srdce profesora.
+| Vždycky, když se nechá svést,
+| nemusíme psáti test.
+| Tak se musí na kantora.
+
 Ingrid
 ======
+
+| Rozhodla se Ingrida,
+| že si koupí hybrida.
+| Projíždí se po okresce
+| a na přístrojové desce
+| vozí fotku Hagrida.
 
 Otýlie
 ======
 
+| Přečetla si Otýlie,
+| jak je krásná Sicílie.
+| Takhle večer u Palerma
+| pod srdce jí vplulo sperma.
+| Však to není tragédie.
+
 Zdislava
 ========
+
+| Každý den Zdislava z Lemberka
+| po hradě běhá jak čiperka.
+| Z rodinného kapitálu
+| nacpe něco do špitálu.
+| Taková docela frajerka.
 
 Robin
 =====
