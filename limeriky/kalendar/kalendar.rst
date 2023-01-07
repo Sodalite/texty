@@ -70,9 +70,9 @@ Vilma
 
 | Povídali, že prý Vilmu
 | viděli hrát v pornofilmu.
-| Celá ves se podivuje,
-| jak jen se tam nakrucuje
-| s Rosenbergem v stínu jilmu.
+| Počítače zapnuli,
+| aby si jej stáhnuli -
+| "Žhavá láska v stínu jilmu."
 
 Čestmír
 =======
