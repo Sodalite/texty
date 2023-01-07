@@ -303,11 +303,29 @@ Zdislava
 Robin
 =====
 
+| U lékaře sedí Robin
+| prý má špatný hemoglobin.
+| Při úplňku v lese vyje,
+| nejí česnek a krev pije.
+| Doktor praví: "Porfýrie".
+
 Erna
 ====
 
+| Kdyby byla Erna
+| svému muži věrná,
+| nemusel by, jasná věc,
+| její manžel, žárlivec,
+| sedět až tam zčerná.
+
 Marika
 ======
+
+| Když k nám přijde Marika
+| probírá se lyrika.
+| A pak, než ji vyprovodím,
+| její ňadra osvobodím
+| z vězení a ze trika.
 
 Hynek
 =====
@@ -352,7 +370,7 @@ Monika
 | vzal na párek v rohlíku.
 | Řekla: "To je asi fejk,
 | čekala jsem nejmíň stejk,
-| a že budeš v balíku.
+| a že budeš v balíku."
 
 Emil
 ====
