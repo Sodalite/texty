@@ -77,11 +77,11 @@ Vilma
 Čestmír
 =======
 
-| Oslovila Čestmíra
-| smíchy skoro umírá --
-| svalů plno, chlap jak hora,
-| však ne IQ vědátora.
-| Možná trumfne tapíra.
+| U létajících Čestmírů
+| s potomky jsou teď na štíru.
+| Nežli by se pán měl k činu,
+| myslel trochu na rodinu,
+| létá si v širém vesmíru.
 
 Vladan
 ======
@@ -335,6 +335,77 @@ Hynek
 | Působí to nesnáze,
 | přibírání na váze.
 | Kdo ví, snad by pomoh' zinek?
+
+Nela
+====
+
+| Na pódiu stojí Nela,
+| třese vnady svého těla,
+| na trh nese svoji kůži.
+| Pod pódiem lační muži.
+| Kéž by jiný osud měla.
+
+Blažej
+
+Jarmila
+
+Dobromila
+
+Vanda
+
+Veronika
+
+Milada
+
+Apolena
+
+Mojmír
+
+Božena
+
+Slavěna
+
+Slávka
+
+Věnceslav
+
+Věnceslava
+
+Valentýn
+
+Valentýna
+
+Jiřina
+
+Ljuba
+
+Miloslava
+
+Gizela
+
+Patrik
+
+Oldřich
+
+Eleonora
+
+Lenka
+
+Petr
+
+Svatopluk
+
+Matyáš
+
+Matěj
+
+Liliana
+
+Dorota
+
+Alexandr
+
+Lumír
 
 Nataša
 ======
