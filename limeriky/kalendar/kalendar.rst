@@ -409,10 +409,25 @@ Apolena
 | Aspoň, že je trochu změna.
 
 Mojmír
+======
+
+| Zaskočila Mojmíra 
+| netalentu přemíra.
+| Na castingu už to není
+| ale vůbec o umění.
+| Každý to jen zašmírá.
 
 Božena
+======
+
+| Vymlouvá se Božena,
+| že je jaksi zmožena:
+| "Vím, že by to bylo boží,
+| přivezli nám ale zboží.
+| Třeba může Mařena?"
 
 Slavěna
+=======
 
 Slávka
 
