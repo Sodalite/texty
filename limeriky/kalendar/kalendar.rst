@@ -316,7 +316,7 @@ Erna
 | svému muži věrná,
 | nemusel by, jasná věc,
 | její manžel, žárlivec,
-| sedět až tam zčerná.
+| sedět, až tam zčerná.
 
 Marika
 ======
@@ -355,16 +355,58 @@ Blažej
 | svoje zuby ztráceje.
 
 Jarmila
+=======
+
+| Jednou v zoo Jarmila
+| objevila čumila.
+| Civět nesmí, to mu poví,
+| shodila jej k medvědovi.
+| Zároveň tak krmila.
 
 Dobromila
+=========
+
+| Hudebnice Dobromila
+| před koncertem dobro myla.
+| Říkali jí, že to stačí -
+| neposlouchá, více tlačí.
+| Rezonátor prolomila.
 
 Vanda
+=====
+
+| Na večer jsem pozval Vandu,
+| sedneme si na verandu.
+| Budem sedět nehnutě
+| pod souhvězdím Labutě.
+| Odmítnula. prý má Standu.
 
 Veronika
+========
+
+| Vypustil jsem Veroniku,
+| ať si trochu řádí v KiKu.
+| Za pár hodin, holka milá,
+| kreditku mi vyčistila.
+| To je zátěž na psychiku.
 
 Milada
+======
+
+| Říkala mi Milada:
+| "Jde ti to jak zamlada."
+| Neví, že mi přítel Max
+| nabídnul svůj Arginmax.
+| S tím už je to balada.
 
 Apolena
+=======
+
+| Směje se mi Apolena,
+| že to mám až po kolena.
+| Kdo prý zkratkou nechvátá,
+| nezahučí do bláta.
+| Aspoň, že je trochu změna.
 
 Mojmír
 
