@@ -346,6 +346,13 @@ Nela
 | Kéž by jiný osud měla.
 
 Blažej
+======
+
+| Tuhle plavbu Blažeje
+| strašně trápí kurděje.
+| Kdyby jedl více zelí,
+| nebyl by tak rozmrzelý,
+| svoje zuby ztráceje.
 
 Jarmila
 
