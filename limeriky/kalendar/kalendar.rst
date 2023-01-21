@@ -429,9 +429,23 @@ Božena
 Slavěna
 =======
 
+| Zatáhla mě Slavěna
+| za huménko do sena.
+| A pod kouzlem okamžiku:
+| "Doučuj mě gramatiku.
+| Jsem z ní celá zmatená."
+
 Slávka
+======
+
+| Noviny čte Slávka,
+| v Maďarsku je stávka:
+| "No tak to je skvělý,
+| nebudem mít zelí."
+| Není ani hlávka.
 
 Věnceslav
+=========
 
 Věnceslava
 
