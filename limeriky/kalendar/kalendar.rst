@@ -447,9 +447,29 @@ Slávka
 Věnceslav
 =========
 
+| "Hej, ty vole, Věnceslav,
+| pořádně ty věnce stav!"
+| "Jasně, šéfe, každý ví,
+| že mají být před rakví."
+| "Pak je vemeš na ústav."
+
 Věnceslava
+==========
+
+| Zeptala se Věnceslava,
+| jak moc dobrá je ta Java?
+| "Holka, to je línej hnus,
+| uč se raděj C++, 
+| pokud ti to bere hlava."
 
 Valentýn
+========
+
+| Pražský malíř, Valentýn,
+| toužil zvěčnit celý Týn.
+| Začít chtěl u Kasiusů,
+| když se lekl party Rusů.
+| Rozlil všechen terpentýn.
 
 Valentýna
 
