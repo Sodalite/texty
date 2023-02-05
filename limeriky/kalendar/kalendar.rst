@@ -190,7 +190,7 @@ Doubravka
 | že se jí nedaří sykavky.
 | "Fetři moje emofe
 | afpoň dyfou Vánofe."
-| "Zapálit jdu prfkavky."
+| "Fapálit jdu prfkavky."
 
 Sebastián
 =========
@@ -472,26 +472,90 @@ Valentýn
 | Rozlil všechen terpentýn.
 
 Valentýna
+=========
+
+| Předvádí se Valentýna,
+| že je skvělá balerína.
+| Ukáže mi grand plié,
+| jen se skoro zabije.
+| Trochu kozu připomíná.
 
 Jiřina
+======
+
+| Ukazuje Jiřina
+| jak se stele peřina:
+| "Přetočit a chytit rohy,
+| potom střepat do polohy.
+| Je to jenom vteřina."
 
 Ljuba
+=====
+
+| Poprosil jsem Ljubu,
+| ať už drží hubu.
+| Ona pořád, dnes však více,
+| jen se babrá v politice.
+| Už se z toho škubu.
 
 Miloslava
+=========
+
+| Na zápasu Miloslava
+| volá: "Hurá, Spartě sláva."
+| Před očima všech se kryji,
+| vždyť jsme kruci na Slávii.
+| Vypukla tam velká vřava.
 
 Gizela
+======
+
+| Stopem jela Gizela,
+| z pole, kde len sklízela.
+| Zastavil jí černý vůz:
+| "Kam to bude?" "Do Veltrus."
+| Cestou navždy zmizela.
 
 Patrik
+======
+
+| "Podívej se, Patriku,
+| ty máš skvrny na triku!"
+| "Tak sis všimnul, nejsi dnešní,
+| jsou od krve, vajec, třešní.
+| Vanish pere ve mžiku."
 
 Oldřich
+=======
 
-Eleonora
+| Překvapili Oldřicha,
+| jak si zkouší kulicha.
+| Případ měl však divný rys,
+| zkoušel si jej na penis.
+| Trapno křičí do ticha.
 
 Lenka
+=====
+
+| Zdá se mi, že tvoje Lenka,
+| neví, kolik tak je sklenka.
+| Však to vidí i sám Jahve,
+| denně pije i dvě lahve.
+| Nasává jak dětská plenka.
 
 Petr
+====
+
+| Spoluhráči plísní Petra,
+| že jim v šatně pořád větrá.
+| A že neví, co je míra,
+| dále okno otevírá,
+| do ksichtu mu letí tretra.
 
 Svatopluk
+=========
+
+| 
 
 Matyáš
 
