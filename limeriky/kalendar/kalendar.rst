@@ -555,13 +555,34 @@ Petr
 Svatopluk
 =========
 
-| 
+| Zmírá kníže Svatopluk,
+| z každé strany jeden kluk.
+| Každý jako pominutý
+| zkouší zlomit ty tři pruty,
+| jsou však pevné jako luk.
 
 Matyáš
+======
+
+| Nabízí mi Matyáš
+| tabák, trávu nebo haš.
+| Nechci spadnout do průšvihu,
+| takže říkám: "Raděj knihu."
+| Třeba Malý Alenáš.
 
 Matěj
+=====
+
+| Opustila Matěje
+| každá špetka naděje.
+| Řekla mu, že je jak ovád,
+| tak se musí vystěhovat.
+| Kam se jenom poděje?
 
 Liliana
+=======
+
+| 
 
 Dorota
 
