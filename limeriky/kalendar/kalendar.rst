@@ -276,11 +276,11 @@ Zora
 Ingrid
 ======
 
-| Rozhodla se Ingrida,
-| že si koupí hybrida.
-| Projíždí se po okresce
-| a na přístrojové desce
-| vozí fotku Hagrida.
+| Objednala Ingrida,
+| na dům "teho ongrida".
+| Už je tady, technik skvělý
+| na střídač a na panely,
+| připomíná Hagrida.
 
 Otýlie
 ======
@@ -582,13 +582,38 @@ Matěj
 Liliana
 =======
 
-| 
+| Pošeptá mi Liliana,
+| že chce ještě zůstat panna.
+| Já se divím: "To je svět,
+| vždyť je ti jen sotva pět!"
+| "To si mám hrát na lachtana?"
 
 Dorota
+======
+
+| Směje se mi Dorota,
+| že jsem hrozná měkkota.
+| Slzy prý mi tečou vmžiku,
+| hned jak sednu k Titaniku.
+| Kapou mi do rizota.
 
 Alexandr
+========
+
+| Rozhodl se Alexandr
+| u nás v domě sjeti klandr.
+| Rychlost téměř jeden mach,
+| dole si dal o výtah.
+| A chrup také šel na vandr. 
 
 Lumír
+=====
+
+| Hospodského Lumíra
+| a štamgasta Mojmíra
+| včera večer spojil spor.
+| Mojmír coby agresor:
+| "To je tuplák? Podmíra!"
 
 Nataša
 ======
