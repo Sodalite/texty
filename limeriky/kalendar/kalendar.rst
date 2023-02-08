@@ -604,7 +604,7 @@ Alexandr
 | u nás v domě sjeti klandr.
 | Rychlost téměř jeden mach,
 | dole si dal o výtah.
-| A chrup také šel na vandr. 
+| A chrup šel také na vandr. 
 
 Lumír
 =====
