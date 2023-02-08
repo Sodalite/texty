@@ -615,18 +615,59 @@ Lumír
 | Mojmír coby agresor:
 | "To je tuplák? Podmíra!"
 
-	
 Bedřich
+=======
+
+| "Říkám znovu, Bedřichu,
+| hraj na housle potichu!"
+| Toho bych se nenadál,
+| koho jsem si na byt vzal.
+| Je to blecha v kožichu.
 
 Bedřiška
+========
+
+| Řekou plave Bedřiška,
+| vlnky klepou do bříška.
+| Naráz jak když zadek lízá
+| ryba - tlustá, vlhká vyza.
+| Byla to jen semiška.
 
 Anežka
+======
+
+| Táh' jsem s sebou Anežku
+| až nahoru na Sněžku.
+| Na polévce v Poštovně
+| řekla: "Je to o hovně."
+| Shodil jsem ji z výběžku.
 	
 Kamil
+=====
+
+| Včera v baru Kamil
+| litr ze mě mámil.
+| Sotva slezl dolů z rolby,
+| už by sázel na ty volby.
+| Zlo pryč, pánbůh s námi.
 	
 Stela
+=====
+
+| Vyprávěla mi Stela,
+| jak jí chutná mistela.
+| Já jí nesu Carratell,
+| vyhnala mě na hotel:
+| "Tohle jsem já nechtěla!"
 	
 Kazimír
+=======
+
+| Pokoušel se Kazimír
+| sjednat s vědmou Kazi mír.
+| Poslala ho do hnoje,
+| vzala k sobě Bivoje,
+| na stravu i na kvartýr.
 	
 Miroslav
 	
