@@ -13,6 +13,7 @@
 [Liška a vrána](original/liska-vrana.md)  
 [Měla jsem sokola](original/mela-jsem-sokola.md)  
 [Milá ze Sally](original/sally.md)  
+[Miluju Miluši](original/miluse.md)  
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Příběh pana Šedého](original/dgray.md)  
