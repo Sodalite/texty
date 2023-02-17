@@ -32,8 +32,8 @@ a v ústech med.
  
 Nabídla mi sladký pel  
 a sváděla mě k něžným hrám  
-a cizí řečí povídá,  
-že mě ráda má.
+a cizí řečí povídá:  
+"Já tě ráda mám."
 
 Pak najednou ji přemoh' pláč,  
 když mě vzala na svůj hrad.  
