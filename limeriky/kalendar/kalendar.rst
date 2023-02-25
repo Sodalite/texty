@@ -583,10 +583,10 @@ Liliana
 =======
 
 | Pošeptá mi Liliana,
-| že chce ještě zůstat panna.
-| Já se divím: "To je svět,
-| vždyť je ti jen sotva pět!"
-| "To si mám hrát na lachtana?"
+| že chce ještě zůstat panna:
+| "Vrať se, lásko, o krok zpět."
+| "Vždyť už je ti čtyřicet!"
+| "Jenže stále neprovdána."
 
 Dorota
 ======
@@ -604,7 +604,7 @@ Alexandr
 | u nás v domě sjeti klandr.
 | Rychlost téměř jeden mach,
 | dole si dal o výtah.
-| A chrup šel také na vandr. 
+| A chrup také šel na vandr. 
 
 Lumír
 =====
@@ -670,32 +670,130 @@ Kazimír
 | na stravu i na kvartýr.
 	
 Miroslav
+========
+
+| Zdá se smutný Miroslav.
+| Povídám mu: "Miro, slav!
+| Dnes je přeci velký den,
+| Ťapka bere kolik cen!"
+| "Sežral mi ji vlkodav."
 	
 Tomáš
+=====
+
+| Proč jen vždycky, Tomáši,
+| když se vracíš od Máši,
+| ranním městem jen si pluješ,
+| mlsně vousky olizuješ,
+| jak po dobrém guláši?
 	
 Gabriela
+========
+
+| V noci, po tmě, Gabriela
+| svoje filmy vyvíjela.
+| Její muž si rozsvítil
+| a filmy jí osvítil.
+| To vám, lidi, byla mela.
 
 Zoltán
+======
+
+| Ženy chtějí Zoltána,
+| prý má v gatích titána.
+| My však víme - jeho prut
+| spíš je jako liliput.
+| Řekla nám to Taťána.
 
 Františka
+=========
+
+| Denně myslím na Františku,
+| natrhal jsem v pampě lišku.
+| Pro lišku to byla zrada,
+| Fanka bude mít mě ráda,
+| obleče se do kožíšku.
 	
 Viktorie
+========
+
+| Vytáhla mě Viktorie,
+| do kopců na Čertoryje.
+| Pod nohama klouže flyš,
+| zpocený jsem jako myš.
+| Snad mě to dnes nezabije.
 	
 Anděla
+======
+
+| Hrůzou řvala Anděla,
+| viděla prý anděla.
+| Aniž jsme to takhle chtěli,
+| rychle domů už jsme jeli.
+| Celou cestu smrděla.
 	
 Řehoř
+=====
+
+| Naposledy Řehoře
+| vzal jsem k mámě do Zhoře!
+| V noci vlezl do spíže,
+| sežral, jak byl, v negližé
+| uzeného úhoře.
 	
 Růžena
+======
+
+| U lekáře Růžena,
+| změřena a zvážena.
+| Lékař ten se podivuje:
+| "Nahoře se rozšiřuje 
+| dole pak je zúžena."
 	
 Rút
+===
+
+| Vyčítá naštvaná Rút,
+| že prý jsem přehnaně krut.
+| Jízlivost mi prý jde skvěle.
+| Zezadu pak do prdele
+| vrazí mi obrovský vrut.
 
 Matylda
+=======
+
+| Vyprávěl jsem Matyldě
+| smutný příběh o Gildě.
+| Asi jsem to neměl dělat,
+| dovolenou probrečela
+| v horské chatě na Kvildě.
 	
 Ida
+===
+
+| "Co je to tu?", ptá se Ida:
+| "Ve vlasech ti sedí hnida!"
+| Pak mi spílá, že jsem prase,
+| domů vši jsem dones zase.
+| Těžký zásek do libida.
 	
 Herbert
+=======
+
+| Slečnu Sladkou, Herberte,
+| tu si teda neberte.
+| Jestliže Vám nevadí,
+| že Vám život osladí,
+| tak si to pak vyžerte!
 
 Elena
+=====
+
+| Na leč jela Elena
+| chtěla střelit jelena.
+| Teď jen nahlas bulí,
+| odraženou kuli
+| schytala do kolena.
 	
 Vlastimil
 
