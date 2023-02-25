@@ -796,16 +796,54 @@ Elena
 | schytala do kolena.
 	
 Vlastimil
+=========
+
+| Drsný traper Vlastimil
+| v proudy řeky pasti myl.
+| Jedna z pastí sklapla
+| ruku rázem zcvakla.
+| Hodinu tu ránu šil.
 
 Vlastimila
+==========
+
+| Akvabela Vlastimila
+| chtěla shodit extra kila.
+| Tak si vzala do hlavy
+| splutí celé Moravy.
+| Na jezu se utopila.
 	
 Eduard
+======
+
+| Včera soused Eduard
+| zase hleděl na "Die Hard".
+| Představím si McLanea,
+| jak by šlápl do lejna.
+| Dobrého dne dobrý start.
 	
 Josef
+=====
+
+| Rozhodčího Josefa
+| vyloučila UEFA.
+| Za písknutou penaltu:
+| dovolenou na Maltu,
+| Veiron, trhač asfaltu.
 
 Josefa
+======
+
+| Koupila si Josefa
+| deodorant firmy Fa.
+| Není příliš cimprlich,
+| po kovidu nemá čich.
+| Šplhla si však u šéfa.
 
 Světlana
+========
+
+
 	
 Radek
 	
