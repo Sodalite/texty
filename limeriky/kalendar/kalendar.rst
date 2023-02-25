@@ -843,19 +843,65 @@ Josefa
 Světlana
 ========
 
-
+| Sopranistka Světlana
+| zpívá nahlas: "Hosana".
+| Hlas, jež nelahodí,
+| rezonuje lodí.
+| Evokuje havrana.
 	
 Radek
+=====
+
+| Sousedovic dítě, Radek,
+| vystrkuje na mě zadek.
+| To si hodně dovolí.
+| Beru broky se solí,
+| trochu jej to zabolí.
 	
 Leona
-	
+=====
+
+| Přinesla si Leona
+| domů chameleona.
+| Je to celkem svízel,
+| když jí rázem zmizel
+| v bustě Napoleona.
+
 Ivona
-	
+=====
+
+| Na jevišti Ivona
+| pozná, co je úhona,
+| když na prknech Fidlovačky
+| někdy během děkovačky
+| spadne na ni opona.
+
 Gabriel
+=======
+
+| Natankoval Gabriel
+| na stanici jménem Shell.
+| Bavorákem po dálnici,
+| potom skončil na krajnici,
+| Trabant dal mu na prdel.
 	
 Marián
+======
+
+| Cestou džunglí Marián
+| zamotal se do lián.
+| A po celé Africe
+| vyšlo v černé kronice,
+| že řval jako pavián.
 	
 Emanuel
+=======
+
+| Manželka souseda Emanuela
+| úspory trošičku nedomyslela.
+| Energii kupují ze spotu,
+| snížila jim na kotli teplotu.
+| Všechny je dostala legionela.
 	
 Dita
 	
