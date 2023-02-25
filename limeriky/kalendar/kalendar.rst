@@ -899,13 +899,23 @@ Emanuel
 
 | Manželka souseda Emanuela
 | úspory trošičku nedomyslela.
-| Energii kupují ze spotu,
-| snížila jim na kotli teplotu.
+| A že je draze na spotu,
+| snížila na kotli teplotu.
 | Všechny je dostala legionela.
 	
 Dita
+====
+
+| Byl jsem na školení Dity,
+| k hodnocení maturity.
+| Nevím levou ani pravou
+| celou dobu mi šlo hlavou,
+| jaké že má velké kýty.
 	
 Soňa
+====
+
+| 
 
 Taťána
 	
