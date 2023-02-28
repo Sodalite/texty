@@ -1,4 +1,5 @@
 # Už je mi zima
+(Milan Šána)
 
 Venku je zima  
 a nepomáhá  
