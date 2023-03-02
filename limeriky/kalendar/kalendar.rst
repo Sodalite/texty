@@ -637,9 +637,9 @@ Anežka
 ======
 
 | Táh' jsem s sebou Anežku
-| až nahoru na Sněžku.
+| přes Růžovou na Sněžku.
 | Na polévce v Poštovně
-| řekla: "Je to o hovně."
+| řekla: "Je to vo hovně."
 | Shodil jsem ji z výběžku.
 	
 Kamil
