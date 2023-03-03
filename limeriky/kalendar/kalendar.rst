@@ -645,11 +645,11 @@ Anežka
 Kamil
 =====
 
-| Včera v baru Kamil
-| litr ze mě mámil.
-| Sotva slezl dolů z rolby,
-| už by sázel na ty volby.
-| Zlo pryč, pánbůh s námi.
+| Včera večer v baru Kamil
+| pětistovku ze mě mámil,
+| sotva slezl dolů z rolby.
+| Chtěl si vsadit na "ty volby".
+| Zlo ať pryč a pánbůh s námi.
 	
 Stela
 =====
@@ -729,7 +729,7 @@ Anděla
 | Hrůzou řvala Anděla,
 | viděla prý anděla.
 | Aniž jsme to takhle chtěli,
-| rychle domů už jsme jeli.
+| rychle domů jsme hned jeli.
 | Celou cestu smrděla.
 	
 Řehoř
@@ -756,7 +756,7 @@ Rút
 | Vyčítá naštvaná Rút,
 | že prý jsem přehnaně krut.
 | Jízlivost mi prý jde skvěle.
-| Zezadu pak do prdele
+| Za trest potom do prdele
 | vrazí mi obrovský vrut.
 
 Matylda
@@ -915,21 +915,74 @@ Dita
 Soňa
 ====
 
-| 
+| Přemlouvá mě opět Soňa:
+| "Tato, já bych chceľa koňa.
+| Dáme si ho na garáž.
+| Auto by ťa vyšlo dráž 
+| než pořádná ekvipáž."
 
 Taťána
+======
+
+| Přijde ke mně Taťána,
+| zůstane tu do rána:
+| "Funíš jako tlustý pes,
+| měl bys trochu hlídat stres.
+| Dělej všechno maňána!"
 	
 Ernest
+======
+
+| Zpovídal jsem Ernesta,
+| jak prý hraje celesta?
+| "Úderový idiofón -
+| jemný, měkký, cinkavý tón,
+| jak když kráčí nevěsta."
 
 Arnošt
-	
+======
+
+| Vzal jsem tuhle Arnošta
+| bývalého probošta
+| pomáhat na vinobraní.
+| Věnoval se pití, žraní.
+| Spadl nám tu do mošta.
+
 Kvido
+=====
+
+| "Blíží se k nám Kvido,
+| zavři, zhasni, Lido."
+| Kolem ní se pořád točí,
+| může na ní nechat oči.
+| Booster na libido.
 	
 Hugo
+====
+
+| Profesora skladby Huga
+| zaujala moje fuga:
+| "Zpracování famózní,
+| celé mi to trochu zní,
+| že se točí centrifuga."
 	
 Erika
+=====
+
+| Vysvléká se Erika
+| touží svésti klerika.
+| Bohužel má zájem jiný,
+| lákají jej uzeniny.
+| Selhala ta intrika.
 
 Richard
+=======
+
+| Neštěstí postihlo Richarda
+| celá mu shořela mansarda.
+| Kde se vzala, tu se vzala,
+| v jeho bytě ztroskotala
+| středního doletu petarda.
 	
 Ivana
 	
