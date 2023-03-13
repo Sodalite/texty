@@ -985,8 +985,18 @@ Richard
 | středního doletu petarda.
 	
 Ivana
+=====
+
+| Každý večer Ivaně
+| zadívám se do dlaně
+| a ve změti jejích čar
+| marně hledám lásky tvar,
+| když tak leží ve vaně.
 	
 Miroslava
+=========
+
+|  
 
 Mirka
 	
