@@ -755,8 +755,8 @@ Rút
 
 | Vyčítá naštvaná Rút,
 | že prý jsem přehnaně krut.
-| Jízlivost mi prý jde skvěle.
-| Za trest potom do prdele
+| Jízlivost ta jde mi skvěle.
+| Přijde trest a do prdele
 | vrazí mi obrovský vrut.
 
 Matylda
@@ -774,7 +774,7 @@ Ida
 | "Co je to tu?", ptá se Ida:
 | "Ve vlasech ti sedí hnida!"
 | Pak mi spílá, že jsem prase,
-| domů vši jsem dones zase.
+| vši jsem domů přitáh' zase.
 | Těžký zásek do libida.
 	
 Herbert
