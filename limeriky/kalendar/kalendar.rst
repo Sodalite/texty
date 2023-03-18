@@ -996,7 +996,9 @@ Ivana
 Miroslava
 =========
 
-|  
+| Čekal jsem, že Miroslava
+| bude taky dole plavá.
+| 
 
 Mirka
 	
