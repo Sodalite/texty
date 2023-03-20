@@ -1,0 +1,1188 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.23)  29 OCT 2022 21:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**zname_tvare_z_kalendare.tex
+(./zname_tvare_z_kalendare.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-07>
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2021/03/17 v3.33 KOMA-Script document class (book)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+Skipping: [2021/05/01] Usage of raw option list on input line 252.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
+337.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/03/17 v3.33 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box47
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: File `size14.clo' used to setup font sizes on input line 24
+54.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/03/17 v3.33 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count179
+Package typearea Info: You've used standard option `a5paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a5'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a5' there
+(typearea)             instead of `a5paper', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: Maybe no optimal type area settings!
+(typearea)             The detected line width is about 42%
+(typearea)             smaller than the heuristically estimated maximum
+(typearea)             limit of typographical good line width.
+(typearea)             You could e.g. increase DIV, decrease fontsize
+(typearea)             or change the papersize.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 71.13188pt
+(typearea)             \paperwidth      = 421.10083pt
+(typearea)              \textwidth      = 262.47672pt
+(typearea)              DIV departure   = 42%
+(typearea)              \evensidemargin = -13.94183pt
+(typearea)              \oddsidemargin  = 28.02597pt
+(typearea)             \paperheight     = 597.50793pt
+(typearea)              \textheight     = 456.0pt
+(typearea)              \topmargin      = -69.22766pt
+(typearea)              \headheight     = 21.25pt
+(typearea)              \headsep        = 25.5pt
+(typearea)              \topskip        = 14.0pt
+(typearea)              \footskip       = 59.5pt
+(typearea)              \baselineskip   = 17.0pt
+(typearea)              on input line 1741.
+)
+\c@part=\count180
+\c@chapter=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5676.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5687.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5687.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5696.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5706.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5706.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5716.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5716.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5727.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5727.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5737.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5737.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box48
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6980.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count187
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 7001.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count188
+Class scrbook Info: Redefining `\numberline' on input line 7174.
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2020/03/26 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count189
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 484.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 112.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 112.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/04/26 3.58 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/04/26 3.58 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen141
+\l@unhyphenated=\language3
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Russian' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 32.
+
+Package babel Info: Hyphen rules for 'russian' set to \l@english
+(babel)             (\language0). Reported on input line 33.
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-czech/czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Czech' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 53.
+
+Package babel Info: Hyphen rules for 'czech' set to \l@english
+(babel)             (\language0). Reported on input line 54.
+\cs@wordlen=\count192
+Package babel Info: Making - an active character on input line 226.
+)) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2021/03/17 v3.33 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2021/03/17 v3.33 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: Maybe no optimal type area settings!
+(typearea)             The detected line width is about 40%
+(typearea)             smaller than the heuristically estimated maximum
+(typearea)             limit of typographical good line width.
+(typearea)             You could e.g. increase DIV, decrease fontsize
+(typearea)             or change the papersize.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 71.13188pt
+(typearea)             \paperwidth      = 421.10083pt
+(typearea)              \textwidth      = 262.47672pt
+(typearea)              DIV departure   = 40%
+(typearea)              \evensidemargin = -13.94183pt
+(typearea)              \oddsidemargin  = 28.02597pt
+(typearea)             \paperheight     = 597.50793pt
+(typearea)              \textheight     = 456.0pt
+(typearea)              \topmargin      = -69.22766pt
+(typearea)              \headheight     = 21.25pt
+(typearea)              \headsep        = 25.5pt
+(typearea)              \topskip        = 14.0pt
+(typearea)              \footskip       = 59.5pt
+(typearea)              \baselineskip   = 17.0pt
+(typearea)              on input line 11.
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box49
+)
+(./zname_tvare_z_kalendare.aux (./kveten.aux) (./cerven.aux) (./cervenec.aux)
+(./srpen.aux) (./zari.aux) (./rijen.aux) (./listopad.aux))
+\openout1 = `zname_tvare_z_kalendare.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 27.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 27.
+Package scrbase Info: activating czech \contentsname on input line 27.
+Package scrbase Info: activating czech \listfigurename on input line 27.
+Package scrbase Info: activating czech \listtablename on input line 27.
+\c@mv@tabular=\count194
+\c@mv@boldtabular=\count195
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen142
+\scratchbox=\box50
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen143
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \th on input line 27.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
+n input line 29.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 29.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 29.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 29.86pt on input line 29.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+
+[1
+
+
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvb' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvbo' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvr' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxphvro' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmb' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmbi' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmbo' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmr' already exists, duplicat
+es ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmri' already exists, duplica
+tes ignored
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /usr/share/texlive/texmf-var/fonts/map/
+pdftex/updmap/pdftex.map): fontmap entry for `rtxptmro' already exists, duplica
+tes ignored
+}] [2
+
+
+]
+chapter 1.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sl' in size <14.4> not
+ available
+(Font)              Font shape `T1/LinuxLibertineT-TLF/m/it' tried instead on i
+nput line 31.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+[3]
+\openout2 = `kveten.aux'.
+
+ (./kveten.tex
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 1.
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [4
+
+]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (1.1275pt too wide) in paragraph at lines 125--125
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 Míval jsem gejfrenda Maxmil-iána 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (8.88934pt too wide) in paragraph at lines 129--130
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 K ve£eru, k p·l-noci, n¥kdy do rána. 
+ []
+
+
+Overfull \hbox (0.59041pt too wide) in paragraph at lines 137--137
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 Promnul vousy, tak jako vºdy-cky, 
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 146.
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [8])
+[9] [10
+
+
+
+
+]
+chapter 2.
+[11]
+\openout2 = `cerven.aux'.
+
+ (./cerven.tex
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [12
+
+]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [14]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [16]
+Overfull \hbox (7.76927pt too wide) in paragraph at lines 157--157
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 A kdyº °íká: ^^RTe¤ jsem jenom tvá^^P, 
+ []
+
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [20]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [24])
+[25] [26
+
+
+
+
+]
+chapter 3.
+[27]
+\openout2 = `cervenec.aux'.
+
+ (./cervenec.tex
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [28
+
+]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [31]
+LaTeX Font Info:    Trying to load font information for T2A+LinuxLibertineT-TLF
+ on input line 145.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertinegc/T2ALinuxLibertineT-TLF.fd
+File: T2ALinuxLibertineT-TLF.fd 2016/02/13 (msharpe) scaled font definitions fo
+r Libertine T2A
+)
+LaTeX Font Info:    Font shape `T2A/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 145.
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 1158) has occurred while \output is active []
+
+ [36]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [40])
+[41] [42
+
+
+
+
+]
+chapter 4.
+[43]
+\openout2 = `srpen.aux'.
+
+ (./srpen.tex
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [44
+
+]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [45]
+Overfull \hbox (9.31248pt too wide) in paragraph at lines 68--68
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 Lidé mi nadá-vaj' do ruských ²váb·, 
+ []
+
+
+Overfull \hbox (33.20775pt too wide) in paragraph at lines 69--69
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 pro£ jen si nevozím prdel svou v saabu? 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [46]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [47]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [48]
+Overfull \hbox (8.06152pt too wide) in paragraph at lines 156--156
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 ^^RA já jsem ty£ka°ka^^P, tvrdila Pe-tra, 
+ []
+
+
+Overfull \hbox (5.64043pt too wide) in paragraph at lines 158--158
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 Pozd¥ji na trénink nesl jí send-vi£e, 
+ []
+
+[49]
+Overfull \hbox (9.33115pt too wide) in paragraph at lines 183--183
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 Cht¥l bych vám p°ed-stavit Lud-víka 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [50]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [52]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [53])
+[54]
+chapter 5.
+[55
+
+
+
+
+]
+\openout2 = `zari.aux'.
+
+ (./zari.tex
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [56
+
+]
+Overfull \hbox (13.49736pt too wide) in paragraph at lines 49--49
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 ^^RCo na m¥ hledí² jak ºaba z ky²ky?^^P 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [57]
+Overfull \hbox (0.45656pt too wide) in paragraph at lines 76--76
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 jak by se zbavit m¥l Wences-lawa? 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [59]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [60]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [61]
+Overfull \hbox (2.56781pt too wide) in paragraph at lines 185--185
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 A jak plyn z ho°ák· pok-lidn¥ sy£í, 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [62]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [63]
+Overfull \hbox (18.97784pt too wide) in paragraph at lines 240--240
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 ^^RJá se v²ak soust°edím na bre-jlovce.^^P 
+ []
+
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [64]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [65]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [66]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [67]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [68])
+[69] [70
+
+
+
+
+]
+chapter 6.
+[71]
+\openout2 = `rijen.aux'.
+
+ (./rijen.tex
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [72
+
+]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [73]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [74]
+Underfull \vbox (badness 1158) has occurred while \output is active []
+
+ [75]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [76]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [78]
+Overfull \hbox (25.93002pt too wide) in paragraph at lines 196--197
+[]\T1/LinuxLibertineT-TLF/m/n/14.4 ºe ty wirk-lich dob°e Hack-brett spielst. 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [80]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [81]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [82]
+[83]) [84]
+chapter 7.
+[85
+
+
+
+
+]
+\openout2 = `listopad.aux'.
+
+ (./listopad.tex
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [86
+
+]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [87]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [89]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [90]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [91]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [92]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [93]
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [94]
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [95])
+[96] (./zname_tvare_z_kalendare.toc [97
+
+
+
+
+] [98] [99] [100])
+\tf@toc=\write3
+\openout3 = `zname_tvare_z_kalendare.toc'.
+
+ [101]
+
+LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
+(LaTeX3)     52.
+
+
+LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
+(LaTeX3)     52.
+
+
+LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
+(LaTeX3)     52.
+
+
+(./zname_tvare_z_kalendare.aux (./kveten.aux) (./cerven.aux) (./cervenec.aux)
+(./srpen.aux) (./zari.aux) (./rijen.aux) (./listopad.aux)) ) 
+Here is how much of TeX's memory you used:
+ 8569 strings out of 480806
+ 187258 string characters out of 5905151
+ 632172 words of memory out of 6000000
+ 25810 multiletter control sequences out of 15000+600000
+ 448526 words of font info for 52 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 108i,19n,110p,10645b,589s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive
+/texmf-dist/fonts/enc/dvips/libertinegc/lib-t2a.enc}{/usr/share/texlive/texmf-d
+ist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texlive/texmf-dist/fonts/enc/d
+vips/libertine/lbtn_ncsllp.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/l
+ibertine/lbtn_7grukw.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/liberti
+ne/lbtn_76gpa5.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbt
+n_25tcsq.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBio
+linumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibe
+rtineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLiber
+tineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmmi12.pfb>
+Output written on zname_tvare_z_kalendare.pdf (101 pages, 284861 bytes).
+PDF statistics:
+ 356 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

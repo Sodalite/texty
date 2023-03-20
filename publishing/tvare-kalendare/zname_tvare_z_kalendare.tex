@@ -1,0 +1,52 @@
+\documentclass[fontsize=14pt,twoside,a5paper,DIV=calc,BCOR=25mm]{scrbook}
+\usepackage[utf8]{inputenc}
+\usepackage{libertine}
+\usepackage[T2A,T1]{fontenc}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage[russian,czech]{babel}
+\usepackage{scrlayer-scrpage}
+
+\KOMAoption{headsepline}{1pt:\textwidth}
+\KOMAoption{DIV}{last}
+%\KOMAoption{footsepline}{0.5pt:\textwidth}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+
+
+\lehead{\leftmark}
+\rohead{\rightmark}
+
+
+\hyphenpenalty 10000
+\exhyphenpenalty 10000
+
+\title{Známé tváře z~kalendáře}
+\author{Lukáš Růžička}
+\date{2022}
+\begin{document}
+	\maketitle
+
+	\chapter{Květen}
+	\include{kveten}
+	
+	\chapter{Červen}
+	\include{cerven}
+	
+	\chapter{Červenec}
+	\include{cervenec}
+	
+	\chapter{Srpen}
+	\include{srpen}
+	
+	\chapter{Září}
+	\include{zari}
+	
+	\chapter{Říjen}
+	\include{rijen}
+	
+	\chapter{Listopad}
+	\include{listopad}
+	
+	\tableofcontents
+\end{document}
