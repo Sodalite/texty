@@ -882,7 +882,7 @@ Gabriel
 | Natankoval Gabriel
 | na stanici jménem Shell.
 | Bavorákem po dálnici,
-| potom skončil na krajnici,
+| s brekem skončil na krajnici.
 | Trabant dal mu na prdel.
 	
 Marián
@@ -997,24 +997,77 @@ Miroslava
 =========
 
 | Čekal jsem, že Miroslava
-| bude taky dole plavá.
-| 
+| i tam dole bude plavá.
+| Trubky v hlavě hrají tuš,
+| kalhotky jdou dolů. Už.
+| Nakonec je popelavá.
 
 Mirka
+=====
+
+| Anorexii má Mirka,
+| její tělo je jak sirka.
+| Sebevědomí jí hodně sráží,
+| že prý lidé si jí málo váží.
+| Jednatřicet kilo, cirka.
 	
 Vendula
+=======
+
+| Do úlu dnes Vendula
+| svoji ruku vsunula.
+| Nikdo ji tu nemá rád,
+| přesto touží opíchat.
+| Ruka je teď odulá.
 
 Venuše
+======
+
+| Zůstala bez vody Venuše,
+| snad že je potrubí v poruše.
+| Zavolala horkou linku:
+| "Ať tak zhruba za hodinku,
+| nějaký technik sem nakluše!"
 	
 Heřman
+======
+
+| Už mě to nebaví, Heřmana
+| poslouchat přes noc až do rána.
+| Ať je sucho, leje, krápe,
+| jako starý fotr chrápe.
+| A to jsem jen pár dní provdána.
 
 Hermína
+=======
+
+| Fotila u moře Hermína
+| krásného, lesklého delfína.
+| Dle Murphyho zákona
+| upustila Nikona.
+| Delfína teď už jen proklíná.
 	
 Ema
+===
+
+| Posílá mi mailem Ema
+| často svojí hudby dema.
+| Když já si je poslechnu
+| z hluboka si oddechnu.
+| Na mě prostě zatím nemá.
 	
 Dušan
+=====
+
+| Včera jsem přistihl Dušana
+| hleděl jak tele do piana:
+| "Nevím proč jen moje tlapky
+| nezvládají černé klapky.
+| Leda tak vyvenčit lachtana."
 
 Darja
+=====
+
 	
 Izabela
 	
