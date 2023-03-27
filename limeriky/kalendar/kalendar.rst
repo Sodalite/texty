@@ -899,7 +899,7 @@ Emanuel
 
 | Manželka souseda Emanuela
 | úspory trošičku nedomyslela.
-| A že je draze na spotu,
+| A že je moc draze na spotu,
 | snížila na kotli teplotu.
 | Všechny je dostala legionela.
 	
@@ -909,7 +909,7 @@ Dita
 | Byl jsem na školení Dity,
 | k hodnocení maturity.
 | Nevím levou ani pravou
-| celou dobu mi šlo hlavou,
+| celou dobu šlo mi hlavou,
 | jaké že má velké kýty.
 	
 Soňa
@@ -919,7 +919,7 @@ Soňa
 | "Tato, já bych chceľa koňa.
 | Dáme si ho na garáž.
 | Auto by ťa vyšlo dráž 
-| než pořádná ekvipáž."
+| nežli řádná ekvipáž."
 
 Taťána
 ======
