@@ -759,6 +759,15 @@ Rút
 | Přijde trest a do prdele
 | vrazí mi obrovský vrut.
 
+Rút 2
+=====
+
+| Pozval jsem na svátek Rút --
+| brambůrky a Robin Hood.
+| Řekla mi pak u vína,
+| že miluje Kevina.
+| Jaksi mě přepadnul trud.
+
 Matylda
 =======
 
