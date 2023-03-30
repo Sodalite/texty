@@ -920,6 +920,15 @@ Dita
 | Nevím levou ani pravou
 | celou dobu šlo mi hlavou,
 | jaké že má velké kýty.
+
+Dita 2
+======
+
+| Kamarádka Dita
+| za slovíčka chytá.
+| Je to jako napotvoru,
+| zkazí každou metaforu -
+| smutná realita.
 	
 Soňa
 ====
