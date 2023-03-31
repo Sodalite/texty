@@ -970,10 +970,10 @@ Kvido
 =====
 
 | "Blíží se k nám Kvido,
-| zavři, zhasni, Lido."
-| Kolem ní se pořád točí,
-| může na ní nechat oči.
-| Booster na libido.
+| zamkni, zhasni, Lido."
+| Jak jen začne se ztečí,
+| nikdo není v bezpečí!
+| Chodí na aikido.
 	
 Hugo
 ====
