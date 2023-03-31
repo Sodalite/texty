@@ -816,7 +816,7 @@ Vlastimil
 Vlastimila
 ==========
 
-| Akvabela Vlastimila
+| To plavkyně Vlastimila
 | chtěla shodit extra kila.
 | Tak si vzala do hlavy
 | splutí celé Moravy.
@@ -1086,12 +1086,38 @@ Dušan
 Darja
 =====
 
-	
+| Na zahradě kříčí Darja:
+| "Pane Bože, ježišmarja".
+| Ke spěchu mě ponouká,
+| jak k ní vítr přifouká,
+| obrovského pavouka.
+
 Izabela
-	
+=======
+
+| Rozhodla se Izabela,
+| že z ní bude akvabela.
+| Jen se dotkla hladiny,
+| hned má rybí šupiny
+| do dvou třetin svého těla.
+
 Julius
+======
+
+| Na otázky Julius
+| odpoví: "It's dubious".
+| Výpovědní hodnota
+| řečí toho kokota
+| stojí leda za psí trus.
 	
 Aleš
+====
+
+| Jak jen chvíli mluví Aleš
+| všude kolem cítím faleš.
+| A že je to politik,
+| v rukávu má skvělý trik.
+| Každou pravdu změní na lež.
 	
 Vincenc
 	
