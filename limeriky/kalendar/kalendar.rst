@@ -1120,16 +1120,46 @@ Aleš
 | Každou pravdu změní na lež.
 	
 Vincenc
+=======
+
+| Na software z Adobe Vincenci,
+| musíš si zakoupit licenci.
+| Zanech proto mrzkých cirát,
+| keců o tom, že jsi pirát 
+| a nebuď lakomý na penci.
 	
 Anastázie
+=========
+
+| Jak se tak blížila Anastázie,
+| do Drážďan, k domovu, z jižní Asie.
+| Zahlédla před domem černého moskviče,
+| stihla si pak už jen pomyslet: "Do piče".
+| Tak už tu nakonec pro mě Stasi je.
 	
 Irena
+=====
+
+| Na skálu ulehne Irena
+| nahá a zpívá jak siréna.
+| Kapitán si lokne gin,
+| lakonicky přidá plyn,
+| když vidí ty její vemena.
 
 Rudolf
+======
+
+| Ve škole přistihli Rudolfa,
+| před třídou předváděl Adolfa.
+| Rodiče museli do školy
+| poslouchat výchovné bláboly.
+| A tak mu nedali na golfa.
 	
 Valérie
-	
+=======
+
 Rostislav
+=========
 	
 Marcela
 	
