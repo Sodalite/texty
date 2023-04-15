@@ -305,7 +305,7 @@ Robin
 
 | U lékaře sedí Robin
 | prý má špatný hemoglobin.
-| Při úplňku v lese vyje,
+| Ve dne spí a v noci žije,
 | nejí česnek a krev pije.
 | Doktor praví: "Porfýrie".
 
@@ -1134,8 +1134,8 @@ Anastázie
 | Jak se tak blížila Anastázie,
 | do Drážďan, k domovu, z jižní Asie.
 | Zahlédla před domem černého moskviče,
-| stihla si pak už jen pomyslet: "Do piče".
-| Tak už tu nakonec pro mě Stasi je.
+| stihla si pak už jen pomyslet: "Do piče,
+| tak už tu nakonec pro mě Stasi je."
 	
 Irena
 =====
@@ -1158,20 +1158,74 @@ Rudolf
 Valérie
 =======
 
+| Ještě jsem se neoženil a už Valérie,
+| nechala si přihotovit tři dubové kyje.
+| Jeden bere v pondělky až pátky,
+| druhý zase v neděli a svátky.
+| A tím třetím kyjačiskom, tím mě taky bije.
+
 Rostislav
 =========
 	
+| Vysvětluje Rostislav,
+| jaké máme druhy káv:
+| Lungo, preso, moka, flat
+| to prý musím všechno znát.
+| Pikolo? Toť špatný mrav.
+
 Marcela
+=======
+
+| Moje exka Marcela
+| spávat se mnou nechtěla.
+| Jak si našla Itala,
+| tak by pořád tralala.
+| Ten jí dává do těla.
 	
 Alexandra
+=========
+
+| Vyčítá mi Alexandra,
+| že mi doma hraje Sandra.
+| Zas mi hlavu myje:
+| "Vždyť tak strašně vyje!"
+| Svět se v černo slije.
 	
 Evženie
+=======
+
+| Dezolátka Evženie
+| pořád jenom doma hnije.
+| Dnes by mohla studovat,
+| dělat byznys, cestovat.
+| Na to však ji neužije.
 	
 Vojtěch
+=======
+
+| Břišní sixpack Vojtěcha -
+| ženských očí potěcha.
+| A že má těch svalů tolik
+| účinkem je anabolik?
+| To je slabá útěcha.
 
 Jiří
+====
+
+| Rekreaci dostal dostal Jiří
+| jenom sotva se s ní smíří.
+| Místo pár dní na Lagu
+| bude pár let v gulagu
+| za Uralem, na Sibiři.
 	
 Marek
+=====
+
+| Ženám v práci tenhle Marek,
+| pořád zírá na rozparek.
+| To už není ani skrytá
+| maskulinní toxicita.
+| My si radši dáme škvarek.
 	
 Oto
 	
