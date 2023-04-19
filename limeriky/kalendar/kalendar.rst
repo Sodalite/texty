@@ -1228,51 +1228,103 @@ Marek
 | My si radši dáme škvarek.
 	
 Oto
+===
+
+| Po výdělku toužil Oto,
+| tak se ptal, kde vsadit loto?
+| Sousedova žena ví -
+| přece v krámě s obuví.
+| Proč se všichni smějí? Proto.
 	
 Jaroslav
+========
+
+| Zkouší lektor Jaroslava,
+| kde prý leží Lobendava?
+| "Východ, západ, sever, jih,
+| kdybych šprtal věděl bych."
+| Učitel mu pětku dává.
 	
 Vlastislav
+==========
+
+| Do oktávky Vlastislava
+| narazila prudce jawa.
+| Hlavu vedle světlometu,
+| spolujezdec končí větu:
+| "Zleva volno, jawa zprava."
 	
 Robert
+======
+
+| Tyhle slipy, Roberte,
+| na rande si neberte.
+| Byť je láska silná droga,
+| vemte radu psychologa:
+| občas si je vyperte.
 	
 Blahoslav
+=========
+
+| Zaujala Blahoslava
+| inuitská zdravá strava.
+| V práci se z něj pominou,
+| strašně smrdí rybinou,
+| v zadku stal se osinou.
 
 Svátek práce
+============
 	
 Zikmund
+=======
 	
 Alexej
+======
 
 Alex
+====
 	
 Květoslav
+=========
 	
 Klaudie
+=======
 	
 Radoslav
+========
 	
 Stanislav
+=========
 	
 Ctibor
+======
 	
 Blažena
+=======
 	
 Svatava
+=======
 	
 Pankrác
+=======
 	
 Servác
+======
 	
 Bonifác
+=======
 
 Žofie
+=====
 
 Sofie
+=====
 	
 Přemysl
+=======
 	
 Aneta
-
+=====
 
 Nataša
 ======
