@@ -1081,7 +1081,7 @@ Dušan
 | hleděl jak tele do piana:
 | "Nevím proč jen moje tlapky
 | nezvládají černé klapky.
-| Leda tak vyvenčit lachtana."
+| Všechno jen v C dur. I Santana."
 
 Darja
 =====
@@ -1180,7 +1180,7 @@ Marcela
 | spávat se mnou nechtěla.
 | Jak si našla Itala,
 | tak by pořád tralala.
-| Ten jí dává do těla.
+| Však jí dává do těla.
 	
 Alexandra
 =========
