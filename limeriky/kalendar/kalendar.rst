@@ -1274,9 +1274,16 @@ Blahoslav
 
 Svátek práce
 ============
+
+| Oslavil jsem Svátek práce,
+| potom spad' jsem do štrapáce.
+| Koloběh mě semlel, věčný.
+| Stojím, teď už nadbytečný,
+| u budovy na parkplace.
 	
 Zikmund
 =======
+
 	
 Alexej
 ======
