@@ -1284,24 +1284,61 @@ Svátek práce
 Zikmund
 =======
 
+| Smrtka bere Zikmunda,
+| tam, co stojí rotunda.
+| Král už propad skepsi,
+| v celém těle sepsi.
+| Bude to jen sekunda.
 	
 Alexej
 ======
 
+| Vem si příklad z Alexeje,
+| nosí ženě orchideje.
+| Sám je zaseje,
+| sám je vypleje,
+| dobrý pocit pak jej hřeje.
+
 Alex
 ====
+
+| "Co si myslíš, Alexi,
+| o té strašné anexi?"
+| "Realita tvrdá,
+| silnější pes mrdá."
+| "Proveď sebereflexi!"
 	
 Květoslav
 =========
+
+| Dal si dvacet Květoslav,
+| aby dlouho zůstal zdráv.
+| Jenom říznul do polena,
+| už tu stojí jeho žena:
+| "Válíš se tu jako brav."
 	
 Klaudie
 =======
+
+| Ptá se šéfa Klaudie,
+| zda-li budou prémie?
+| Okem hodí úlisně,
+| jako hřebec po klisně:
+| Když si spolu užijem!"
 	
 Radoslav
 ========
+
+| Povykuje Radoslav:
+| Ženo moje, se mnou slav!
+| Že jsem brzo bohatý,
+| jedem v létě do chaty."
+| Stojí mlčky, celá paf.
 	
 Stanislav
 =========
+
+| 
 	
 Ctibor
 ======
