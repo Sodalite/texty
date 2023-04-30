@@ -1338,13 +1338,29 @@ Radoslav
 Stanislav
 =========
 
-| 
+| Na dveře si Stano,
+| přimontoval Brano.
+| Cítil se jak v neděli,
+| když se samy zavřely,
+| Vzdychl jenom: "Ano."
 	
 Ctibor
 ======
+
+| Posmívám se Ctiborovi,
+| že jsou stále bramboroví.
+| Ač je trenér drtí,
+| na pokraji smrti,
+| zase přišli čtvrtí.
 	
 Blažena
 =======
+
+| Dobrovolně Blažena
+| pro vědu je zmražena.
+| Prý se těší jaký svět
+| bude za sto dvacet let.
+| Nešel proud. Je zkažena.
 	
 Svatava
 =======
@@ -3446,7 +3462,7 @@ Sáva
 | ženě a třech dětech.
 | To je dobrá zpráva.
 
-Leopold
+Leopold/
 =======
 
 | Rozkazem měl Leopold
