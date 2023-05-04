@@ -1338,6 +1338,15 @@ Radoslav
 Stanislav
 =========
 
+| Včera v noci Stanislav
+| procházel přes Nosislav.
+| Zpoza sochy Nepomuka,
+| sáhla na něj divná ruka.
+| Ozvalo se temně: "Baf!"
+
+Stano
+=====
+
 | Na dveře si Stano,
 | přimontoval Brano.
 | Cítil se jak v neděli,
@@ -1357,17 +1366,29 @@ Blažena
 =======
 
 | Dobrovolně Blažena
-| pro vědu je zmražena.
+| jest pro vědu zmražena.
 | Prý se těší jaký svět
 | bude za sto dvacet let.
 | Nešel proud. Je zkažena.
 	
 Svatava
 =======
+
+| Vzali k soudu Svatavu,
+| zpochybnila ústavu.
+| Obhájcova výřečnost
+| zpochybnila příčetnost.
+| Pobude se v ústavu.
 	
 Pankrác
 =======
-	
+
+| "Prozradíš mi, Pankráci,
+| co dnes děláš po práci?"
+| "Cítím jisté pobavení,
+| mojí práci konec není.
+| Dřu jak všichni sedláci." 
+
 Servác
 ======
 	
