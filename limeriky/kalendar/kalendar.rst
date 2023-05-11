@@ -1391,9 +1391,21 @@ Pankrác
 
 Servác
 ======
+
+| U doktora Serváce
+| nabízejí ablace.
+| Je to jejich denním chlebem,
+| prý tam snesou modré z nebe.
+| Také umí kastrace. 
 	
 Bonifác
 =======
+
+| Na studiích Bonifáce
+| zaujaly kolokace.
+| V lese stojí černá tůň,
+| u ní leží bílý kůň.
+| Čeká jej tam kompostace. 
 
 Žofie
 =====
