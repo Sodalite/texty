@@ -1410,14 +1410,23 @@ Bonifác
 Žofie
 =====
 
-Sofie
-=====
-	
 Přemysl
 =======
-	
+
+| Vykřikuje Přemysl:
+| "Špinavý je průmysl!
+| Zapomeňte na domy,
+| pojďme zpátky na stromy!"
+| Hloupost či zlý úmysl?
+
 Aneta
 =====
+
+| Ptá se večer Aneta:
+| "Pluto není planeta?"
+| Dříve bylo, dneska ale
+| z definice už je malé.
+| Jako velká kometa. 
 
 Nataša
 ======
