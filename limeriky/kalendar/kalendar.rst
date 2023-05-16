@@ -1410,6 +1410,15 @@ Bonifác
 Žofie
 =====
 
+<<<<<<< Updated upstream
+=======
+| Vytahovala se v lese Žofie,
+| že prý netušíme, co je nastie.
+| Najednou ji přes hubu
+| švihla větev od dubu.
+| Tak se do života plete biologie.
+
+>>>>>>> Stashed changes
 Přemysl
 =======
 
