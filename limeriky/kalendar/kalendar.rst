@@ -145,3 +145,113 @@ Lidé z kalendáře
 | Poskládal se jako z karet,
 | kdosi čeká na lazaret.
 | Stovku Charón převede.
+
+04
+==
+
+| Zkouší Henry quadricykl
+| prudce sykl, krátce kvikl.
+| Každý rázem pozná,
+| že to bolest hrozná.
+| Varlata si na něm scvikl.
+
+05
+==
+
+| Věnuju se espressu
+| na sedačce v expresu.
+| Nancy, Mnichov, Vídeň, Niš -
+| nový život už je blíž.
+| Se starým se nesnesu.
+
+06
+==
+
+| Ležíme tu na pláži,
+| s veškerou svou bagáží. 
+| Domů nikdo nepůjde, 
+| byť je večer. Večer D.
+| Postupně nás odváží. 
+
+07
+==
+
+| Mohou jenom nahlas klíti,
+| vozy už se na ně řítí
+| a na kopci krpatém
+| mává slepec palcátem.
+| Pražané jsou celkem v řiti.
+
+08
+==
+
+| Mniši, mnozí nahatí,
+| utíkají k úpatí
+| na ostrově Lindisfarne.
+| Stejně je to všechno marné.
+| Pobijí je rohatí.
+
+09
+==
+
+| Na vrch zbývá už jen kousek,
+| v ruksaku mám něco housek.
+| Před vrcholem Falčan Kangri
+| cítím se být "rather hungry".
+| Zapomněl jsem na ubrousek. 
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
