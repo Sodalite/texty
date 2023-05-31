@@ -119,8 +119,8 @@ Lidé z kalendáře
 | nezapomeň, že jsi v Brně."
 | "Jdi s tou skepsí do háje."
 
-1. červen
-=========
+1. červen Měnová reforma (1953)
+===============================
 
 | Večer holka copatá
 | pořádně mě prohmatá.
@@ -128,8 +128,8 @@ Lidé z kalendáře
 | A hned ráno už mám hovno.
 | Měl jsem vložit do zlata.
 
-02
-==
+2. Edvard Beneš podepsal abdikační dopis (1948)
+===============================================
 
 | "Copak smutníš, Beneši,
 | vládnout už tě netěší?"
@@ -137,8 +137,8 @@ Lidé z kalendáře
 | ke kormidlu s komunisty!"
 | "To se v Moskvě potěší."
 
-03
-==
+3. Železniční neštěstí v Eschede (1998)
+=======================================
 
 | Na nádraží v Eschede:
 | "Kurva, ten vlak nejede!"
@@ -146,8 +146,8 @@ Lidé z kalendáře
 | kdosi čeká na lazaret.
 | Stovku Charón převede.
 
-04
-==
+4. Henry Ford dokončil quadricykl (1896)
+========================================
 
 | Zkouší Henry quadricykl
 | prudce sykl, krátce kvikl.
@@ -155,8 +155,8 @@ Lidé z kalendáře
 | že to bolest hrozná.
 | Varlata si na něm scvikl.
 
-05
-==
+5. První Orient Express odjel z Paříže (1883)
+=============================================
 
 | Věnuju se espressu
 | na sedačce v expresu.
@@ -164,8 +164,8 @@ Lidé z kalendáře
 | nový život už je blíž.
 | Se starým se nesnesu.
 
-06
-==
+6. Vylodění v Normandii (1944)
+==============================
 
 | Ležíme tu na pláži,
 | s veškerou svou bagáží. 
@@ -173,8 +173,8 @@ Lidé z kalendáře
 | byť je večer. Večer D.
 | Postupně nás odváží. 
 
-07
-==
+7. Bitva u Malešova (1424)
+==========================
 
 | Mohou jenom nahlas klíti,
 | vozy už se na ně řítí
