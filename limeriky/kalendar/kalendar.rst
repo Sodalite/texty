@@ -182,8 +182,8 @@ Lidé z kalendáře
 | mává slepec palcátem.
 | Pražané jsou celkem v řiti.
 
-08
-==
+8. Vypálení kláštera Lindisfarne
+================================
 
 | Mniši, mnozí nahatí,
 | utíkají k úpatí
@@ -191,8 +191,8 @@ Lidé z kalendáře
 | Stejně je to všechno marné.
 | Pobijí je rohatí.
 
-09
-==
+9. Prvovýstup na Broad Peak
+===========================
 
 | Na vrch zbývá už jen kousek,
 | v ruksaku mám něco housek.
@@ -200,8 +200,8 @@ Lidé z kalendáře
 | cítím se být "rather hungry".
 | Zapomněl jsem na ubrousek. 
 
-10
-==
+10. Vypálení Lidic (1942)
+=========================
 
 | Ještě chvíli stojí ves,
 | pláče dítě, štěká pes.
@@ -209,8 +209,8 @@ Lidé z kalendáře
 | divá, černá orlice.
 | Pak se na kraj smutek snes. 
 
-11
-==
+11. Napoleon zabral Maltu
+=========================
 
 | Povídala v temném altu:
 | "Nemáme už žádnou maltu!
@@ -218,13 +218,38 @@ Lidé z kalendáře
 | tvrdil, že je Napoleon.
 | Potom zmizel v rychlém kvaltu."
 
-12
-13
-14
-15
-16
-17
-18
+12. Podmokelský poklad (1771)
+=============================
+
+| Archeolog v Podmoklech
+| pátral po mamutích klech.
+| Najednou se z hlíny
+| vyloup' nález jiný.
+| Depot mincí po Keltech.
+
+13. Guns'n'Roses v Praze (2006)
+===============================
+
+| Mávám, křičím: "Tak už hraj!"
+| A on zpívá: "Babe, don't cry."
+| Potom do mně jemně vklouz'
+| v zákulisí Axel Rose.
+| Sedmé nebe, druhý ráj.
+
+14. Premiéra písně Temně hučí Niagára (1931)
+===========================================
+
+15. Prokop Diviš sestavil bleskosvod (1754)
+===========================================
+
+16. Pád balónu Kysibelka (1891)
+===============================
+
+17. Vystoupení proti odpustkům (1412)
+=====================================
+
+18. Boj v kostele sv. Cyrila a Metoděje (1942)
+==============================================
 19
 20
 21
