@@ -236,11 +236,23 @@ Lidé z kalendáře
 | v zákulisí Axel Rose.
 | Sedmé nebe, druhý ráj.
 
-14. Premiéra písně Temně hučí Niagára (1931)
+14. Premiéra písně Teskně hučí Niagára (1931)
 ===========================================
+
+| Ono trampské milování,
+| je jen také zevlování.
+| Co s tím taky - fena hárá,
+| v dálce hučí Niagára.
+| Věnujme se grilování.
 
 15. Prokop Diviš sestavil bleskosvod (1754)
 ===========================================
+
+| Nebezpečné blesky, hromy
+| často hoří naše domy.
+| Hromosvody, co se divíš,
+| instaluje firma Diviš.
+| Zaměstnává také Romy.
 
 16. Pád balónu Kysibelka (1891)
 ===============================
