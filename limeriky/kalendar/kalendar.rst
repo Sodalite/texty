@@ -260,6 +260,12 @@ Lidé z kalendáře
 17. Vystoupení proti odpustkům (1412)
 =====================================
 
+| Proč má shořet jako vích
+| kdesi v pekle za svůj hřích?
+| Čest se znova navrátí
+| tomu, kdo si zaplatí.
+| Jeroným si smutně vzdych.
+
 18. Boj v kostele sv. Cyrila a Metoděje (1942)
 ==============================================
 19
