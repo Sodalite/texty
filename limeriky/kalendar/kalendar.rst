@@ -269,11 +269,11 @@ Lidé z kalendáře
 18. Boj v kostele sv. Cyrila a Metoděje (1942)
 ==============================================
 19
-20
-21
-22
-23
-24
+20 | To se děje špatná věc,
+21 | když se úkryt změní v klec.
+22 | Tlukot srdce, chladný pot,
+23 | z venčí dusot těžkých bot.
+24 | Z rohu kyne umrlec.
 25
 26
 27
