@@ -257,6 +257,12 @@ Lidé z kalendáře
 16. Pád balónu Kysibelka (1891)
 ===============================
 
+| Z koše zazní rázně: “Ano,
+| kotevni teď pusťte lano!”
+| Nejprv stoupá do nebe
+| a pak se to dojebe.
+| Spadli dolů. Nevídáno.
+
 17. Vystoupení proti odpustkům (1412)
 =====================================
 
@@ -275,13 +281,39 @@ Lidé z kalendáře
 | z venčí dusot těžkých bot.
 | Z rohu kyne umrlec.
 
-19
-20
-21
-22
-23
-24
-25
+19. Let Jana Kašpara (1910)
+===========================
+
+| Nedělej tu kašpara!
+| Říkám, tahle almara
+| stejně nikam nepoletí.
+| Na to vsadím vlastní děti
+| a počkám si do jara.
+
+20. Poslušenství Ferdinandovi III. (1628)
+=========================================
+
+21. Poprava 27. českých pánů (1620)
+===================================
+
+| "Má mě ráda, nemá ráda,
+| švihnu mečem, hlava padá.
+| Nechápu jen, proč by kat,
+| také nemoh' milovat.
+| Poslední švih - má mě ráda."
+
+22. Dokončení Karlova mostu (1503)
+==================================    
+
+23. První veřejné osvětlení v Písku (1887)
+==========================================
+
+24. Desátý přelet Halleyovy komety (451)
+========================================
+
+25. Dvouletý Václav IV. korunován českým králem (1363)
+======================================================
+
 26
 27
 28
