@@ -290,8 +290,14 @@ Lidé z kalendáře
 | Na to vsadím vlastní děti
 | a počkám si do jara.
 
-20. Poslušenství Ferdinandovi III. (1628)
-=========================================
+20. Krvavé Boží tělo v Kladně (1628)
+====================================
+
+| Zase fáráš na lípačku,
+| stejně nemáš ani kačku.
+| Bacherovi za to trest.
+| Hrubá dlaň se sevře v pěst.
+| To tys dostal nakládačku.
 
 21. Poprava 27. českých pánů (1620)
 ===================================
