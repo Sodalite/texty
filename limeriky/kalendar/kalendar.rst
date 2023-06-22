@@ -311,8 +311,20 @@ Lidé z kalendáře
 22. Dokončení Karlova mostu (1503)
 ==================================    
 
+| Do Velvar k nám přijel prodejce,
+| že si zase jede pro vejce.
+| Starosta vstal prudce: "Tak už dost!
+| Kdy už dostavíte ten váš most?"
+| "Neudělej chybu v dodejce!"
+
 23. První veřejné osvětlení v Písku (1887)
 ==========================================
+
+| Běží tlupa dětí rychlým tryskem
+| od severu k jihu celým Pískem.
+| Staré babky: "Co je? Co má býti?"
+| Děcka zase na to: "Už to svítí."
+| Křižík si je jistý slušným ziskem.
 
 24. Desátý přelet Halleyovy komety (451)
 ========================================
