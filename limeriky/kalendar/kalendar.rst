@@ -329,6 +329,12 @@ Lidé z kalendáře
 24. Desátý přelet Halleyovy komety (451)
 ========================================
 
+| Mnohokráte prokletá,
+| Mléčnou dráhu zametá.
+| Co se děje, že se ptáte?
+| Dneska je tu podesáté
+| hvězda s vlasy. Kometa.
+
 25. Dvouletý Václav IV. korunován českým králem (1363)
 ======================================================
 
