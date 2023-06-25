@@ -338,6 +338,12 @@ Lidé z kalendáře
 25. Dvouletý Václav IV. korunován českým králem (1363)
 ======================================================
 
+| Dneska dají ti tvůj kříž,
+| tíhou hlava klesá níž.
+| Jistě by sis radši hrál,
+| místo toho už jsi král.
+| Toho se už nezbavíš.
+
 26
 27
 28
