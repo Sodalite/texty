@@ -230,11 +230,29 @@ Lidé z kalendáře
 26. Krysař z Hameln (1284)
 ==========================
 
+| Na píšťalu začal misi,
+| mašírují branou krysy.
+| Jak se sliby mění v smetí,
+| odcházejí branou děti.
+| Ne vždy projdou kompromisy.
+
 27. První čistička odpadních vod v Bubenči (1906)
 =================================================
 
+| Čistička je v Bubenči
+| to se nám to, lidé, chčí.
+| Také se nám dobře sere.
+| To je prostě dílo, které
+| o svém smyslu přesvědčí.
+
 28. Chuchelská bitka (1881)
 ===========================
+
+| To se takhle spolu sčuchli
+| Češi, Němci v Malé Chuchli.
+| Jak zahrály klarinety,
+| rozbili si svorně rety.
+| Ještě doteď nejsou zpuchlý.
 
 29. Odstoupení Podkarpatské Rusi (1945)
 =======================================
