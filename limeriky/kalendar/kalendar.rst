@@ -374,42 +374,18 @@ Lidé z kalendáře
 29. Odstoupení Podkarpatské Rusi (1945)
 =======================================
 
+| To zas jednou přišli Rusi,
+| naše země pod ně musí:
+| "Z Užgorodu k Chustu!
+| Nebraňte nám v růstu."
+| Postavit se? Kdo to zkusí?
+
 30. Teorie relativity (1905)
 ============================
 
-01. červenec První telefonní seznam v Praze (1883)
-=================================================
-
-02. Patent prvního využitelného parního stroje (1698)
-=====================================================
-
-03
-04
-05
-06
-07
-08
-09
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
+| Co si myslíš, hlupáku,
+| když tak sedíš ve vlaku,
+| opájíš se strašnou lží:
+| Prý se hýbe nádraží.
+| Uvažuj o opaku!
 
