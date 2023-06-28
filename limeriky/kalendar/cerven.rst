@@ -257,6 +257,18 @@ Lidé z kalendáře
 29. Odstoupení Podkarpatské Rusi (1945)
 =======================================
 
+| To zas jednou přišli Rusi,
+| naše země pod ně musí:
+| "Z Užgorodu k Chustu!
+| Nebraňte nám v růstu."
+| Postavit se? Kdo to zkusí?
+
 30. Teorie relativity (1905)
 ============================
+
+| Co si myslíš, hlupáku,
+| když tak sedíš ve vlaku,
+| opájíš se strašnou lží:
+| Prý se hýbe nádraží.
+| Uvažuj o opaku!
 
