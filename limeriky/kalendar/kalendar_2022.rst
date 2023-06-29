@@ -18,7 +18,7 @@ Karina
 | svojí Toyotou Carina
 | sviští krajem, cesty řeže,
 | za volantem skoro vleže,
-| cítí se jako Farina.
+| cítí se jako ten Farina.
 
 Radmila
 =======
