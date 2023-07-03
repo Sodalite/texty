@@ -23,6 +23,11 @@ Lidé z kalendáře
 3. Rozbíjení strojů (1844)
 ==========================
 
+| "Smysl žití hned se ztrácí,
+| když nám stroje berou práci.
+| Hotovme se k boji hned,
+| vezmeme si zpět svůj svět."
+| V zápětí se stavy kácí.
 
 4. Krameriovy CK Poštovské noviny (1789)
 ========================================
