@@ -32,6 +32,12 @@ Lidé z kalendáře
 4. Krameriovy CK Poštovské noviny (1789)
 ========================================
 
+| Na horách jsou laviny,
+| v Americe roviny,
+| chlastem trpí ledviny,
+| nová cesta na Sviny.
+| Píšou o tom noviny.
+
 5. Základní kámen pomníku Jana Husa (1905)
 ==========================================
 
