@@ -86,17 +86,47 @@ Lidé z kalendáře
 10. První písemná zmínka o Brně (1091)
 ======================================
 
+| Měšťané se válí líně
+| ve svém malém městě v hlíně.
+| Vratislav je doběhl
+| celou vísku oblehl.
+| Všichni jsou už v brnu. V špíně.
+
 11. Kulový blesk nad Jimramovem (1619)
 ======================================
+
+| V Jimramově trhal kdoule,
+| potom chvíli leštil koule.
+| Krajem zářil koulí lesk,
+| mysleli si, že to blesk.
+| Energie v gigajoulech.
 
 12. Otevření prvního úseku D1 (1971)
 ====================================
 
+| Stojí nová dálnice
+| až na Mirošovice.
+| A pak dál od Senohrab
+| už se vleču jako krab.
+| Sotva na Hvězdonice.
+
 13. Nalezení Věstonické Venuše (1925)
 =====================================
 
+| Seidl hrabe do hlíny,
+| vidí obří obliny.
+| Vykopal, to netuší,
+| Věstonickou venuši.
+| Zatím do poloviny.
+
 14. Povinné hlášení tuberkulózy (1902)
 ======================================
+
+| Tahle babka dosti chrchlá,
+| potom na zem plive chrchla.
+| Chápu, že as hodně zkusí,
+| ale hlásit se to musí.
+| Mezitím však kamsi prchla.
 
 15. Úmrtí Boleslava I. Ukrutného (972)
 ======================================
@@ -116,7 +146,15 @@ Lidé z kalendáře
 | parádně mě ojely
 | jak se patří ty dvě nové vdovy.
 
-17. Vystoupení proti odpustkům (1412)
-=====================================
+17. Projev na Červeném hrádku (1989)
+====================================
+
+| Hanka, to je hodná holka,
+| nebojí se mého kolka.
+| S radostí mě udělá,
+| pak si hodně vydělá.
+| Odvázaná komsomolka.
+|
+| A pak mi ho zandá ... Janda.
 
 
