@@ -38,20 +38,50 @@ Lidé z kalendáře
 | nová cesta na Sviny.
 | Píšou o tom noviny.
 
-5. Základní kámen pomníku Jana Husa (1905)
-==========================================
+5. Příchod Cyrila a Metoděje (863)
+==================================
+
+| V řece Cyril hlaholí,
+| že ho vlk už nebolí.
+| Metúd zase s Biblí
+| směje se jak šiblý.
+| Stačí přejít údolí.
 
 6. Upálení Jana Husa (1415)
 ===========================
 
+| Červená se line záře,
+| už se lepí škára k škáře.
+| Oheň!
+| Oheň!
+| Hřeje ruce, barví tváře.
+
 7. Příjezd prvního vlaku do Brna (1839)
 =======================================
 
-8. Hádání v Kutné Hoře (1443)
-=============================
+| Sbory pějí na kůru,
+| fangle věším na šňůru.
+| Těžká práce nese zrna,
+| vlak už přijel až do Brna.
+| Přivezl nám kultůru.
+
+8. Čtyři artikuly pražské (1420)
+================================
+
+| Potom tomu na kloubek,
+| přišel jakýs Jakoubek.
+| Na setkání pikle kuli -
+| čtyři pražské artikuly.
+| Mrknou církvi na zoubek.
 
 9. Základní kámen Karlova mostu (1357)
 ======================================
+
+| S Juditiným mostem ámen,
+| na nový teď nesu kámen.
+| Šel jsem močit do hlohu,
+| šutr spad mi na nohu.
+| Mistr se mi strašně chláme.
 
 10. První písemná zmínka o Brně (1091)
 ======================================
