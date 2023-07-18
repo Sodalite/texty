@@ -1,7 +1,7 @@
 # Za zavřenými dveřmi
 
 Padáš do černé díry  
-snad už to poznáváš  
+snad to poznáváš  
 a čekáš, že tě zachráním.  
 Držíš se hloupé víry,  
 že ve všem pravdu máš,  
@@ -21,8 +21,8 @@ Už mě nebaví, být stále jen ta špatná.
 Jsem zkrátka v lichocení jenom neobratná.
 
 Jen Bůh ví, kde se zjevíš,  
-která ti naletí  
-a těžký kříž tvůj zkusí nést?  
+která ti naletí,  
+těžký kříž tvůj zkusí nést?  
 Že skvělý se jen jevíš,  
 pochopí v zápětí,  
 a že být s tebou je jak trest?
