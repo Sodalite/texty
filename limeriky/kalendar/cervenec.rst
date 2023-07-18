@@ -157,4 +157,34 @@ Lidé z kalendáře
 |
 | A pak mi ho zandá ... Janda.
 
+18. Klatba Jana Husa (1410)
+===========================
+
+| Hej, pane Zajíci,
+| knír na nás mající,
+| tváříš se upjatě,
+| na Husa proklatě.
+| Můžeš bejt maharadža, nám je to fuk.
+
+19. Velký požár Říma (64)
+=========================
+
+| Podle kouře vím,
+| že nám blafl Řím.
+| "Lásko, zdrhnout nemůžem!"
+| "Mám rád vůni tvý kůže!"
+| "To jsi zabil tím."
+
+20. První bezkontaktní platba v Česku (2011)
+============================================
+
+21. První souboj Divokého Západu (1865)
+=======================================
+
+22. Dvouměsíční déšť v Čechách (1270)
+=====================================
+
+23. Objevení první zemipodobné planety (2015)
+=============================================
+
 
