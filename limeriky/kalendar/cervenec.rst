@@ -178,6 +178,12 @@ Lidé z kalendáře
 20. První bezkontaktní platba v Česku (2011)
 ============================================
 
+| Vcházím dovnitř, úsměv na rtu,
+| vezmu nákup, táhnu kartu.
+| "Kartou platit za tři bulky?
+| Leda strčit mezi půlky!"
+| "Tam v té kóji z umakartu?"
+
 21. První souboj Divokého Západu (1865)
 =======================================
 
