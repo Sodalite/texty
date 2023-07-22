@@ -187,8 +187,20 @@ Lidé z kalendáře
 21. První souboj Divokého Západu (1865)
 =======================================
 
+| Dvanáctá teď odbyla,
+| krev se prachem rozlila.
+| Oba naráz tasí,
+| avšak Tutt to zprasí.
+| Dostal kulku od Billa.
+
 22. Dvouměsíční déšť v Čechách (1270)
 =====================================
+
+| Prší, prší, jen se lije,
+| zemědělec nadšený je.
+| A pak prší ještě víc,
+| zemědělec nemá nic.
+| Úroda mu celá hnije.
 
 23. Objevení první zemipodobné planety (2015)
 =============================================
