@@ -205,4 +205,38 @@ Lidé z kalendáře
 23. Objevení první zemipodobné planety (2015)
 =============================================
 
+| Co to vidím tuhle tu?
+| Terestrickou planetu.
+| Je to proto, že tu slopu,
+| či jsem drb do teleskopu?
+| Snad se probůh nepletu.
 
+24. Natáčení písně Dům holubí (1973)
+====================================
+
+| "Hledám dům holubí,
+| kdopak z vás cestu ví?"
+| "Nesu ti to na podnose,
+| holubi přec bydlí v nose,
+| mírně slaní, fajnoví."
+
+25. Švédské vojsko krade v Praze (1648)
+=======================================
+
+26. Vydání knihy Babička (1855)
+===============================
+
+27. Kevin Budden chytil taipana velkého (1950)
+==============================================
+
+28. Největší letecká havárie ČSA v ČSSR (1976)
+==============================================
+
+29. Svatba Charlese a Diany (1981)
+==================================
+
+30. Venclovský přeplaval La Manche (1971)
+=========================================
+
+31. Připojení Valticka k Československu (1920)
+==============================================
