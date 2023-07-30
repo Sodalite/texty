@@ -223,20 +223,58 @@ Lidé z kalendáře
 25. Švédské vojsko krade v Praze (1648)
 =======================================
 
+| Velký strak houf k nám se slét,
+| mizí sbírky v širý svět.
+| Pak už tady mnoho není,
+| zůstalo jen staré rčení:
+| "Krade, jako v Praze Švéd."
+
 26. Vydání knihy Babička (1855)
 ===============================
+
+| Do očí zasvítí paprsky sluníčka,
+| na malé zápraží vychází babička.
+| Na Starém Bělidle
+| šlápnula na vidle,
+| které tam ležely uprostřed chodníčka.
 
 27. Kevin Budden chytil taipana velkého (1950)
 ==============================================
 
+| Co se stalo propána?
+| Kevin chytil tajpána.
+| Tomu těžko věřil bys,
+| had ho jenom mírně hryz'
+| a byl tuhý do rána.
+
 28. Největší letecká havárie ČSA v ČSSR (1976)
 ==============================================
+
+| Na ten čudlík nesahej!
+| Kruci. Za to netahej!
+| Křach a prásk, bum, třesky, plesky,
+| tohle budou Zlaté Piesky.
+| Šéf teď bude asi zlej.
 
 29. Svatba Charlese a Diany (1981)
 ==================================
 
+| Lidé o ní říkají, že je v lásce nestálá,
+| ona zatím potají jediného v mysli má.
+| V jejich očích jako tůň
+| zrcadlí se britský kůň.
+| Krásná a bláhová, Diana.
+
 30. Venclovský přeplaval La Manche (1971)
 =========================================
 
+| Vyšel jako múza z vlny,
+| zážitků a vody plný.
+| Teď je kolem všechno mastné.
+| Říká: "Tož, já su tak šťastné."
+| A teď rychle do bavlny.
+
+
 31. Připojení Valticka k Československu (1920)
 ==============================================
+
