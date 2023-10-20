@@ -25,6 +25,7 @@
 [Vysoce inteligentní robot](original/robot.md)  
 [Zamilovaný chemik](original/chemik.md)  
 [Žába na prameni](original/zaba.md)  
+[Zůstaň se mnou](original/zustan-se-mnou.md)  
 
 ## Překlady textů
 
