@@ -24,17 +24,34 @@ zůstaň se mnou
 zůstaň se mnou  
 protože teď už vím  
 že ty jsi pro mě vším.
+
+A tak cestou svou  
+dneska dál už nejdu sám  
+stojíš vedle mě  
+na to já se spolehám,   
+že když ztratím směr  
+a bloudit budu tmou  
+tak mi ruku dáš  
+a já půjdu za tebou.
+
 Tak zůstaň se mnou  
 zůstaň se mnou  
 zůstaň se mnou  
 protože teď už vím  
-že jsi mým spasením.
+že ty jsi pro mě vším.
 
-Další sloka
+Jsi moje horko i mráz  
+jsi moje řeka i hráz  
+jsi střela i zpětný ráz
+víc než se zdá.
+Jsi moje sytost i hlad  
+jsi můj vzestup i pád  
+na skále pevný můj hrad  
+jsi moje já.
 
-Refrén
-
-Bridge: Ami F Ami F Ami F ... G
-
-Refrén
+Tak zůstaň se mnou  
+zůstaň se mnou  
+zůstaň se mnou  
+protože teď už vím  
+že ty jsi pro mě vším.
 
