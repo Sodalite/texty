@@ -1,0 +1,579 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.11)  1 APR 2023 07:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**zpevnik_lukas_ruzicka.tex
+(./zpevnik_lukas_ruzicka.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-12-17>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language4
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-czech/czech.ldf
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Czech' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 53.
+
+Package babel Info: Hyphen rules for 'czech' set to \l@english
+(babel)             (\language0). Reported on input line 54.
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count195
+Package babel Info: Making - an active character on input line 226.
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/cs/babel-czech.tex
+Package babel Info: Importing font and identification data for czech
+(babel)             from babel-cs.ini. Reported on input line 11.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen140
+\stockheight=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2022/09/12 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 483.
+
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count197
+\mult@box=\box51
+\multicol@leftmargin=\dimen142
+\c@unbalance=\count198
+\c@collectmore=\count199
+\doublecol@number=\count266
+\multicoltolerance=\count267
+\multicolpretolerance=\count268
+\full@width=\dimen143
+\page@free=\dimen144
+\premulticols=\dimen145
+\postmulticols=\dimen146
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen147
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count269
+\c@columnbadness=\count270
+\c@finalcolumnbadness=\count271
+\last@try=\dimen148
+\multicolovershoot=\dimen149
+\multicolundershoot=\dimen150
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count272
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks20
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (731.23582pt) is ignored.
+
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 20.
+(/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box96
+)
+(./zpevnik_lukas_ruzicka.aux (./pisnickar.aux) (./kensington-road.aux)
+(./mila-sally.aux) (./liska-a-vrana.aux) (./fronta-na-vleky.aux)
+(./limeriky1.aux) (./ad863.aux) (./moje-ricka.aux) (./zamilovany-chemik.aux)
+(./vrazda-tety.aux) (./konkurz.aux) (./kam-jdete-zeny.aux) (./limeriky2.aux)
+(./milenci-s-rovnatky.aux) (./zaba-na-prameni.aux) (./vyber-z-bobuli.aux)
+(./priletel-orel.aux) (./ja-se-houpu.aux) (./drak-pod-posteli.aux)
+(./la-belle-dame.aux) (./limeriky3.aux) (./vezmi-me-tato.aux) (./jedu-domu.aux)
+(./vlasy-bereniky.aux) (./postovni.aux) (./u-reky-moravy.aux) (./cernobile.aux)
+(./zambezi.aux))
+\openout1 = `zpevnik_lukas_ruzicka.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count277
+\scratchdimen=\dimen159
+\scratchbox=\box97
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen160
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks22
+)
+\c@mv@tabular=\count283
+\c@mv@boldtabular=\count284
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(42.67912pt, 759.6886pt, 42.67912pt)
+* v-part:(T,H,B)=(28.45274pt, 483.69684pt, 85.35829pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=759.6886pt
+* \textheight=483.69684pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=134.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 22.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+[1
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `pisnickar.aux'.
+
+
+(./pisnickar.tex
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 1.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 1.
+) [1
+
+]
+\openout2 = `kensington-road.aux'.
+
+ (./kensington-road.tex) [2
+
+
+
+]
+\openout2 = `mila-sally.aux'.
+
+ (./mila-sally.tex) [3
+
+
+
+]
+\openout2 = `liska-a-vrana.aux'.
+
+
+(./liska-a-vrana.tex) [4
+
+
+
+]
+\openout2 = `fronta-na-vleky.aux'.
+
+ (./fronta-na-vleky.tex) [5
+
+
+
+]
+\openout2 = `limeriky1.aux'.
+
+ (./limeriky1.tex
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 7.
+)
+[6
+
+
+
+]
+\openout2 = `ad863.aux'.
+
+ (./ad863.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 10.
+) [7
+
+
+
+]
+\openout2 = `moje-ricka.aux'.
+
+ (./moje-ricka.tex) [8
+
+
+
+]
+\openout2 = `zamilovany-chemik.aux'.
+
+ (./zamilovany-chemik.tex) [9
+
+
+
+]
+\openout2 = `vrazda-tety.aux'.
+
+
+(./vrazda-tety.tex) [10
+
+
+
+]
+\openout2 = `konkurz.aux'.
+
+ (./konkurz.tex) [11
+
+
+
+]
+\openout2 = `kam-jdete-zeny.aux'.
+
+ (./kam-jdete-zeny.tex) [12
+
+
+
+]
+\openout2 = `limeriky2.aux'.
+
+
+(./limeriky2.tex) [13
+
+
+
+]
+\openout2 = `milenci-s-rovnatky.aux'.
+
+ (./milenci-s-rovnatky.tex) [14
+
+
+
+]
+\openout2 = `vyber-z-bobuli.aux'.
+
+ (./vyber-z-bobuli.tex)
+[15
+
+
+
+]
+\openout2 = `priletel-orel.aux'.
+
+ (./priletel-orel.tex) [16
+
+
+
+]
+\openout2 = `ja-se-houpu.aux'.
+
+ (./ja-se-houpu.tex) [17
+
+
+
+]
+\openout2 = `drak-pod-posteli.aux'.
+
+
+(./drak-pod-posteli.tex) [18
+
+
+
+]
+\openout2 = `la-belle-dame.aux'.
+
+ (./la-belle-dame.tex) [19
+
+
+
+]
+\openout2 = `limeriky3.aux'.
+
+ (./limeriky3.tex)
+[20
+
+
+
+]
+\openout2 = `vezmi-me-tato.aux'.
+
+ (./vezmi-me-tato.tex) [21
+
+
+
+]
+\openout2 = `jedu-domu.aux'.
+
+ (./jedu-domu.tex) [22
+
+
+
+]
+\openout2 = `vlasy-bereniky.aux'.
+
+ (./vlasy-bereniky.tex)
+[23
+
+
+
+]
+\openout2 = `zaba-na-prameni.aux'.
+
+ (./zaba-na-prameni.tex) [24
+
+
+
+]
+\openout2 = `postovni.aux'.
+
+ (./postovni.tex) [25
+
+
+
+]
+\openout2 = `u-reky-moravy.aux'.
+
+ (./u-reky-moravy.tex)
+[26
+
+
+
+]
+\openout2 = `cernobile.aux'.
+
+ (./cernobile.tex) [27
+
+
+
+]
+\openout2 = `zambezi.aux'.
+
+ (./zambezi.tex) [28
+
+
+
+] (./zpevnik_lukas_ruzicka.aux
+(./pisnickar.aux) (./kensington-road.aux) (./mila-sally.aux)
+(./liska-a-vrana.aux) (./fronta-na-vleky.aux) (./limeriky1.aux) (./ad863.aux)
+(./moje-ricka.aux) (./zamilovany-chemik.aux) (./vrazda-tety.aux) (./konkurz.aux
+) (./kam-jdete-zeny.aux) (./limeriky2.aux) (./milenci-s-rovnatky.aux)
+(./vyber-z-bobuli.aux) (./priletel-orel.aux) (./ja-se-houpu.aux)
+(./drak-pod-posteli.aux) (./la-belle-dame.aux) (./limeriky3.aux)
+(./vezmi-me-tato.aux) (./jedu-domu.aux) (./vlasy-bereniky.aux)
+(./zaba-na-prameni.aux) (./postovni.aux) (./u-reky-moravy.aux) (./cernobile.aux
+) (./zambezi.aux)) ) 
+Here is how much of TeX's memory you used:
+ 5512 strings out of 478091
+ 104378 string characters out of 5841934
+ 1873793 words of memory out of 6000000
+ 25341 multiletter control sequences out of 15000+600000
+ 553106 words of font info for 58 fonts, out of 8000000 for 9000
+ 34 hyphenation exceptions out of 8191
+ 55i,9n,64p,223b,309s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lb
+tn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76g
+pa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertin
+eT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinLibertine
+TB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on zpevnik_lukas_ruzicka.pdf (29 pages, 252903 bytes).
+PDF statistics:
+ 124 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
