@@ -36,13 +36,13 @@ a krásné chvíle rázem vyblednou.
 Náhle zbývá mezi námi už jen málo  
 hledám způsob jak tě neztratím   
 mezi námi už není co by za řeč stálo   
-kdo z nás však účty ještě zaplatí.
+kdo z nás účty ještě zaplatí.
 
 Ztrácím tě, ztrácím, už na tebe nedosáhnu    
 ztrácím tě, ztrácím, znenadání,    
 v donedávnu.
 
 Můžu přát si, aby ses mi v noci zdála   
-jednou, dvakrát, a taky potřetí     
+jednou, dvakrát, a snad i potřetí     
 vzpomínám si, že jsi mě kdysi milovala   
 prosím, řekni, lásko, co je ti?
