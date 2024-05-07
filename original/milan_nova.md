@@ -1,8 +1,8 @@
-Ná ná na ná na ná
-na ná na na na na na ná
-ná ná na ná na ná
-na ná na na na na na ná
-na na ná 
-na na na ná
-na na ná 
-na na na ná
+Vstávám, a zas nám svítá,
+domem se zase tvůj křik ozývá,
+vařím ranní kávu
+u nás se takhle křičívá.
+Kde jen jsou
+všechna snění?
+Přemýšlím,
+zda se změníš?
