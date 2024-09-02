@@ -18,6 +18,7 @@
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
 [Muzikantka](original/muzikantka.md)  
+[Opuštěná kytara](original/kytara.md)  
 [Příběh pana Šedého](original/dgray.md)  
 [Přiletěl orel](original/priletel-orel.md)  
 [Rovnátka](original/rovnatka.md)  
