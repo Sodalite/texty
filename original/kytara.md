@@ -34,7 +34,7 @@ a na tvé zamračené nebe,
 já budu skvělý hromosvod.  
 Vždyť taky jenom hledám spásu,  
 tak mi už dovol s tebou být,  
-stačí jen dotykem jemným,  
+stačí jen dotekem vlasů,  
 všechny mé struny rozeznít.  
 
 Éterem ještě doznívají slova,  
