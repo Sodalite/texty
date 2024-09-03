@@ -45,13 +45,13 @@ opuštěné hodnoty,
 promrhané životy --  
 básníkovy trampoty.
 
-Už to zkouším naposledy,
-beze zbytků invence,
-po papíru kreslím můry,
-brouky, mouchy, mravence.
-Nakonec se rozparádím,
-náná lála a ou jé.
-"Teď jste trefil na hlavičku,
+Už to zkouším naposledy,  
+beze zbytků invence,  
+po papíru kreslím můry,  
+brouky, mouchy, mravence.  
+Nakonec se rozparádím,  
+náná lála a ou jé.  
+"Teď jste trefil na hlavičku,  
 je to prostě báječné."
 
 Noci plné samoty,  
