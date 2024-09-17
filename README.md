@@ -3,7 +3,8 @@
 ## Vlastní texty
 
 [AD 863](original/ad863.md)  
-[Básnikovy trampoty](original/basnikovy-trampoty.md)
+[Alexandrie](original/alexandrie.md)  
+[Básnikovy trampoty](original/basnikovy-trampoty.md)  
 [Černobíle](original/cernobile.md)  
 [Černá vráno](original/cerna_vrano.md)  
 [Drak pod postelí](original/drak.md)  
@@ -17,6 +18,7 @@
 [Miluju Miluši](original/miluse.md)  
 [Moje říčka](original/ricka.md)  
 [Moře](original/more.md)  
+[Paní učitelko](original/pani_ucitelko.md)  
 [Příběh pana Šedého](original/dgray.md)  
 [Přiletěl orel](original/priletel-orel.md)  
 [Rovnátka](original/rovnatka.md)  
@@ -47,6 +49,10 @@
 [Vše, jak má být (Paul Simon)](translated/vse-jak-ma-byt.md)  
 [Výt na Měsíc (Cheryl Wheeler)](translated/vytnamesic.md)  
 [Zlatá pláň (Sting)](translated/zlataplan.md)
+
+## Texty pro cizí interprety
+
+[Havraní doba (Milan Šána)](cizi/havrani_doba.md)  
 
 ## Limeriky
 [Bohatý z Kunovic](limeriky/bohaty_z_kunovic.md)  

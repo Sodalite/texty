@@ -18,12 +18,41 @@ láska, že spí s nenávistí,
 výsledek jim dávám, tiše!   
 Řekli mi, že je to klišé.  
 
-"Takže znova, naposledy,   
-vyznej muzám čistý cit!"  
+Noci plné samoty,  
+pití až do němoty,  
+prosezené kalhoty --  
+básníkovy trampoty.
+
+"Takže opět ještě jednou,   
+vyznej múzám čistý cit!"  
 V žaludku mě pálí vředy,   
 múzy ne se objevit.   
 Za stolem se hrozně vrtím,  
 potom píšu hold své smrti.   
 Děkují mi za to vřele,  
-poslali mě domů ...  
-... s tím, že je to skvělé.
+ale je to neumělé.
+
+Noci plné samoty,  
+pití až do němoty,  
+prosezené kalhoty --  
+básníkovy trampoty.
+
+Už to zkouším naposledy,  
+beze zbytků invence,  
+po papíru kreslím můry,  
+brouky, mouchy, mravence.  
+Nakonec se rozparádím,  
+náná lála a ou jé.  
+"Teď jste trefil na hlavičku,  
+je to prostě báječné."  
+
+Noci plné samoty,  
+pití až do němoty,  
+prosezené kalhoty --  
+básníkovy trampoty.
+
+Noci plné samoty,  
+pití až do němoty,  
+prosezené kalhoty --  
+básníkovy trampoty.
+
